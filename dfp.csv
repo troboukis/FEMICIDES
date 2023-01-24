@@ -1,0 +1,2212 @@
+Country,Year,Population,female_population,Female deaths,ICSS CRIME,LEGAL STATUS OF PERPETRATOR,Value,per_100k
+Austria,2012,8408121,4309977.0,41803.0,Intentional homicide,Suspected person,166.0,4.1
+Austria,2012,8408121,4309977.0,41803.0,Intentional homicide,Prosecuted person,366.0,8.9
+Austria,2012,8408121,4309977.0,41803.0,Intentional homicide,Convicted person,35.0,0.9
+Austria,2012,8408121,4309977.0,41803.0,Rape,Suspected person,1088.0,26.5
+Austria,2012,8408121,4309977.0,41803.0,Rape,Prosecuted person,1699.0,41.5
+Austria,2012,8408121,4309977.0,41803.0,Rape,Convicted person,170.0,4.1
+Austria,2012,8408121,4309977.0,41803.0,Sexual assault,Suspected person,1948.0,47.5
+Austria,2012,8408121,4309977.0,41803.0,Sexual assault,Prosecuted person,2649.0,64.6
+Austria,2012,8408121,4309977.0,41803.0,Sexual assault,Convicted person,213.0,5.2
+Austria,2013,8451860,4328238.0,41378.0,Intentional homicide,Suspected person,51.0,1.2
+Austria,2013,8451860,4328238.0,41378.0,Intentional homicide,Prosecuted person,345.0,8.4
+Austria,2013,8451860,4328238.0,41378.0,Intentional homicide,Convicted person,28.0,0.7
+Austria,2013,8451860,4328238.0,41378.0,Rape,Suspected person,1098.0,26.6
+Austria,2013,8451860,4328238.0,41378.0,Rape,Prosecuted person,1619.0,39.3
+Austria,2013,8451860,4328238.0,41378.0,Rape,Convicted person,190.0,4.6
+Austria,2013,8451860,4328238.0,41378.0,Sexual assault,Suspected person,1505.0,36.5
+Austria,2013,8451860,4328238.0,41378.0,Sexual assault,Prosecuted person,2505.0,60.7
+Austria,2013,8451860,4328238.0,41378.0,Sexual assault,Convicted person,109.0,2.6
+Austria,2014,8507786,4352447.0,40662.0,Intentional homicide,Suspected person,32.0,0.8
+Austria,2014,8507786,4352447.0,40662.0,Intentional homicide,Prosecuted person,302.0,7.3
+Austria,2014,8507786,4352447.0,40662.0,Intentional homicide,Convicted person,31.0,0.7
+Austria,2014,8507786,4352447.0,40662.0,Rape,Suspected person,1084.0,26.1
+Austria,2014,8507786,4352447.0,40662.0,Rape,Prosecuted person,1586.0,38.2
+Austria,2014,8507786,4352447.0,40662.0,Rape,Convicted person,185.0,4.5
+Austria,2014,8507786,4352447.0,40662.0,Sexual assault,Suspected person,1544.0,37.2
+Austria,2014,8507786,4352447.0,40662.0,Sexual assault,Prosecuted person,2421.0,58.3
+Austria,2014,8507786,4352447.0,40662.0,Sexual assault,Convicted person,120.0,2.9
+Austria,2015,8584926,4384529.0,43159.0,Intentional homicide,Suspected person,43.0,1.0
+Austria,2015,8584926,4384529.0,43159.0,Intentional homicide,Prosecuted person,322.0,7.7
+Austria,2015,8584926,4384529.0,43159.0,Intentional homicide,Convicted person,21.0,0.5
+Austria,2015,8584926,4384529.0,43159.0,Rape,Suspected person,1003.0,23.9
+Austria,2015,8584926,4384529.0,43159.0,Rape,Prosecuted person,1566.0,37.3
+Austria,2015,8584926,4384529.0,43159.0,Rape,Convicted person,175.0,4.2
+Austria,2015,8584926,4384529.0,43159.0,Sexual assault,Suspected person,1481.0,35.3
+Austria,2015,8584926,4384529.0,43159.0,Sexual assault,Prosecuted person,2450.0,58.3
+Austria,2015,8584926,4384529.0,43159.0,Sexual assault,Convicted person,123.0,2.9
+Austria,2016,8700471,4427918.0,41579.0,Intentional homicide,Suspected person,47.0,1.1
+Austria,2016,8700471,4427918.0,41579.0,Intentional homicide,Prosecuted person,497.0,11.6
+Austria,2016,8700471,4427918.0,41579.0,Intentional homicide,Convicted person,28.0,0.7
+Austria,2016,8700471,4427918.0,41579.0,Rape,Suspected person,1125.0,26.3
+Austria,2016,8700471,4427918.0,41579.0,Rape,Prosecuted person,1554.0,36.4
+Austria,2016,8700471,4427918.0,41579.0,Rape,Convicted person,186.0,4.4
+Austria,2016,8700471,4427918.0,41579.0,Sexual assault,Suspected person,2201.0,51.5
+Austria,2016,8700471,4427918.0,41579.0,Sexual assault,Prosecuted person,2898.0,67.8
+Austria,2016,8700471,4427918.0,41579.0,Sexual assault,Convicted person,132.0,3.1
+Austria,2017,8772865,4460424.0,43274.0,Intentional homicide,Suspected person,84.0,1.9
+Austria,2017,8772865,4460424.0,43274.0,Intentional homicide,Prosecuted person,487.0,11.3
+Austria,2017,8772865,4460424.0,43274.0,Intentional homicide,Convicted person,22.0,0.5
+Austria,2017,8772865,4460424.0,43274.0,Rape,Suspected person,1374.0,31.9
+Austria,2017,8772865,4460424.0,43274.0,Rape,Prosecuted person,1697.0,39.4
+Austria,2017,8772865,4460424.0,43274.0,Rape,Convicted person,194.0,4.5
+Austria,2017,8772865,4460424.0,43274.0,Sexual assault,Suspected person,2029.0,47.0
+Austria,2017,8772865,4460424.0,43274.0,Sexual assault,Prosecuted person,3224.0,74.8
+Austria,2017,8772865,4460424.0,43274.0,Sexual assault,Convicted person,207.0,4.8
+Austria,2018,8822267,4483749.0,42902.0,Intentional homicide,Suspected person,83.0,1.9
+Austria,2018,8822267,4483749.0,42902.0,Intentional homicide,Prosecuted person,431.0,9.9
+Austria,2018,8822267,4483749.0,42902.0,Intentional homicide,Convicted person,41.0,0.9
+Austria,2018,8822267,4483749.0,42902.0,Rape,Suspected person,1582.0,36.5
+Austria,2018,8822267,4483749.0,42902.0,Rape,Prosecuted person,1780.0,41.0
+Austria,2018,8822267,4483749.0,42902.0,Rape,Convicted person,190.0,4.4
+Austria,2018,8822267,4483749.0,42902.0,Sexual assault,Suspected person,2128.0,49.0
+Austria,2018,8822267,4483749.0,42902.0,Sexual assault,Prosecuted person,3079.0,71.0
+Austria,2018,8822267,4483749.0,42902.0,Sexual assault,Convicted person,212.0,4.9
+Austria,2019,8858775,4501742.0,42454.0,Intentional homicide,Suspected person,72.0,1.7
+Austria,2019,8858775,4501742.0,42454.0,Intentional homicide,Prosecuted person,298.0,6.8
+Austria,2019,8858775,4501742.0,42454.0,Intentional homicide,Convicted person,31.0,0.7
+Austria,2019,8858775,4501742.0,42454.0,Rape,Suspected person,1570.0,36.0
+Austria,2019,8858775,4501742.0,42454.0,Rape,Prosecuted person,1899.0,43.6
+Austria,2019,8858775,4501742.0,42454.0,Rape,Convicted person,161.0,3.7
+Austria,2019,8858775,4501742.0,42454.0,Sexual assault,Suspected person,1862.0,42.7
+Austria,2019,8858775,4501742.0,42454.0,Sexual assault,Prosecuted person,3037.0,69.7
+Austria,2019,8858775,4501742.0,42454.0,Sexual assault,Convicted person,218.0,5.0
+Austria,2020,8901064,4522292.0,45999.0,Intentional homicide,Suspected person,51.0,1.2
+Austria,2020,8901064,4522292.0,45999.0,Intentional homicide,Prosecuted person,282.0,6.4
+Austria,2020,8901064,4522292.0,45999.0,Intentional homicide,Convicted person,35.0,0.8
+Austria,2020,8901064,4522292.0,45999.0,Rape,Suspected person,1563.0,35.7
+Austria,2020,8901064,4522292.0,45999.0,Rape,Prosecuted person,1687.0,38.5
+Austria,2020,8901064,4522292.0,45999.0,Rape,Convicted person,187.0,4.3
+Austria,2020,8901064,4522292.0,45999.0,Sexual assault,Suspected person,1646.0,37.6
+Austria,2020,8901064,4522292.0,45999.0,Sexual assault,Prosecuted person,2652.0,60.6
+Austria,2020,8901064,4522292.0,45999.0,Sexual assault,Convicted person,218.0,5.0
+Austria,2021,8932664,4535712.0,,Intentional homicide,Convicted person,29.0,0.7
+Austria,2021,8932664,4535712.0,,Rape,Convicted person,,
+Austria,2021,8932664,4535712.0,,Sexual assault,Convicted person,,
+Belgium,2012,11075889,5635601.0,55291.0,Intentional homicide,Suspected person,164.0,3.0
+Belgium,2012,11075889,5635601.0,55291.0,Intentional homicide,Prosecuted person,336.0,6.2
+Belgium,2012,11075889,5635601.0,55291.0,Intentional homicide,Convicted person,273.0,5.0
+Belgium,2012,11075889,5635601.0,55291.0,Rape,Suspected person,1234.0,22.7
+Belgium,2012,11075889,5635601.0,55291.0,Rape,Prosecuted person,4290.0,78.9
+Belgium,2012,11075889,5635601.0,55291.0,Rape,Convicted person,520.0,9.6
+Belgium,2012,11075889,5635601.0,55291.0,Sexual assault,Suspected person,2857.0,52.5
+Belgium,2012,11075889,5635601.0,55291.0,Sexual assault,Prosecuted person,4026.0,74.0
+Belgium,2012,11075889,5635601.0,55291.0,Sexual assault,Convicted person,,
+Belgium,2013,11137974,5665118.0,55493.0,Intentional homicide,Suspected person,165.0,3.0
+Belgium,2013,11137974,5665118.0,55493.0,Intentional homicide,Prosecuted person,352.0,6.4
+Belgium,2013,11137974,5665118.0,55493.0,Intentional homicide,Convicted person,227.0,4.1
+Belgium,2013,11137974,5665118.0,55493.0,Rape,Suspected person,1043.0,19.1
+Belgium,2013,11137974,5665118.0,55493.0,Rape,Prosecuted person,4381.0,80.0
+Belgium,2013,11137974,5665118.0,55493.0,Rape,Convicted person,473.0,8.6
+Belgium,2013,11137974,5665118.0,55493.0,Sexual assault,Suspected person,2962.0,54.1
+Belgium,2013,11137974,5665118.0,55493.0,Sexual assault,Prosecuted person,4092.0,74.8
+Belgium,2013,11137974,5665118.0,55493.0,Sexual assault,Convicted person,,
+Belgium,2014,11180840,5687048.0,53244.0,Intentional homicide,Suspected person,146.0,2.7
+Belgium,2014,11180840,5687048.0,53244.0,Intentional homicide,Prosecuted person,471.0,8.6
+Belgium,2014,11180840,5687048.0,53244.0,Intentional homicide,Convicted person,209.0,3.8
+Belgium,2014,11180840,5687048.0,53244.0,Rape,Suspected person,941.0,17.1
+Belgium,2014,11180840,5687048.0,53244.0,Rape,Prosecuted person,4023.0,73.2
+Belgium,2014,11180840,5687048.0,53244.0,Rape,Convicted person,461.0,8.4
+Belgium,2014,11180840,5687048.0,53244.0,Sexual assault,Suspected person,3005.0,54.7
+Belgium,2014,11180840,5687048.0,53244.0,Sexual assault,Prosecuted person,3898.0,71.0
+Belgium,2014,11180840,5687048.0,53244.0,Sexual assault,Convicted person,,
+Belgium,2015,11237274,5713206.0,56926.0,Intentional homicide,Suspected person,115.0,2.1
+Belgium,2015,11237274,5713206.0,56926.0,Intentional homicide,Prosecuted person,323.0,5.8
+Belgium,2015,11237274,5713206.0,56926.0,Intentional homicide,Convicted person,74.0,1.3
+Belgium,2015,11237274,5713206.0,56926.0,Rape,Suspected person,444.0,8.0
+Belgium,2015,11237274,5713206.0,56926.0,Rape,Prosecuted person,3962.0,71.7
+Belgium,2015,11237274,5713206.0,56926.0,Rape,Convicted person,384.0,7.0
+Belgium,2015,11237274,5713206.0,56926.0,Sexual assault,Suspected person,641.0,11.6
+Belgium,2015,11237274,5713206.0,56926.0,Sexual assault,Prosecuted person,3776.0,68.4
+Belgium,2015,11237274,5713206.0,56926.0,Sexual assault,Convicted person,489.0,8.9
+Belgium,2016,11311117,5741853.0,54778.0,Intentional homicide,Suspected person,90.0,1.6
+Belgium,2016,11311117,5741853.0,54778.0,Intentional homicide,Prosecuted person,316.0,5.7
+Belgium,2016,11311117,5741853.0,54778.0,Intentional homicide,Convicted person,84.0,1.5
+Belgium,2016,11311117,5741853.0,54778.0,Rape,Suspected person,422.0,7.6
+Belgium,2016,11311117,5741853.0,54778.0,Rape,Prosecuted person,4178.0,75.0
+Belgium,2016,11311117,5741853.0,54778.0,Rape,Convicted person,330.0,5.9
+Belgium,2016,11311117,5741853.0,54778.0,Sexual assault,Suspected person,749.0,13.4
+Belgium,2016,11311117,5741853.0,54778.0,Sexual assault,Prosecuted person,4106.0,73.7
+Belgium,2016,11311117,5741853.0,54778.0,Sexual assault,Convicted person,460.0,8.3
+Belgium,2017,11351727,5762455.0,55373.0,Intentional homicide,Suspected person,91.0,1.6
+Belgium,2017,11351727,5762455.0,55373.0,Intentional homicide,Prosecuted person,309.0,5.5
+Belgium,2017,11351727,5762455.0,55373.0,Intentional homicide,Convicted person,82.0,1.5
+Belgium,2017,11351727,5762455.0,55373.0,Rape,Suspected person,504.0,9.0
+Belgium,2017,11351727,5762455.0,55373.0,Rape,Prosecuted person,4578.0,81.9
+Belgium,2017,11351727,5762455.0,55373.0,Rape,Convicted person,321.0,5.7
+Belgium,2017,11351727,5762455.0,55373.0,Sexual assault,Suspected person,867.0,15.5
+Belgium,2017,11351727,5762455.0,55373.0,Sexual assault,Prosecuted person,4459.0,79.8
+Belgium,2017,11351727,5762455.0,55373.0,Sexual assault,Convicted person,425.0,7.6
+Belgium,2018,11398589,5784371.0,56586.0,Intentional homicide,Suspected person,85.0,1.5
+Belgium,2018,11398589,5784371.0,56586.0,Intentional homicide,Prosecuted person,293.0,5.2
+Belgium,2018,11398589,5784371.0,56586.0,Intentional homicide,Convicted person,88.0,1.6
+Belgium,2018,11398589,5784371.0,56586.0,Rape,Suspected person,473.0,8.4
+Belgium,2018,11398589,5784371.0,56586.0,Rape,Prosecuted person,4768.0,84.9
+Belgium,2018,11398589,5784371.0,56586.0,Rape,Convicted person,345.0,6.1
+Belgium,2018,11398589,5784371.0,56586.0,Sexual assault,Suspected person,883.0,15.7
+Belgium,2018,11398589,5784371.0,56586.0,Sexual assault,Prosecuted person,4587.0,81.7
+Belgium,2018,11398589,5784371.0,56586.0,Sexual assault,Convicted person,517.0,9.2
+Belgium,2019,11455519,5810693.0,55564.0,Intentional homicide,Suspected person,66.0,1.2
+Belgium,2019,11455519,5810693.0,55564.0,Intentional homicide,Prosecuted person,290.0,5.1
+Belgium,2019,11455519,5810693.0,55564.0,Intentional homicide,Convicted person,72.0,1.3
+Belgium,2019,11455519,5810693.0,55564.0,Rape,Suspected person,499.0,8.8
+Belgium,2019,11455519,5810693.0,55564.0,Rape,Prosecuted person,5005.0,88.7
+Belgium,2019,11455519,5810693.0,55564.0,Rape,Convicted person,375.0,6.6
+Belgium,2019,11455519,5810693.0,55564.0,Sexual assault,Suspected person,976.0,17.3
+Belgium,2019,11455519,5810693.0,55564.0,Sexual assault,Prosecuted person,5171.0,91.6
+Belgium,2019,11455519,5810693.0,55564.0,Sexual assault,Convicted person,517.0,9.2
+Belgium,2020,11522440,5841215.0,,Intentional homicide,Suspected person,77.0,1.4
+Belgium,2020,11522440,5841215.0,,Intentional homicide,Prosecuted person,388.0,6.8
+Belgium,2020,11522440,5841215.0,,Intentional homicide,Convicted person,,
+Belgium,2020,11522440,5841215.0,,Rape,Suspected person,376.0,6.6
+Belgium,2020,11522440,5841215.0,,Rape,Prosecuted person,5018.0,88.3
+Belgium,2020,11522440,5841215.0,,Rape,Convicted person,,
+Belgium,2020,11522440,5841215.0,,Sexual assault,Suspected person,814.0,14.3
+Belgium,2020,11522440,5841215.0,,Sexual assault,Prosecuted person,5172.0,91.0
+Belgium,2020,11522440,5841215.0,,Sexual assault,Convicted person,,
+Bulgaria,2012,7327224,3760457.0,52334.0,Intentional homicide,Suspected person,73.0,2.0
+Bulgaria,2012,7327224,3760457.0,52334.0,Intentional homicide,Prosecuted person,136.0,3.8
+Bulgaria,2012,7327224,3760457.0,52334.0,Intentional homicide,Convicted person,97.0,2.7
+Bulgaria,2012,7327224,3760457.0,52334.0,Rape,Suspected person,108.0,3.0
+Bulgaria,2012,7327224,3760457.0,52334.0,Rape,Prosecuted person,129.0,3.6
+Bulgaria,2012,7327224,3760457.0,52334.0,Rape,Convicted person,99.0,2.8
+Bulgaria,2012,7327224,3760457.0,52334.0,Sexual assault,Suspected person,269.0,7.5
+Bulgaria,2012,7327224,3760457.0,52334.0,Sexual assault,Prosecuted person,213.0,6.0
+Bulgaria,2012,7327224,3760457.0,52334.0,Sexual assault,Convicted person,132.0,3.7
+Bulgaria,2013,7284552,3739479.0,49234.0,Intentional homicide,Suspected person,51.0,1.4
+Bulgaria,2013,7284552,3739479.0,49234.0,Intentional homicide,Prosecuted person,95.0,2.7
+Bulgaria,2013,7284552,3739479.0,49234.0,Intentional homicide,Convicted person,65.0,1.8
+Bulgaria,2013,7284552,3739479.0,49234.0,Rape,Suspected person,91.0,2.6
+Bulgaria,2013,7284552,3739479.0,49234.0,Rape,Prosecuted person,125.0,3.5
+Bulgaria,2013,7284552,3739479.0,49234.0,Rape,Convicted person,101.0,2.8
+Bulgaria,2013,7284552,3739479.0,49234.0,Sexual assault,Suspected person,254.0,7.2
+Bulgaria,2013,7284552,3739479.0,49234.0,Sexual assault,Prosecuted person,190.0,5.4
+Bulgaria,2013,7284552,3739479.0,49234.0,Sexual assault,Convicted person,129.0,3.6
+Bulgaria,2014,7245677,3720732.0,51956.0,Intentional homicide,Suspected person,80.0,2.3
+Bulgaria,2014,7245677,3720732.0,51956.0,Intentional homicide,Prosecuted person,,
+Bulgaria,2014,7245677,3720732.0,51956.0,Intentional homicide,Convicted person,66.0,1.9
+Bulgaria,2014,7245677,3720732.0,51956.0,Rape,Suspected person,100.0,2.8
+Bulgaria,2014,7245677,3720732.0,51956.0,Rape,Prosecuted person,,
+Bulgaria,2014,7245677,3720732.0,51956.0,Rape,Convicted person,87.0,2.5
+Bulgaria,2014,7245677,3720732.0,51956.0,Sexual assault,Suspected person,248.0,7.0
+Bulgaria,2014,7245677,3720732.0,51956.0,Sexual assault,Prosecuted person,,
+Bulgaria,2014,7245677,3720732.0,51956.0,Sexual assault,Convicted person,102.0,2.9
+Bulgaria,2015,7202198,3700183.0,52671.0,Intentional homicide,Suspected person,94.0,2.7
+Bulgaria,2015,7202198,3700183.0,52671.0,Intentional homicide,Prosecuted person,,
+Bulgaria,2015,7202198,3700183.0,52671.0,Intentional homicide,Convicted person,93.0,2.7
+Bulgaria,2015,7202198,3700183.0,52671.0,Rape,Suspected person,52.0,1.5
+Bulgaria,2015,7202198,3700183.0,52671.0,Rape,Prosecuted person,,
+Bulgaria,2015,7202198,3700183.0,52671.0,Rape,Convicted person,51.0,1.5
+Bulgaria,2015,7202198,3700183.0,52671.0,Sexual assault,Suspected person,249.0,7.1
+Bulgaria,2015,7202198,3700183.0,52671.0,Sexual assault,Prosecuted person,,
+Bulgaria,2015,7202198,3700183.0,52671.0,Sexual assault,Convicted person,78.0,2.2
+Bulgaria,2016,7153784,3676607.0,50998.0,Intentional homicide,Suspected person,71.0,2.0
+Bulgaria,2016,7153784,3676607.0,50998.0,Intentional homicide,Prosecuted person,,
+Bulgaria,2016,7153784,3676607.0,50998.0,Intentional homicide,Convicted person,77.0,2.2
+Bulgaria,2016,7153784,3676607.0,50998.0,Rape,Suspected person,77.0,2.2
+Bulgaria,2016,7153784,3676607.0,50998.0,Rape,Prosecuted person,,
+Bulgaria,2016,7153784,3676607.0,50998.0,Rape,Convicted person,61.0,1.8
+Bulgaria,2016,7153784,3676607.0,50998.0,Sexual assault,Suspected person,232.0,6.7
+Bulgaria,2016,7153784,3676607.0,50998.0,Sexual assault,Prosecuted person,,
+Bulgaria,2016,7153784,3676607.0,50998.0,Sexual assault,Convicted person,103.0,3.0
+Bulgaria,2017,7101859,3651881.0,52475.0,Intentional homicide,Suspected person,85.0,2.5
+Bulgaria,2017,7101859,3651881.0,52475.0,Intentional homicide,Prosecuted person,,
+Bulgaria,2017,7101859,3651881.0,52475.0,Intentional homicide,Convicted person,74.0,2.1
+Bulgaria,2017,7101859,3651881.0,52475.0,Rape,Suspected person,58.0,1.7
+Bulgaria,2017,7101859,3651881.0,52475.0,Rape,Prosecuted person,,
+Bulgaria,2017,7101859,3651881.0,52475.0,Rape,Convicted person,47.0,1.4
+Bulgaria,2017,7101859,3651881.0,52475.0,Sexual assault,Suspected person,345.0,10.0
+Bulgaria,2017,7101859,3651881.0,52475.0,Sexual assault,Prosecuted person,,
+Bulgaria,2017,7101859,3651881.0,52475.0,Sexual assault,Convicted person,80.0,2.3
+Bulgaria,2018,7050034,3627625.0,51583.0,Intentional homicide,Suspected person,108.0,3.2
+Bulgaria,2018,7050034,3627625.0,51583.0,Intentional homicide,Prosecuted person,,
+Bulgaria,2018,7050034,3627625.0,51583.0,Intentional homicide,Convicted person,62.0,1.8
+Bulgaria,2018,7050034,3627625.0,51583.0,Rape,Suspected person,68.0,2.0
+Bulgaria,2018,7050034,3627625.0,51583.0,Rape,Prosecuted person,,
+Bulgaria,2018,7050034,3627625.0,51583.0,Rape,Convicted person,65.0,1.9
+Bulgaria,2018,7050034,3627625.0,51583.0,Sexual assault,Suspected person,352.0,10.3
+Bulgaria,2018,7050034,3627625.0,51583.0,Sexual assault,Prosecuted person,,
+Bulgaria,2018,7050034,3627625.0,51583.0,Sexual assault,Convicted person,80.0,2.3
+Bulgaria,2019,7000039,3604338.0,51331.0,Intentional homicide,Suspected person,109.0,3.2
+Bulgaria,2019,7000039,3604338.0,51331.0,Intentional homicide,Prosecuted person,,
+Bulgaria,2019,7000039,3604338.0,51331.0,Intentional homicide,Convicted person,55.0,1.6
+Bulgaria,2019,7000039,3604338.0,51331.0,Rape,Suspected person,73.0,2.1
+Bulgaria,2019,7000039,3604338.0,51331.0,Rape,Prosecuted person,,
+Bulgaria,2019,7000039,3604338.0,51331.0,Rape,Convicted person,40.0,1.2
+Bulgaria,2019,7000039,3604338.0,51331.0,Sexual assault,Suspected person,319.0,9.4
+Bulgaria,2019,7000039,3604338.0,51331.0,Sexual assault,Prosecuted person,,
+Bulgaria,2019,7000039,3604338.0,51331.0,Sexual assault,Convicted person,90.0,2.7
+Bulgaria,2020,6951482,3581836.0,58077.0,Intentional homicide,Suspected person,64.0,1.9
+Bulgaria,2020,6951482,3581836.0,58077.0,Intentional homicide,Prosecuted person,,
+Bulgaria,2020,6951482,3581836.0,58077.0,Intentional homicide,Convicted person,37.0,1.1
+Bulgaria,2020,6951482,3581836.0,58077.0,Rape,Suspected person,73.0,2.2
+Bulgaria,2020,6951482,3581836.0,58077.0,Rape,Prosecuted person,,
+Bulgaria,2020,6951482,3581836.0,58077.0,Rape,Convicted person,51.0,1.5
+Bulgaria,2020,6951482,3581836.0,58077.0,Sexual assault,Suspected person,330.0,9.8
+Bulgaria,2020,6951482,3581836.0,58077.0,Sexual assault,Prosecuted person,,
+Bulgaria,2020,6951482,3581836.0,58077.0,Sexual assault,Convicted person,111.0,3.3
+Croatia,2012,4275984,2213675.0,26099.0,Intentional homicide,Suspected person,49.0,2.4
+Croatia,2012,4275984,2213675.0,26099.0,Intentional homicide,Prosecuted person,2.0,0.1
+Croatia,2012,4275984,2213675.0,26099.0,Intentional homicide,Convicted person,41.0,2.0
+Croatia,2012,4275984,2213675.0,26099.0,Rape,Suspected person,103.0,5.0
+Croatia,2012,4275984,2213675.0,26099.0,Rape,Prosecuted person,103.0,5.0
+Croatia,2012,4275984,2213675.0,26099.0,Rape,Convicted person,47.0,2.3
+Croatia,2012,4275984,2213675.0,26099.0,Sexual assault,Suspected person,136.0,6.6
+Croatia,2012,4275984,2213675.0,26099.0,Sexual assault,Prosecuted person,293.0,14.2
+Croatia,2012,4275984,2213675.0,26099.0,Sexual assault,Convicted person,224.0,10.9
+Croatia,2013,4262140,2205657.0,25530.0,Intentional homicide,Suspected person,34.0,1.7
+Croatia,2013,4262140,2205657.0,25530.0,Intentional homicide,Prosecuted person,0.0,0.0
+Croatia,2013,4262140,2205657.0,25530.0,Intentional homicide,Convicted person,44.0,2.1
+Croatia,2013,4262140,2205657.0,25530.0,Rape,Suspected person,174.0,8.5
+Croatia,2013,4262140,2205657.0,25530.0,Rape,Prosecuted person,76.0,3.7
+Croatia,2013,4262140,2205657.0,25530.0,Rape,Convicted person,47.0,2.3
+Croatia,2013,4262140,2205657.0,25530.0,Sexual assault,Suspected person,157.0,7.6
+Croatia,2013,4262140,2205657.0,25530.0,Sexual assault,Prosecuted person,310.0,15.1
+Croatia,2013,4262140,2205657.0,25530.0,Sexual assault,Convicted person,167.0,8.1
+Croatia,2014,4246809,2197061.0,26031.0,Intentional homicide,Suspected person,33.0,1.6
+Croatia,2014,4246809,2197061.0,26031.0,Intentional homicide,Prosecuted person,1.0,0.0
+Croatia,2014,4246809,2197061.0,26031.0,Intentional homicide,Convicted person,45.0,2.2
+Croatia,2014,4246809,2197061.0,26031.0,Rape,Suspected person,174.0,8.5
+Croatia,2014,4246809,2197061.0,26031.0,Rape,Prosecuted person,104.0,5.1
+Croatia,2014,4246809,2197061.0,26031.0,Rape,Convicted person,53.0,2.6
+Croatia,2014,4246809,2197061.0,26031.0,Sexual assault,Suspected person,117.0,5.7
+Croatia,2014,4246809,2197061.0,26031.0,Sexual assault,Prosecuted person,301.0,14.7
+Croatia,2014,4246809,2197061.0,26031.0,Sexual assault,Convicted person,187.0,9.1
+Croatia,2015,4225316,2186089.0,27987.0,Intentional homicide,Suspected person,33.0,1.6
+Croatia,2015,4225316,2186089.0,27987.0,Intentional homicide,Prosecuted person,,
+Croatia,2015,4225316,2186089.0,27987.0,Intentional homicide,Convicted person,30.0,1.5
+Croatia,2015,4225316,2186089.0,27987.0,Rape,Suspected person,136.0,6.7
+Croatia,2015,4225316,2186089.0,27987.0,Rape,Prosecuted person,57.0,2.8
+Croatia,2015,4225316,2186089.0,27987.0,Rape,Convicted person,35.0,1.7
+Croatia,2015,4225316,2186089.0,27987.0,Sexual assault,Suspected person,164.0,8.0
+Croatia,2015,4225316,2186089.0,27987.0,Sexual assault,Prosecuted person,314.0,15.4
+Croatia,2015,4225316,2186089.0,27987.0,Sexual assault,Convicted person,186.0,9.1
+Croatia,2016,4190669,2167872.0,26397.0,Intentional homicide,Suspected person,44.0,2.2
+Croatia,2016,4190669,2167872.0,26397.0,Intentional homicide,Prosecuted person,102.0,5.0
+Croatia,2016,4190669,2167872.0,26397.0,Intentional homicide,Convicted person,61.0,3.0
+Croatia,2016,4190669,2167872.0,26397.0,Rape,Suspected person,137.0,6.8
+Croatia,2016,4190669,2167872.0,26397.0,Rape,Prosecuted person,192.0,9.5
+Croatia,2016,4190669,2167872.0,26397.0,Rape,Convicted person,86.0,4.3
+Croatia,2016,4190669,2167872.0,26397.0,Sexual assault,Suspected person,148.0,7.3
+Croatia,2016,4190669,2167872.0,26397.0,Sexual assault,Prosecuted person,71.0,3.5
+Croatia,2016,4190669,2167872.0,26397.0,Sexual assault,Convicted person,30.0,1.5
+Croatia,2017,4154213,2149003.0,27817.0,Intentional homicide,Suspected person,31.0,1.5
+Croatia,2017,4154213,2149003.0,27817.0,Intentional homicide,Prosecuted person,112.0,5.6
+Croatia,2017,4154213,2149003.0,27817.0,Intentional homicide,Convicted person,54.0,2.7
+Croatia,2017,4154213,2149003.0,27817.0,Rape,Suspected person,136.0,6.8
+Croatia,2017,4154213,2149003.0,27817.0,Rape,Prosecuted person,187.0,9.3
+Croatia,2017,4154213,2149003.0,27817.0,Rape,Convicted person,86.0,4.3
+Croatia,2017,4154213,2149003.0,27817.0,Sexual assault,Suspected person,120.0,6.0
+Croatia,2017,4154213,2149003.0,27817.0,Sexual assault,Prosecuted person,89.0,4.4
+Croatia,2017,4154213,2149003.0,27817.0,Sexual assault,Convicted person,32.0,1.6
+Croatia,2018,4105493,2123694.0,26985.0,Intentional homicide,Suspected person,17.0,0.9
+Croatia,2018,4105493,2123694.0,26985.0,Intentional homicide,Prosecuted person,90.0,4.5
+Croatia,2018,4105493,2123694.0,26985.0,Intentional homicide,Convicted person,52.0,2.6
+Croatia,2018,4105493,2123694.0,26985.0,Rape,Suspected person,125.0,6.3
+Croatia,2018,4105493,2123694.0,26985.0,Rape,Prosecuted person,163.0,8.2
+Croatia,2018,4105493,2123694.0,26985.0,Rape,Convicted person,85.0,4.3
+Croatia,2018,4105493,2123694.0,26985.0,Sexual assault,Suspected person,125.0,6.3
+Croatia,2018,4105493,2123694.0,26985.0,Sexual assault,Prosecuted person,80.0,4.0
+Croatia,2018,4105493,2123694.0,26985.0,Sexual assault,Convicted person,29.0,1.5
+Croatia,2019,4076246,2103674.0,26692.0,Intentional homicide,Suspected person,21.0,1.1
+Croatia,2019,4076246,2103674.0,26692.0,Intentional homicide,Prosecuted person,97.0,4.9
+Croatia,2019,4076246,2103674.0,26692.0,Intentional homicide,Convicted person,68.0,3.4
+Croatia,2019,4076246,2103674.0,26692.0,Rape,Suspected person,150.0,7.6
+Croatia,2019,4076246,2103674.0,26692.0,Rape,Prosecuted person,180.0,9.1
+Croatia,2019,4076246,2103674.0,26692.0,Rape,Convicted person,81.0,4.1
+Croatia,2019,4076246,2103674.0,26692.0,Sexual assault,Suspected person,142.0,7.2
+Croatia,2019,4076246,2103674.0,26692.0,Sexual assault,Prosecuted person,93.0,4.7
+Croatia,2019,4076246,2103674.0,26692.0,Sexual assault,Convicted person,29.0,1.5
+Croatia,2020,4058165,2086515.0,29164.0,Intentional homicide,Suspected person,31.0,1.6
+Croatia,2020,4058165,2086515.0,29164.0,Intentional homicide,Prosecuted person,106.0,5.4
+Croatia,2020,4058165,2086515.0,29164.0,Intentional homicide,Convicted person,51.0,2.6
+Croatia,2020,4058165,2086515.0,29164.0,Rape,Suspected person,133.0,6.7
+Croatia,2020,4058165,2086515.0,29164.0,Rape,Prosecuted person,195.0,9.9
+Croatia,2020,4058165,2086515.0,29164.0,Rape,Convicted person,85.0,4.3
+Croatia,2020,4058165,2086515.0,29164.0,Sexual assault,Suspected person,133.0,6.7
+Croatia,2020,4058165,2086515.0,29164.0,Sexual assault,Prosecuted person,97.0,4.9
+Croatia,2020,4058165,2086515.0,29164.0,Sexual assault,Convicted person,29.0,1.5
+Cyprus,2012,862011,443018.0,2668.0,Intentional homicide,Suspected person,,
+Cyprus,2012,862011,443018.0,2668.0,Intentional homicide,Prosecuted person,11.0,2.6
+Cyprus,2012,862011,443018.0,2668.0,Intentional homicide,Convicted person,8.0,1.9
+Cyprus,2012,862011,443018.0,2668.0,Rape,Suspected person,,
+Cyprus,2012,862011,443018.0,2668.0,Rape,Prosecuted person,25.0,6.0
+Cyprus,2012,862011,443018.0,2668.0,Rape,Convicted person,15.0,3.6
+Cyprus,2012,862011,443018.0,2668.0,Sexual assault,Suspected person,,
+Cyprus,2012,862011,443018.0,2668.0,Sexual assault,Prosecuted person,60.0,14.3
+Cyprus,2012,862011,443018.0,2668.0,Sexual assault,Convicted person,120.0,28.6
+Cyprus,2013,865878,444842.0,2373.0,Intentional homicide,Suspected person,,
+Cyprus,2013,865878,444842.0,2373.0,Intentional homicide,Prosecuted person,23.0,5.5
+Cyprus,2013,865878,444842.0,2373.0,Intentional homicide,Convicted person,18.0,4.3
+Cyprus,2013,865878,444842.0,2373.0,Rape,Suspected person,,
+Cyprus,2013,865878,444842.0,2373.0,Rape,Prosecuted person,19.0,4.5
+Cyprus,2013,865878,444842.0,2373.0,Rape,Convicted person,10.0,2.4
+Cyprus,2013,865878,444842.0,2373.0,Sexual assault,Suspected person,,
+Cyprus,2013,865878,444842.0,2373.0,Sexual assault,Prosecuted person,47.0,11.2
+Cyprus,2013,865878,444842.0,2373.0,Sexual assault,Convicted person,118.0,28.0
+Cyprus,2014,858000,440462.0,2609.0,Intentional homicide,Suspected person,,
+Cyprus,2014,858000,440462.0,2609.0,Intentional homicide,Prosecuted person,9.0,2.2
+Cyprus,2014,858000,440462.0,2609.0,Intentional homicide,Convicted person,6.0,1.4
+Cyprus,2014,858000,440462.0,2609.0,Rape,Suspected person,,
+Cyprus,2014,858000,440462.0,2609.0,Rape,Prosecuted person,14.0,3.4
+Cyprus,2014,858000,440462.0,2609.0,Rape,Convicted person,9.0,2.2
+Cyprus,2014,858000,440462.0,2609.0,Sexual assault,Suspected person,,
+Cyprus,2014,858000,440462.0,2609.0,Sexual assault,Prosecuted person,49.0,11.7
+Cyprus,2014,858000,440462.0,2609.0,Sexual assault,Convicted person,31.0,7.4
+Cyprus,2015,847008,435183.0,2839.0,Intentional homicide,Suspected person,,
+Cyprus,2015,847008,435183.0,2839.0,Intentional homicide,Prosecuted person,3.0,0.7
+Cyprus,2015,847008,435183.0,2839.0,Intentional homicide,Convicted person,3.0,0.7
+Cyprus,2015,847008,435183.0,2839.0,Rape,Suspected person,,
+Cyprus,2015,847008,435183.0,2839.0,Rape,Prosecuted person,19.0,4.6
+Cyprus,2015,847008,435183.0,2839.0,Rape,Convicted person,9.0,2.2
+Cyprus,2015,847008,435183.0,2839.0,Sexual assault,Suspected person,,
+Cyprus,2015,847008,435183.0,2839.0,Sexual assault,Prosecuted person,43.0,10.4
+Cyprus,2015,847008,435183.0,2839.0,Sexual assault,Convicted person,43.0,10.4
+Cyprus,2016,848319,435627.0,2561.0,Intentional homicide,Suspected person,8.0,1.9
+Cyprus,2016,848319,435627.0,2561.0,Intentional homicide,Prosecuted person,6.0,1.5
+Cyprus,2016,848319,435627.0,2561.0,Intentional homicide,Convicted person,6.0,1.5
+Cyprus,2016,848319,435627.0,2561.0,Rape,Suspected person,22.0,5.3
+Cyprus,2016,848319,435627.0,2561.0,Rape,Prosecuted person,23.0,5.6
+Cyprus,2016,848319,435627.0,2561.0,Rape,Convicted person,19.0,4.6
+Cyprus,2016,848319,435627.0,2561.0,Sexual assault,Suspected person,2.0,0.5
+Cyprus,2016,848319,435627.0,2561.0,Sexual assault,Prosecuted person,54.0,13.1
+Cyprus,2016,848319,435627.0,2561.0,Sexual assault,Convicted person,25.0,6.1
+Cyprus,2017,854802,438139.0,2910.0,Intentional homicide,Suspected person,7.0,1.7
+Cyprus,2017,854802,438139.0,2910.0,Intentional homicide,Prosecuted person,17.0,4.1
+Cyprus,2017,854802,438139.0,2910.0,Intentional homicide,Convicted person,13.0,3.1
+Cyprus,2017,854802,438139.0,2910.0,Rape,Suspected person,16.0,3.8
+Cyprus,2017,854802,438139.0,2910.0,Rape,Prosecuted person,18.0,4.3
+Cyprus,2017,854802,438139.0,2910.0,Rape,Convicted person,10.0,2.4
+Cyprus,2017,854802,438139.0,2910.0,Sexual assault,Suspected person,1.0,0.2
+Cyprus,2017,854802,438139.0,2910.0,Sexual assault,Prosecuted person,23.0,5.5
+Cyprus,2017,854802,438139.0,2910.0,Sexual assault,Convicted person,11.0,2.6
+Cyprus,2018,864236,442728.0,2792.0,Intentional homicide,Suspected person,9.0,2.1
+Cyprus,2018,864236,442728.0,2792.0,Intentional homicide,Prosecuted person,2.0,0.5
+Cyprus,2018,864236,442728.0,2792.0,Intentional homicide,Convicted person,2.0,0.5
+Cyprus,2018,864236,442728.0,2792.0,Rape,Suspected person,26.0,6.2
+Cyprus,2018,864236,442728.0,2792.0,Rape,Prosecuted person,17.0,4.0
+Cyprus,2018,864236,442728.0,2792.0,Rape,Convicted person,10.0,2.4
+Cyprus,2018,864236,442728.0,2792.0,Sexual assault,Suspected person,1.0,0.2
+Cyprus,2018,864236,442728.0,2792.0,Sexual assault,Prosecuted person,33.0,7.8
+Cyprus,2018,864236,442728.0,2792.0,Sexual assault,Convicted person,22.0,5.2
+Cyprus,2019,875899,448068.0,2985.0,Intentional homicide,Suspected person,5.0,1.2
+Cyprus,2019,875899,448068.0,2985.0,Intentional homicide,Prosecuted person,7.0,1.6
+Cyprus,2019,875899,448068.0,2985.0,Intentional homicide,Convicted person,7.0,1.6
+Cyprus,2019,875899,448068.0,2985.0,Rape,Suspected person,23.0,5.4
+Cyprus,2019,875899,448068.0,2985.0,Rape,Prosecuted person,16.0,3.7
+Cyprus,2019,875899,448068.0,2985.0,Rape,Convicted person,5.0,1.2
+Cyprus,2019,875899,448068.0,2985.0,Sexual assault,Suspected person,1.0,0.2
+Cyprus,2019,875899,448068.0,2985.0,Sexual assault,Prosecuted person,49.0,11.5
+Cyprus,2019,875899,448068.0,2985.0,Sexual assault,Convicted person,25.0,5.8
+Cyprus,2020,888005,453534.0,3083.0,Intentional homicide,Suspected person,11.0,2.5
+Cyprus,2020,888005,453534.0,3083.0,Intentional homicide,Prosecuted person,,
+Cyprus,2020,888005,453534.0,3083.0,Intentional homicide,Convicted person,,
+Cyprus,2020,888005,453534.0,3083.0,Rape,Suspected person,23.0,5.3
+Cyprus,2020,888005,453534.0,3083.0,Rape,Prosecuted person,,
+Cyprus,2020,888005,453534.0,3083.0,Rape,Convicted person,,
+Cyprus,2020,888005,453534.0,3083.0,Sexual assault,Suspected person,2.0,0.5
+Cyprus,2020,888005,453534.0,3083.0,Sexual assault,Prosecuted person,,
+Cyprus,2020,888005,453534.0,3083.0,Sexual assault,Convicted person,,
+Denmark,2012,5580516,2813740.0,26349.0,Intentional homicide,Suspected person,,
+Denmark,2012,5580516,2813740.0,26349.0,Intentional homicide,Prosecuted person,37.0,1.3
+Denmark,2012,5580516,2813740.0,26349.0,Intentional homicide,Convicted person,31.0,1.1
+Denmark,2012,5580516,2813740.0,26349.0,Rape,Suspected person,,
+Denmark,2012,5580516,2813740.0,26349.0,Rape,Prosecuted person,284.0,10.3
+Denmark,2012,5580516,2813740.0,26349.0,Rape,Convicted person,225.0,8.1
+Denmark,2012,5580516,2813740.0,26349.0,Sexual assault,Suspected person,,
+Denmark,2012,5580516,2813740.0,26349.0,Sexual assault,Prosecuted person,309.0,11.2
+Denmark,2012,5580516,2813740.0,26349.0,Sexual assault,Convicted person,197.0,7.1
+Denmark,2013,5602628,2823776.0,26264.0,Intentional homicide,Suspected person,,
+Denmark,2013,5602628,2823776.0,26264.0,Intentional homicide,Prosecuted person,23.0,0.8
+Denmark,2013,5602628,2823776.0,26264.0,Intentional homicide,Convicted person,20.0,0.7
+Denmark,2013,5602628,2823776.0,26264.0,Rape,Suspected person,,
+Denmark,2013,5602628,2823776.0,26264.0,Rape,Prosecuted person,267.0,9.6
+Denmark,2013,5602628,2823776.0,26264.0,Rape,Convicted person,207.0,7.4
+Denmark,2013,5602628,2823776.0,26264.0,Sexual assault,Suspected person,,
+Denmark,2013,5602628,2823776.0,26264.0,Sexual assault,Prosecuted person,235.0,8.5
+Denmark,2013,5602628,2823776.0,26264.0,Sexual assault,Convicted person,212.0,7.6
+Denmark,2014,5627235,2834956.0,25577.0,Intentional homicide,Suspected person,,
+Denmark,2014,5627235,2834956.0,25577.0,Intentional homicide,Prosecuted person,25.0,0.9
+Denmark,2014,5627235,2834956.0,25577.0,Intentional homicide,Convicted person,19.0,0.7
+Denmark,2014,5627235,2834956.0,25577.0,Rape,Suspected person,,
+Denmark,2014,5627235,2834956.0,25577.0,Rape,Prosecuted person,266.0,9.5
+Denmark,2014,5627235,2834956.0,25577.0,Rape,Convicted person,182.0,6.5
+Denmark,2014,5627235,2834956.0,25577.0,Sexual assault,Suspected person,,
+Denmark,2014,5627235,2834956.0,25577.0,Sexual assault,Prosecuted person,326.0,11.7
+Denmark,2014,5627235,2834956.0,25577.0,Sexual assault,Convicted person,273.0,9.8
+Denmark,2015,5659715,2848701.0,26216.0,Intentional homicide,Suspected person,50.0,1.8
+Denmark,2015,5659715,2848701.0,26216.0,Intentional homicide,Prosecuted person,34.0,1.2
+Denmark,2015,5659715,2848701.0,26216.0,Intentional homicide,Convicted person,33.0,1.2
+Denmark,2015,5659715,2848701.0,26216.0,Rape,Suspected person,258.0,9.2
+Denmark,2015,5659715,2848701.0,26216.0,Rape,Prosecuted person,279.0,9.9
+Denmark,2015,5659715,2848701.0,26216.0,Rape,Convicted person,197.0,7.0
+Denmark,2015,5659715,2848701.0,26216.0,Sexual assault,Suspected person,120.0,4.3
+Denmark,2015,5659715,2848701.0,26216.0,Sexual assault,Prosecuted person,350.0,12.5
+Denmark,2015,5659715,2848701.0,26216.0,Sexual assault,Convicted person,298.0,10.6
+Denmark,2016,5707251,2869364.0,26355.0,Intentional homicide,Suspected person,40.0,1.4
+Denmark,2016,5707251,2869364.0,26355.0,Intentional homicide,Prosecuted person,27.0,1.0
+Denmark,2016,5707251,2869364.0,26355.0,Intentional homicide,Convicted person,16.0,0.6
+Denmark,2016,5707251,2869364.0,26355.0,Rape,Suspected person,345.0,12.2
+Denmark,2016,5707251,2869364.0,26355.0,Rape,Prosecuted person,290.0,10.2
+Denmark,2016,5707251,2869364.0,26355.0,Rape,Convicted person,226.0,8.0
+Denmark,2016,5707251,2869364.0,26355.0,Sexual assault,Suspected person,134.0,4.7
+Denmark,2016,5707251,2869364.0,26355.0,Sexual assault,Prosecuted person,364.0,12.8
+Denmark,2016,5707251,2869364.0,26355.0,Sexual assault,Convicted person,298.0,10.5
+Denmark,2017,5748769,2888591.0,26366.0,Intentional homicide,Suspected person,67.0,2.3
+Denmark,2017,5748769,2888591.0,26366.0,Intentional homicide,Prosecuted person,32.0,1.1
+Denmark,2017,5748769,2888591.0,26366.0,Intentional homicide,Convicted person,30.0,1.0
+Denmark,2017,5748769,2888591.0,26366.0,Rape,Suspected person,411.0,14.4
+Denmark,2017,5748769,2888591.0,26366.0,Rape,Prosecuted person,313.0,10.9
+Denmark,2017,5748769,2888591.0,26366.0,Rape,Convicted person,223.0,7.8
+Denmark,2017,5748769,2888591.0,26366.0,Sexual assault,Suspected person,144.0,5.0
+Denmark,2017,5748769,2888591.0,26366.0,Sexual assault,Prosecuted person,436.0,15.2
+Denmark,2017,5748769,2888591.0,26366.0,Sexual assault,Convicted person,307.0,10.7
+Denmark,2018,5781190,2904717.0,27181.0,Intentional homicide,Suspected person,66.0,2.3
+Denmark,2018,5781190,2904717.0,27181.0,Intentional homicide,Prosecuted person,29.0,1.0
+Denmark,2018,5781190,2904717.0,27181.0,Intentional homicide,Convicted person,28.0,1.0
+Denmark,2018,5781190,2904717.0,27181.0,Rape,Suspected person,438.0,15.2
+Denmark,2018,5781190,2904717.0,27181.0,Rape,Prosecuted person,347.0,12.1
+Denmark,2018,5781190,2904717.0,27181.0,Rape,Convicted person,211.0,7.3
+Denmark,2018,5781190,2904717.0,27181.0,Sexual assault,Suspected person,157.0,5.5
+Denmark,2018,5781190,2904717.0,27181.0,Sexual assault,Prosecuted person,464.0,16.1
+Denmark,2018,5781190,2904717.0,27181.0,Sexual assault,Convicted person,367.0,12.8
+Denmark,2019,5806081,2917008.0,26410.0,Intentional homicide,Suspected person,75.0,2.6
+Denmark,2019,5806081,2917008.0,26410.0,Intentional homicide,Prosecuted person,35.0,1.2
+Denmark,2019,5806081,2917008.0,26410.0,Intentional homicide,Convicted person,22.0,0.8
+Denmark,2019,5806081,2917008.0,26410.0,Rape,Suspected person,453.0,15.7
+Denmark,2019,5806081,2917008.0,26410.0,Rape,Prosecuted person,343.0,11.9
+Denmark,2019,5806081,2917008.0,26410.0,Rape,Convicted person,251.0,8.7
+Denmark,2019,5806081,2917008.0,26410.0,Sexual assault,Suspected person,196.0,6.8
+Denmark,2019,5806081,2917008.0,26410.0,Sexual assault,Prosecuted person,769.0,26.6
+Denmark,2019,5806081,2917008.0,26410.0,Sexual assault,Convicted person,605.0,20.9
+Denmark,2020,5822763,2925845.0,,Intentional homicide,Suspected person,123.0,4.2
+Denmark,2020,5822763,2925845.0,,Intentional homicide,Prosecuted person,41.0,1.4
+Denmark,2020,5822763,2925845.0,,Intentional homicide,Convicted person,37.0,1.3
+Denmark,2020,5822763,2925845.0,,Rape,Suspected person,469.0,16.2
+Denmark,2020,5822763,2925845.0,,Rape,Prosecuted person,352.0,12.2
+Denmark,2020,5822763,2925845.0,,Rape,Convicted person,265.0,9.1
+Denmark,2020,5822763,2925845.0,,Sexual assault,Suspected person,190.0,6.6
+Denmark,2020,5822763,2925845.0,,Sexual assault,Prosecuted person,618.0,21.3
+Denmark,2020,5822763,2925845.0,,Sexual assault,Convicted person,499.0,17.2
+Estonia,2012,1325217,707079.0,7854.0,Intentional homicide,Suspected person,,
+Estonia,2012,1325217,707079.0,7854.0,Intentional homicide,Prosecuted person,,
+Estonia,2012,1325217,707079.0,7854.0,Intentional homicide,Convicted person,56.0,9.1
+Estonia,2012,1325217,707079.0,7854.0,Rape,Suspected person,,
+Estonia,2012,1325217,707079.0,7854.0,Rape,Prosecuted person,,
+Estonia,2012,1325217,707079.0,7854.0,Rape,Convicted person,29.0,4.7
+Estonia,2012,1325217,707079.0,7854.0,Sexual assault,Suspected person,,
+Estonia,2012,1325217,707079.0,7854.0,Sexual assault,Prosecuted person,,
+Estonia,2012,1325217,707079.0,7854.0,Sexual assault,Convicted person,21.0,3.4
+Estonia,2013,1320174,704007.0,8050.0,Intentional homicide,Suspected person,,
+Estonia,2013,1320174,704007.0,8050.0,Intentional homicide,Prosecuted person,,
+Estonia,2013,1320174,704007.0,8050.0,Intentional homicide,Convicted person,61.0,9.9
+Estonia,2013,1320174,704007.0,8050.0,Rape,Suspected person,,
+Estonia,2013,1320174,704007.0,8050.0,Rape,Prosecuted person,,
+Estonia,2013,1320174,704007.0,8050.0,Rape,Convicted person,33.0,5.4
+Estonia,2013,1320174,704007.0,8050.0,Sexual assault,Suspected person,,
+Estonia,2013,1320174,704007.0,8050.0,Sexual assault,Prosecuted person,,
+Estonia,2013,1320174,704007.0,8050.0,Sexual assault,Convicted person,33.0,5.4
+Estonia,2014,1315819,700900.0,8011.0,Intentional homicide,Suspected person,,
+Estonia,2014,1315819,700900.0,8011.0,Intentional homicide,Prosecuted person,,
+Estonia,2014,1315819,700900.0,8011.0,Intentional homicide,Convicted person,28.0,4.6
+Estonia,2014,1315819,700900.0,8011.0,Rape,Suspected person,,
+Estonia,2014,1315819,700900.0,8011.0,Rape,Prosecuted person,,
+Estonia,2014,1315819,700900.0,8011.0,Rape,Convicted person,22.0,3.6
+Estonia,2014,1315819,700900.0,8011.0,Sexual assault,Suspected person,,
+Estonia,2014,1315819,700900.0,8011.0,Sexual assault,Prosecuted person,,
+Estonia,2014,1315819,700900.0,8011.0,Sexual assault,Convicted person,10.0,1.6
+Estonia,2015,1314870,700166.0,8060.0,Intentional homicide,Suspected person,,
+Estonia,2015,1314870,700166.0,8060.0,Intentional homicide,Prosecuted person,,
+Estonia,2015,1314870,700166.0,8060.0,Intentional homicide,Convicted person,32.0,5.2
+Estonia,2015,1314870,700166.0,8060.0,Rape,Suspected person,,
+Estonia,2015,1314870,700166.0,8060.0,Rape,Prosecuted person,,
+Estonia,2015,1314870,700166.0,8060.0,Rape,Convicted person,46.0,7.5
+Estonia,2015,1314870,700166.0,8060.0,Sexual assault,Suspected person,,
+Estonia,2015,1314870,700166.0,8060.0,Sexual assault,Prosecuted person,37.0,6.0
+Estonia,2015,1314870,700166.0,8060.0,Sexual assault,Convicted person,33.0,5.4
+Estonia,2016,1315944,699236.0,8007.0,Intentional homicide,Suspected person,,
+Estonia,2016,1315944,699236.0,8007.0,Intentional homicide,Prosecuted person,,
+Estonia,2016,1315944,699236.0,8007.0,Intentional homicide,Convicted person,34.0,5.5
+Estonia,2016,1315944,699236.0,8007.0,Rape,Suspected person,,
+Estonia,2016,1315944,699236.0,8007.0,Rape,Prosecuted person,,
+Estonia,2016,1315944,699236.0,8007.0,Rape,Convicted person,33.0,5.4
+Estonia,2016,1315944,699236.0,8007.0,Sexual assault,Suspected person,,
+Estonia,2016,1315944,699236.0,8007.0,Sexual assault,Prosecuted person,35.0,5.7
+Estonia,2016,1315944,699236.0,8007.0,Sexual assault,Convicted person,11.0,1.8
+Estonia,2017,1315635,698097.0,8158.0,Intentional homicide,Suspected person,,
+Estonia,2017,1315635,698097.0,8158.0,Intentional homicide,Prosecuted person,,
+Estonia,2017,1315635,698097.0,8158.0,Intentional homicide,Convicted person,22.0,3.6
+Estonia,2017,1315635,698097.0,8158.0,Rape,Suspected person,,
+Estonia,2017,1315635,698097.0,8158.0,Rape,Prosecuted person,,
+Estonia,2017,1315635,698097.0,8158.0,Rape,Convicted person,27.0,4.4
+Estonia,2017,1315635,698097.0,8158.0,Sexual assault,Suspected person,,
+Estonia,2017,1315635,698097.0,8158.0,Sexual assault,Prosecuted person,46.0,7.4
+Estonia,2017,1315635,698097.0,8158.0,Sexual assault,Convicted person,35.0,5.7
+Estonia,2018,1319133,698049.0,8269.0,Intentional homicide,Suspected person,,
+Estonia,2018,1319133,698049.0,8269.0,Intentional homicide,Prosecuted person,36.0,5.8
+Estonia,2018,1319133,698049.0,8269.0,Intentional homicide,Convicted person,26.0,4.2
+Estonia,2018,1319133,698049.0,8269.0,Rape,Suspected person,,
+Estonia,2018,1319133,698049.0,8269.0,Rape,Prosecuted person,45.0,7.2
+Estonia,2018,1319133,698049.0,8269.0,Rape,Convicted person,39.0,6.3
+Estonia,2018,1319133,698049.0,8269.0,Sexual assault,Suspected person,,
+Estonia,2018,1319133,698049.0,8269.0,Sexual assault,Prosecuted person,31.0,5.0
+Estonia,2018,1319133,698049.0,8269.0,Sexual assault,Convicted person,37.0,6.0
+Estonia,2019,1324820,699185.0,8068.0,Intentional homicide,Suspected person,,
+Estonia,2019,1324820,699185.0,8068.0,Intentional homicide,Prosecuted person,33.0,5.3
+Estonia,2019,1324820,699185.0,8068.0,Intentional homicide,Convicted person,34.0,5.4
+Estonia,2019,1324820,699185.0,8068.0,Rape,Suspected person,,
+Estonia,2019,1324820,699185.0,8068.0,Rape,Prosecuted person,59.0,9.4
+Estonia,2019,1324820,699185.0,8068.0,Rape,Convicted person,44.0,7.0
+Estonia,2019,1324820,699185.0,8068.0,Sexual assault,Suspected person,,
+Estonia,2019,1324820,699185.0,8068.0,Sexual assault,Prosecuted person,27.0,4.3
+Estonia,2019,1324820,699185.0,8068.0,Sexual assault,Convicted person,21.0,3.4
+Estonia,2020,1328976,699699.0,,Intentional homicide,Suspected person,,
+Estonia,2020,1328976,699699.0,,Intentional homicide,Prosecuted person,39.0,6.2
+Estonia,2020,1328976,699699.0,,Intentional homicide,Convicted person,27.0,4.3
+Estonia,2020,1328976,699699.0,,Rape,Suspected person,,
+Estonia,2020,1328976,699699.0,,Rape,Prosecuted person,46.0,7.3
+Estonia,2020,1328976,699699.0,,Rape,Convicted person,46.0,7.3
+Estonia,2020,1328976,699699.0,,Sexual assault,Suspected person,,
+Estonia,2020,1328976,699699.0,,Sexual assault,Prosecuted person,38.0,6.0
+Estonia,2020,1328976,699699.0,,Sexual assault,Convicted person,32.0,5.1
+Finland,2012,5401267,2748733.0,26084.0,Intentional homicide,Suspected person,92.0,3.5
+Finland,2012,5401267,2748733.0,26084.0,Intentional homicide,Prosecuted person,64.0,2.4
+Finland,2012,5401267,2748733.0,26084.0,Intentional homicide,Convicted person,64.0,2.4
+Finland,2012,5401267,2748733.0,26084.0,Rape,Suspected person,752.0,28.4
+Finland,2012,5401267,2748733.0,26084.0,Rape,Prosecuted person,251.0,9.5
+Finland,2012,5401267,2748733.0,26084.0,Rape,Convicted person,188.0,7.1
+Finland,2012,5401267,2748733.0,26084.0,Sexual assault,Suspected person,1844.0,69.5
+Finland,2012,5401267,2748733.0,26084.0,Sexual assault,Prosecuted person,440.0,16.6
+Finland,2012,5401267,2748733.0,26084.0,Sexual assault,Convicted person,354.0,13.3
+Finland,2013,5426674,2760052.0,25841.0,Intentional homicide,Suspected person,100.0,3.8
+Finland,2013,5426674,2760052.0,25841.0,Intentional homicide,Prosecuted person,56.0,2.1
+Finland,2013,5426674,2760052.0,25841.0,Intentional homicide,Convicted person,53.0,2.0
+Finland,2013,5426674,2760052.0,25841.0,Rape,Suspected person,796.0,29.9
+Finland,2013,5426674,2760052.0,25841.0,Rape,Prosecuted person,182.0,6.8
+Finland,2013,5426674,2760052.0,25841.0,Rape,Convicted person,147.0,5.5
+Finland,2013,5426674,2760052.0,25841.0,Sexual assault,Suspected person,1275.0,47.8
+Finland,2013,5426674,2760052.0,25841.0,Sexual assault,Prosecuted person,399.0,15.0
+Finland,2013,5426674,2760052.0,25841.0,Sexual assault,Convicted person,330.0,12.4
+Finland,2014,5451270,2770906.0,26438.0,Intentional homicide,Suspected person,84.0,3.1
+Finland,2014,5451270,2770906.0,26438.0,Intentional homicide,Prosecuted person,70.0,2.6
+Finland,2014,5451270,2770906.0,26438.0,Intentional homicide,Convicted person,67.0,2.5
+Finland,2014,5451270,2770906.0,26438.0,Rape,Suspected person,713.0,26.6
+Finland,2014,5451270,2770906.0,26438.0,Rape,Prosecuted person,233.0,8.7
+Finland,2014,5451270,2770906.0,26438.0,Rape,Convicted person,145.0,5.4
+Finland,2014,5451270,2770906.0,26438.0,Sexual assault,Suspected person,1377.0,51.4
+Finland,2014,5451270,2770906.0,26438.0,Sexual assault,Prosecuted person,456.0,17.0
+Finland,2014,5451270,2770906.0,26438.0,Sexual assault,Convicted person,388.0,14.5
+Finland,2015,5471753,2779890.0,26500.0,Intentional homicide,Suspected person,87.0,3.2
+Finland,2015,5471753,2779890.0,26500.0,Intentional homicide,Prosecuted person,49.0,1.8
+Finland,2015,5471753,2779890.0,26500.0,Intentional homicide,Convicted person,47.0,1.7
+Finland,2015,5471753,2779890.0,26500.0,Rape,Suspected person,808.0,30.0
+Finland,2015,5471753,2779890.0,26500.0,Rape,Prosecuted person,210.0,7.8
+Finland,2015,5471753,2779890.0,26500.0,Rape,Convicted person,160.0,5.9
+Finland,2015,5471753,2779890.0,26500.0,Sexual assault,Suspected person,1295.0,48.1
+Finland,2015,5471753,2779890.0,26500.0,Sexual assault,Prosecuted person,430.0,16.0
+Finland,2015,5471753,2779890.0,26500.0,Sexual assault,Convicted person,363.0,13.5
+Finland,2016,5487308,2785818.0,27001.0,Intentional homicide,Suspected person,84.0,3.1
+Finland,2016,5487308,2785818.0,27001.0,Intentional homicide,Prosecuted person,50.0,1.9
+Finland,2016,5487308,2785818.0,27001.0,Intentional homicide,Convicted person,50.0,1.9
+Finland,2016,5487308,2785818.0,27001.0,Rape,Suspected person,819.0,30.3
+Finland,2016,5487308,2785818.0,27001.0,Rape,Prosecuted person,276.0,10.2
+Finland,2016,5487308,2785818.0,27001.0,Rape,Convicted person,204.0,7.6
+Finland,2016,5487308,2785818.0,27001.0,Sexual assault,Suspected person,1205.0,44.6
+Finland,2016,5487308,2785818.0,27001.0,Sexual assault,Prosecuted person,408.0,15.1
+Finland,2016,5487308,2785818.0,27001.0,Sexual assault,Convicted person,350.0,13.0
+Finland,2017,5503297,2790970.0,26827.0,Intentional homicide,Suspected person,64.0,2.4
+Finland,2017,5503297,2790970.0,26827.0,Intentional homicide,Prosecuted person,48.0,1.8
+Finland,2017,5503297,2790970.0,26827.0,Intentional homicide,Convicted person,44.0,1.6
+Finland,2017,5503297,2790970.0,26827.0,Rape,Suspected person,930.0,34.3
+Finland,2017,5503297,2790970.0,26827.0,Rape,Prosecuted person,270.0,10.0
+Finland,2017,5503297,2790970.0,26827.0,Rape,Convicted person,183.0,6.7
+Finland,2017,5503297,2790970.0,26827.0,Sexual assault,Suspected person,1136.0,41.9
+Finland,2017,5503297,2790970.0,26827.0,Sexual assault,Prosecuted person,419.0,15.4
+Finland,2017,5503297,2790970.0,26827.0,Sexual assault,Convicted person,351.0,12.9
+Finland,2018,5513130,2793999.0,27343.0,Intentional homicide,Suspected person,52.0,1.9
+Finland,2018,5513130,2793999.0,27343.0,Intentional homicide,Prosecuted person,37.0,1.4
+Finland,2018,5513130,2793999.0,27343.0,Intentional homicide,Convicted person,34.0,1.3
+Finland,2018,5513130,2793999.0,27343.0,Rape,Suspected person,787.0,28.9
+Finland,2018,5513130,2793999.0,27343.0,Rape,Prosecuted person,248.0,9.1
+Finland,2018,5513130,2793999.0,27343.0,Rape,Convicted person,180.0,6.6
+Finland,2018,5513130,2793999.0,27343.0,Sexual assault,Suspected person,1100.0,40.5
+Finland,2018,5513130,2793999.0,27343.0,Sexual assault,Prosecuted person,397.0,14.6
+Finland,2018,5513130,2793999.0,27343.0,Sexual assault,Convicted person,354.0,13.0
+Finland,2019,5517919,2794629.0,26867.0,Intentional homicide,Suspected person,86.0,3.2
+Finland,2019,5517919,2794629.0,26867.0,Intentional homicide,Prosecuted person,47.0,1.7
+Finland,2019,5517919,2794629.0,26867.0,Intentional homicide,Convicted person,46.0,1.7
+Finland,2019,5517919,2794629.0,26867.0,Rape,Suspected person,1056.0,38.8
+Finland,2019,5517919,2794629.0,26867.0,Rape,Prosecuted person,269.0,9.9
+Finland,2019,5517919,2794629.0,26867.0,Rape,Convicted person,187.0,6.9
+Finland,2019,5517919,2794629.0,26867.0,Sexual assault,Suspected person,1457.0,53.5
+Finland,2019,5517919,2794629.0,26867.0,Sexual assault,Prosecuted person,389.0,14.3
+Finland,2019,5517919,2794629.0,26867.0,Sexual assault,Convicted person,329.0,12.1
+Finland,2020,5525292,2797030.0,27523.0,Intentional homicide,Suspected person,81.0,3.0
+Finland,2020,5525292,2797030.0,27523.0,Intentional homicide,Prosecuted person,52.0,1.9
+Finland,2020,5525292,2797030.0,27523.0,Intentional homicide,Convicted person,49.0,1.8
+Finland,2020,5525292,2797030.0,27523.0,Rape,Suspected person,1261.0,46.2
+Finland,2020,5525292,2797030.0,27523.0,Rape,Prosecuted person,240.0,8.8
+Finland,2020,5525292,2797030.0,27523.0,Rape,Convicted person,166.0,6.1
+Finland,2020,5525292,2797030.0,27523.0,Sexual assault,Suspected person,1352.0,49.6
+Finland,2020,5525292,2797030.0,27523.0,Sexual assault,Prosecuted person,372.0,13.6
+Finland,2020,5525292,2797030.0,27523.0,Sexual assault,Convicted person,311.0,11.4
+France,2012,65276983,33671600.0,283339.0,Intentional homicide,Suspected person,658.0,2.1
+France,2012,65276983,33671600.0,283339.0,Intentional homicide,Prosecuted person,1854.0,5.9
+France,2012,65276983,33671600.0,283339.0,Intentional homicide,Convicted person,530.0,1.7
+France,2012,65276983,33671600.0,283339.0,Rape,Suspected person,7319.0,23.2
+France,2012,65276983,33671600.0,283339.0,Rape,Prosecuted person,3718.0,11.8
+France,2012,65276983,33671600.0,283339.0,Rape,Convicted person,1252.0,4.0
+France,2012,65276983,33671600.0,283339.0,Sexual assault,Suspected person,9350.0,29.6
+France,2012,65276983,33671600.0,283339.0,Sexual assault,Prosecuted person,6332.0,20.0
+France,2012,65276983,33671600.0,283339.0,Sexual assault,Convicted person,5256.0,16.6
+France,2013,65600350,33827685.0,281922.0,Intentional homicide,Suspected person,676.0,2.1
+France,2013,65600350,33827685.0,281922.0,Intentional homicide,Prosecuted person,1826.0,5.7
+France,2013,65600350,33827685.0,281922.0,Intentional homicide,Convicted person,507.0,1.6
+France,2013,65600350,33827685.0,281922.0,Rape,Suspected person,7620.0,24.0
+France,2013,65600350,33827685.0,281922.0,Rape,Prosecuted person,3745.0,11.8
+France,2013,65600350,33827685.0,281922.0,Rape,Convicted person,1180.0,3.7
+France,2013,65600350,33827685.0,281922.0,Sexual assault,Suspected person,9580.0,30.2
+France,2013,65600350,33827685.0,281922.0,Sexual assault,Prosecuted person,5996.0,18.9
+France,2013,65600350,33827685.0,281922.0,Sexual assault,Convicted person,4826.0,15.2
+France,2014,66165980,34120851.0,277036.0,Intentional homicide,Suspected person,761.0,2.4
+France,2014,66165980,34120851.0,277036.0,Intentional homicide,Prosecuted person,1883.0,5.9
+France,2014,66165980,34120851.0,277036.0,Intentional homicide,Convicted person,352.0,1.1
+France,2014,66165980,34120851.0,277036.0,Rape,Suspected person,8134.0,25.4
+France,2014,66165980,34120851.0,277036.0,Rape,Prosecuted person,1883.0,5.9
+France,2014,66165980,34120851.0,277036.0,Rape,Convicted person,903.0,2.8
+France,2014,66165980,34120851.0,277036.0,Sexual assault,Suspected person,10429.0,32.5
+France,2014,66165980,34120851.0,277036.0,Sexual assault,Prosecuted person,4835.0,15.1
+France,2014,66165980,34120851.0,277036.0,Sexual assault,Convicted person,4437.0,13.8
+France,2015,66458153,34283895.0,296755.0,Intentional homicide,Suspected person,665.0,2.1
+France,2015,66458153,34283895.0,296755.0,Intentional homicide,Prosecuted person,2106.0,6.5
+France,2015,66458153,34283895.0,296755.0,Intentional homicide,Convicted person,374.0,1.2
+France,2015,66458153,34283895.0,296755.0,Rape,Suspected person,8610.0,26.8
+France,2015,66458153,34283895.0,296755.0,Rape,Prosecuted person,3430.0,10.7
+France,2015,66458153,34283895.0,296755.0,Rape,Convicted person,882.0,2.7
+France,2015,66458153,34283895.0,296755.0,Sexual assault,Suspected person,11176.0,34.7
+France,2015,66458153,34283895.0,296755.0,Sexual assault,Prosecuted person,4994.0,15.5
+France,2015,66458153,34283895.0,296755.0,Sexual assault,Convicted person,4528.0,14.1
+France,2016,66638391,34391005.0,296856.0,Intentional homicide,Suspected person,724.0,2.2
+France,2016,66638391,34391005.0,296856.0,Intentional homicide,Prosecuted person,2371.0,7.4
+France,2016,66638391,34391005.0,296856.0,Intentional homicide,Convicted person,297.0,0.9
+France,2016,66638391,34391005.0,296856.0,Rape,Suspected person,9558.0,29.6
+France,2016,66638391,34391005.0,296856.0,Rape,Prosecuted person,3837.0,11.9
+France,2016,66638391,34391005.0,296856.0,Rape,Convicted person,976.0,3.0
+France,2016,66638391,34391005.0,296856.0,Sexual assault,Suspected person,12159.0,37.7
+France,2016,66638391,34391005.0,296856.0,Sexual assault,Prosecuted person,7332.0,22.7
+France,2016,66638391,34391005.0,296856.0,Sexual assault,Convicted person,5077.0,15.7
+France,2017,66809816,34495464.0,305360.0,Intentional homicide,Suspected person,835.0,2.6
+France,2017,66809816,34495464.0,305360.0,Intentional homicide,Prosecuted person,2549.0,7.9
+France,2017,66809816,34495464.0,305360.0,Intentional homicide,Convicted person,307.0,1.0
+France,2017,66809816,34495464.0,305360.0,Rape,Suspected person,10478.0,32.4
+France,2017,66809816,34495464.0,305360.0,Rape,Prosecuted person,4068.0,12.6
+France,2017,66809816,34495464.0,305360.0,Rape,Convicted person,987.0,3.1
+France,2017,66809816,34495464.0,305360.0,Sexual assault,Suspected person,12787.0,39.6
+France,2017,66809816,34495464.0,305360.0,Sexual assault,Prosecuted person,7598.0,23.5
+France,2017,66809816,34495464.0,305360.0,Sexual assault,Convicted person,5221.0,16.2
+France,2018,67026224,34611994.0,,Intentional homicide,Suspected person,850.0,2.6
+France,2018,67026224,34611994.0,,Intentional homicide,Prosecuted person,2752.0,8.5
+France,2018,67026224,34611994.0,,Intentional homicide,Convicted person,279.0,0.9
+France,2018,67026224,34611994.0,,Rape,Suspected person,12083.0,37.3
+France,2018,67026224,34611994.0,,Rape,Prosecuted person,4556.0,14.1
+France,2018,67026224,34611994.0,,Rape,Convicted person,955.0,2.9
+France,2018,67026224,34611994.0,,Sexual assault,Suspected person,14556.0,44.9
+France,2018,67026224,34611994.0,,Sexual assault,Prosecuted person,7969.0,24.6
+France,2018,67026224,34611994.0,,Sexual assault,Convicted person,5262.0,16.2
+France,2019,67290471,34701745.0,,Intentional homicide,Suspected person,849.0,2.6
+France,2019,67290471,34701745.0,,Intentional homicide,Prosecuted person,2925.0,9.0
+France,2019,67290471,34701745.0,,Intentional homicide,Convicted person,310.0,1.0
+France,2019,67290471,34701745.0,,Rape,Suspected person,13272.0,40.7
+France,2019,67290471,34701745.0,,Rape,Prosecuted person,4949.0,15.2
+France,2019,67290471,34701745.0,,Rape,Convicted person,1058.0,3.2
+France,2019,67290471,34701745.0,,Sexual assault,Suspected person,15742.0,48.3
+France,2019,67290471,34701745.0,,Sexual assault,Prosecuted person,8541.0,26.2
+France,2019,67290471,34701745.0,,Sexual assault,Convicted person,5449.0,16.7
+France,2020,67485531,34787547.0,328140.0,Intentional homicide,Suspected person,840.0,2.6
+France,2020,67485531,34787547.0,328140.0,Intentional homicide,Prosecuted person,3003.0,9.2
+France,2020,67485531,34787547.0,328140.0,Intentional homicide,Convicted person,269.0,0.8
+France,2020,67485531,34787547.0,328140.0,Rape,Suspected person,14223.0,43.5
+France,2020,67485531,34787547.0,328140.0,Rape,Prosecuted person,5079.0,15.5
+France,2020,67485531,34787547.0,328140.0,Rape,Convicted person,737.0,2.3
+France,2020,67485531,34787547.0,328140.0,Sexual assault,Suspected person,14945.0,45.7
+France,2020,67485531,34787547.0,328140.0,Sexual assault,Prosecuted person,8065.0,24.7
+France,2020,67485531,34787547.0,328140.0,Sexual assault,Convicted person,4634.0,14.2
+Germany,2012,80327900,41097953.0,453785.0,Intentional homicide,Suspected person,598.0,1.5
+Germany,2012,80327900,41097953.0,453785.0,Intentional homicide,Prosecuted person,634.0,1.6
+Germany,2012,80327900,41097953.0,453785.0,Intentional homicide,Convicted person,326.0,0.8
+Germany,2012,80327900,41097953.0,453785.0,Rape,Suspected person,6701.0,17.1
+Germany,2012,80327900,41097953.0,453785.0,Rape,Prosecuted person,952.0,2.4
+Germany,2012,80327900,41097953.0,453785.0,Rape,Convicted person,668.0,1.7
+Germany,2012,80327900,41097953.0,453785.0,Sexual assault,Suspected person,18238.0,46.5
+Germany,2012,80327900,41097953.0,453785.0,Sexual assault,Prosecuted person,7477.0,19.1
+Germany,2012,80327900,41097953.0,453785.0,Sexual assault,Convicted person,6032.0,15.4
+Germany,2013,80523746,41142770.0,465038.0,Intentional homicide,Suspected person,607.0,1.5
+Germany,2013,80523746,41142770.0,465038.0,Intentional homicide,Prosecuted person,605.0,1.5
+Germany,2013,80523746,41142770.0,465038.0,Intentional homicide,Convicted person,259.0,0.7
+Germany,2013,80523746,41142770.0,465038.0,Rape,Suspected person,6203.0,15.8
+Germany,2013,80523746,41142770.0,465038.0,Rape,Prosecuted person,818.0,2.1
+Germany,2013,80523746,41142770.0,465038.0,Rape,Convicted person,591.0,1.5
+Germany,2013,80523746,41142770.0,465038.0,Sexual assault,Suspected person,18200.0,46.2
+Germany,2013,80523746,41142770.0,465038.0,Sexual assault,Prosecuted person,7191.0,18.3
+Germany,2013,80523746,41142770.0,465038.0,Sexual assault,Convicted person,5811.0,14.8
+Germany,2014,80767463,41210540.0,446964.0,Intentional homicide,Suspected person,644.0,1.6
+Germany,2014,80767463,41210540.0,446964.0,Intentional homicide,Prosecuted person,648.0,1.6
+Germany,2014,80767463,41210540.0,446964.0,Intentional homicide,Convicted person,287.0,0.7
+Germany,2014,80767463,41210540.0,446964.0,Rape,Suspected person,6086.0,15.4
+Germany,2014,80767463,41210540.0,446964.0,Rape,Prosecuted person,796.0,2.0
+Germany,2014,80767463,41210540.0,446964.0,Rape,Convicted person,560.0,1.4
+Germany,2014,80767463,41210540.0,446964.0,Sexual assault,Suspected person,18086.0,45.7
+Germany,2014,80767463,41210540.0,446964.0,Sexual assault,Prosecuted person,7443.0,18.8
+Germany,2014,80767463,41210540.0,446964.0,Sexual assault,Convicted person,5957.0,15.1
+Germany,2015,81197537,41362080.0,476588.0,Intentional homicide,Suspected person,601.0,1.5
+Germany,2015,81197537,41362080.0,476588.0,Intentional homicide,Prosecuted person,648.0,1.6
+Germany,2015,81197537,41362080.0,476588.0,Intentional homicide,Convicted person,299.0,0.8
+Germany,2015,81197537,41362080.0,476588.0,Rape,Suspected person,5823.0,14.6
+Germany,2015,81197537,41362080.0,476588.0,Rape,Prosecuted person,808.0,2.0
+Germany,2015,81197537,41362080.0,476588.0,Rape,Convicted person,564.0,1.4
+Germany,2015,81197537,41362080.0,476588.0,Sexual assault,Suspected person,17627.0,44.2
+Germany,2015,81197537,41362080.0,476588.0,Sexual assault,Prosecuted person,7311.0,18.4
+Germany,2015,81197537,41362080.0,476588.0,Sexual assault,Convicted person,5796.0,14.5
+Germany,2016,82175684,41661561.0,463486.0,Intentional homicide,Suspected person,688.0,1.7
+Germany,2016,82175684,41661561.0,463486.0,Intentional homicide,Prosecuted person,,
+Germany,2016,82175684,41661561.0,463486.0,Intentional homicide,Convicted person,289.0,0.7
+Germany,2016,82175684,41661561.0,463486.0,Rape,Suspected person,6393.0,15.8
+Germany,2016,82175684,41661561.0,463486.0,Rape,Prosecuted person,738.0,1.8
+Germany,2016,82175684,41661561.0,463486.0,Rape,Convicted person,526.0,1.3
+Germany,2016,82175684,41661561.0,463486.0,Sexual assault,Suspected person,19179.0,47.3
+Germany,2016,82175684,41661561.0,463486.0,Sexual assault,Prosecuted person,7110.0,17.5
+Germany,2016,82175684,41661561.0,463486.0,Sexual assault,Convicted person,5666.0,14.0
+Germany,2017,82521653,41824535.0,475322.0,Intentional homicide,Suspected person,623.0,1.5
+Germany,2017,82521653,41824535.0,475322.0,Intentional homicide,Prosecuted person,,
+Germany,2017,82521653,41824535.0,475322.0,Intentional homicide,Convicted person,258.0,0.6
+Germany,2017,82521653,41824535.0,475322.0,Rape,Suspected person,6916.0,17.0
+Germany,2017,82521653,41824535.0,475322.0,Rape,Prosecuted person,,
+Germany,2017,82521653,41824535.0,475322.0,Rape,Convicted person,1079.0,2.7
+Germany,2017,82521653,41824535.0,475322.0,Sexual assault,Suspected person,18538.0,45.6
+Germany,2017,82521653,41824535.0,475322.0,Sexual assault,Prosecuted person,,
+Germany,2017,82521653,41824535.0,475322.0,Sexual assault,Convicted person,2714.0,6.7
+Germany,2018,82792351,41948786.0,485711.0,Intentional homicide,Suspected person,627.0,1.5
+Germany,2018,82792351,41948786.0,485711.0,Intentional homicide,Prosecuted person,,
+Germany,2018,82792351,41948786.0,485711.0,Intentional homicide,Convicted person,262.0,0.6
+Germany,2018,82792351,41948786.0,485711.0,Rape,Suspected person,7707.0,18.9
+Germany,2018,82792351,41948786.0,485711.0,Rape,Prosecuted person,,
+Germany,2018,82792351,41948786.0,485711.0,Rape,Convicted person,1122.0,2.7
+Germany,2018,82792351,41948786.0,485711.0,Sexual assault,Suspected person,22938.0,56.2
+Germany,2018,82792351,41948786.0,485711.0,Sexual assault,Prosecuted person,,
+Germany,2018,82792351,41948786.0,485711.0,Sexual assault,Convicted person,3384.0,8.3
+Germany,2019,83019213,42052522.0,474536.0,Intentional homicide,Suspected person,584.0,1.4
+Germany,2019,83019213,42052522.0,474536.0,Intentional homicide,Prosecuted person,,
+Germany,2019,83019213,42052522.0,474536.0,Intentional homicide,Convicted person,313.0,0.8
+Germany,2019,83019213,42052522.0,474536.0,Rape,Suspected person,8142.0,19.9
+Germany,2019,83019213,42052522.0,474536.0,Rape,Prosecuted person,,
+Germany,2019,83019213,42052522.0,474536.0,Rape,Convicted person,1175.0,2.9
+Germany,2019,83019213,42052522.0,474536.0,Sexual assault,Suspected person,22758.0,55.6
+Germany,2019,83019213,42052522.0,474536.0,Sexual assault,Prosecuted person,,
+Germany,2019,83019213,42052522.0,474536.0,Sexual assault,Convicted person,3701.0,9.0
+Germany,2020,83166711,42129098.0,493503.0,Intentional homicide,Suspected person,589.0,1.4
+Germany,2020,83166711,42129098.0,493503.0,Intentional homicide,Prosecuted person,,
+Germany,2020,83166711,42129098.0,493503.0,Intentional homicide,Convicted person,276.0,0.7
+Germany,2020,83166711,42129098.0,493503.0,Rape,Suspected person,8672.0,21.1
+Germany,2020,83166711,42129098.0,493503.0,Rape,Prosecuted person,,
+Germany,2020,83166711,42129098.0,493503.0,Rape,Convicted person,1258.0,3.1
+Germany,2020,83166711,42129098.0,493503.0,Sexual assault,Suspected person,22239.0,54.2
+Germany,2020,83166711,42129098.0,493503.0,Sexual assault,Prosecuted person,,
+Germany,2020,83166711,42129098.0,493503.0,Sexual assault,Convicted person,3796.0,9.3
+Germany,2021,83155031,42128512.0,,Intentional homicide,Suspected person,635.0,1.5
+Germany,2021,83155031,42128512.0,,Rape,Suspected person,8558.0,20.9
+Germany,2021,83155031,42128512.0,,Sexual assault,Suspected person,22486.0,54.8
+Greece,2012,11086406,5662522.0,56533.0,Intentional homicide,Suspected person,,
+Greece,2012,11086406,5662522.0,56533.0,Intentional homicide,Prosecuted person,,
+Greece,2012,11086406,5662522.0,56533.0,Intentional homicide,Convicted person,,
+Greece,2012,11086406,5662522.0,56533.0,Rape,Suspected person,,
+Greece,2012,11086406,5662522.0,56533.0,Rape,Prosecuted person,,
+Greece,2012,11086406,5662522.0,56533.0,Rape,Convicted person,,
+Greece,2012,11086406,5662522.0,56533.0,Sexual assault,Suspected person,,
+Greece,2012,11086406,5662522.0,56533.0,Sexual assault,Prosecuted person,,
+Greece,2012,11086406,5662522.0,56533.0,Sexual assault,Convicted person,,
+Greece,2013,11003615,5637364.0,54163.0,Intentional homicide,Suspected person,,
+Greece,2013,11003615,5637364.0,54163.0,Intentional homicide,Prosecuted person,,
+Greece,2013,11003615,5637364.0,54163.0,Intentional homicide,Convicted person,,
+Greece,2013,11003615,5637364.0,54163.0,Rape,Suspected person,,
+Greece,2013,11003615,5637364.0,54163.0,Rape,Prosecuted person,,
+Greece,2013,11003615,5637364.0,54163.0,Rape,Convicted person,,
+Greece,2013,11003615,5637364.0,54163.0,Sexual assault,Suspected person,,
+Greece,2013,11003615,5637364.0,54163.0,Sexual assault,Prosecuted person,,
+Greece,2013,11003615,5637364.0,54163.0,Sexual assault,Convicted person,,
+Greece,2014,10926807,5613568.0,55194.0,Intentional homicide,Suspected person,102.0,1.9
+Greece,2014,10926807,5613568.0,55194.0,Intentional homicide,Prosecuted person,,
+Greece,2014,10926807,5613568.0,55194.0,Intentional homicide,Convicted person,,
+Greece,2014,10926807,5613568.0,55194.0,Rape,Suspected person,,
+Greece,2014,10926807,5613568.0,55194.0,Rape,Prosecuted person,,
+Greece,2014,10926807,5613568.0,55194.0,Rape,Convicted person,,
+Greece,2014,10926807,5613568.0,55194.0,Sexual assault,Suspected person,,
+Greece,2014,10926807,5613568.0,55194.0,Sexual assault,Prosecuted person,,
+Greece,2014,10926807,5613568.0,55194.0,Sexual assault,Convicted person,,
+Greece,2015,10858018,5589628.0,59535.0,Intentional homicide,Suspected person,87.0,1.7
+Greece,2015,10858018,5589628.0,59535.0,Intentional homicide,Prosecuted person,,
+Greece,2015,10858018,5589628.0,59535.0,Intentional homicide,Convicted person,,
+Greece,2015,10858018,5589628.0,59535.0,Rape,Suspected person,,
+Greece,2015,10858018,5589628.0,59535.0,Rape,Prosecuted person,,
+Greece,2015,10858018,5589628.0,59535.0,Rape,Convicted person,,
+Greece,2015,10858018,5589628.0,59535.0,Sexual assault,Suspected person,,
+Greece,2015,10858018,5589628.0,59535.0,Sexual assault,Prosecuted person,,
+Greece,2015,10858018,5589628.0,59535.0,Sexual assault,Convicted person,,
+Greece,2016,10783748,5559538.0,58320.0,Intentional homicide,Suspected person,93.0,1.8
+Greece,2016,10783748,5559538.0,58320.0,Intentional homicide,Prosecuted person,,
+Greece,2016,10783748,5559538.0,58320.0,Intentional homicide,Convicted person,,
+Greece,2016,10783748,5559538.0,58320.0,Rape,Suspected person,232.0,4.4
+Greece,2016,10783748,5559538.0,58320.0,Rape,Prosecuted person,,
+Greece,2016,10783748,5559538.0,58320.0,Rape,Convicted person,,
+Greece,2016,10783748,5559538.0,58320.0,Sexual assault,Suspected person,,
+Greece,2016,10783748,5559538.0,58320.0,Sexual assault,Prosecuted person,,
+Greece,2016,10783748,5559538.0,58320.0,Sexual assault,Convicted person,,
+Greece,2017,10768193,5546916.0,61341.0,Intentional homicide,Suspected person,89.0,1.7
+Greece,2017,10768193,5546916.0,61341.0,Intentional homicide,Prosecuted person,,
+Greece,2017,10768193,5546916.0,61341.0,Intentional homicide,Convicted person,,
+Greece,2017,10768193,5546916.0,61341.0,Rape,Suspected person,244.0,4.7
+Greece,2017,10768193,5546916.0,61341.0,Rape,Prosecuted person,,
+Greece,2017,10768193,5546916.0,61341.0,Rape,Convicted person,,
+Greece,2017,10768193,5546916.0,61341.0,Sexual assault,Suspected person,,
+Greece,2017,10768193,5546916.0,61341.0,Sexual assault,Prosecuted person,,
+Greece,2017,10768193,5546916.0,61341.0,Sexual assault,Convicted person,,
+Greece,2018,10741165,5531125.0,58919.0,Intentional homicide,Suspected person,90.0,1.7
+Greece,2018,10741165,5531125.0,58919.0,Intentional homicide,Prosecuted person,,
+Greece,2018,10741165,5531125.0,58919.0,Intentional homicide,Convicted person,,
+Greece,2018,10741165,5531125.0,58919.0,Rape,Suspected person,219.0,4.2
+Greece,2018,10741165,5531125.0,58919.0,Rape,Prosecuted person,,
+Greece,2018,10741165,5531125.0,58919.0,Rape,Convicted person,,
+Greece,2018,10741165,5531125.0,58919.0,Sexual assault,Suspected person,,
+Greece,2018,10741165,5531125.0,58919.0,Sexual assault,Prosecuted person,,
+Greece,2018,10741165,5531125.0,58919.0,Sexual assault,Convicted person,,
+Greece,2019,10724599,5516306.0,61887.0,Intentional homicide,Suspected person,85.0,1.6
+Greece,2019,10724599,5516306.0,61887.0,Intentional homicide,Prosecuted person,,
+Greece,2019,10724599,5516306.0,61887.0,Intentional homicide,Convicted person,,
+Greece,2019,10724599,5516306.0,61887.0,Rape,Suspected person,187.0,3.6
+Greece,2019,10724599,5516306.0,61887.0,Rape,Prosecuted person,,
+Greece,2019,10724599,5516306.0,61887.0,Rape,Convicted person,,
+Greece,2019,10724599,5516306.0,61887.0,Sexual assault,Suspected person,,
+Greece,2019,10724599,5516306.0,61887.0,Sexual assault,Prosecuted person,,
+Greece,2019,10724599,5516306.0,61887.0,Sexual assault,Convicted person,,
+Greece,2020,10718565,5503077.0,64488.0,Intentional homicide,Suspected person,,
+Greece,2020,10718565,5503077.0,64488.0,Intentional homicide,Prosecuted person,,
+Greece,2020,10718565,5503077.0,64488.0,Intentional homicide,Convicted person,,
+Greece,2020,10718565,5503077.0,64488.0,Rape,Suspected person,162.0,3.1
+Greece,2020,10718565,5503077.0,64488.0,Rape,Prosecuted person,,
+Greece,2020,10718565,5503077.0,64488.0,Rape,Convicted person,,
+Greece,2020,10718565,5503077.0,64488.0,Sexual assault,Suspected person,,
+Greece,2020,10718565,5503077.0,64488.0,Sexual assault,Prosecuted person,,
+Greece,2020,10718565,5503077.0,64488.0,Sexual assault,Convicted person,,
+Hungary,2012,9931925,5207259.0,65936.0,Intentional homicide,Suspected person,114.0,2.4
+Hungary,2012,9931925,5207259.0,65936.0,Intentional homicide,Prosecuted person,193.0,4.1
+Hungary,2012,9931925,5207259.0,65936.0,Intentional homicide,Convicted person,124.0,2.6
+Hungary,2012,9931925,5207259.0,65936.0,Rape,Suspected person,250.0,5.3
+Hungary,2012,9931925,5207259.0,65936.0,Rape,Prosecuted person,92.0,1.9
+Hungary,2012,9931925,5207259.0,65936.0,Rape,Convicted person,84.0,1.8
+Hungary,2012,9931925,5207259.0,65936.0,Sexual assault,Suspected person,461.0,9.8
+Hungary,2012,9931925,5207259.0,65936.0,Sexual assault,Prosecuted person,215.0,4.6
+Hungary,2012,9931925,5207259.0,65936.0,Sexual assault,Convicted person,255.0,5.4
+Hungary,2013,9908798,5192845.0,64884.0,Intentional homicide,Suspected person,148.0,3.1
+Hungary,2013,9908798,5192845.0,64884.0,Intentional homicide,Prosecuted person,222.0,4.7
+Hungary,2013,9908798,5192845.0,64884.0,Intentional homicide,Convicted person,101.0,2.1
+Hungary,2013,9908798,5192845.0,64884.0,Rape,Suspected person,249.0,5.3
+Hungary,2013,9908798,5192845.0,64884.0,Rape,Prosecuted person,89.0,1.9
+Hungary,2013,9908798,5192845.0,64884.0,Rape,Convicted person,174.0,3.7
+Hungary,2013,9908798,5192845.0,64884.0,Sexual assault,Suspected person,439.0,9.3
+Hungary,2013,9908798,5192845.0,64884.0,Sexual assault,Prosecuted person,212.0,4.5
+Hungary,2013,9908798,5192845.0,64884.0,Sexual assault,Convicted person,208.0,4.4
+Hungary,2014,9877365,5173974.0,64316.0,Intentional homicide,Suspected person,109.0,2.3
+Hungary,2014,9877365,5173974.0,64316.0,Intentional homicide,Prosecuted person,186.0,4.0
+Hungary,2014,9877365,5173974.0,64316.0,Intentional homicide,Convicted person,125.0,2.7
+Hungary,2014,9877365,5173974.0,64316.0,Rape,Suspected person,255.0,5.4
+Hungary,2014,9877365,5173974.0,64316.0,Rape,Prosecuted person,174.0,3.7
+Hungary,2014,9877365,5173974.0,64316.0,Rape,Convicted person,93.0,2.0
+Hungary,2014,9877365,5173974.0,64316.0,Sexual assault,Suspected person,202.0,4.3
+Hungary,2014,9877365,5173974.0,64316.0,Sexual assault,Prosecuted person,136.0,2.9
+Hungary,2014,9877365,5173974.0,64316.0,Sexual assault,Convicted person,53.0,1.1
+Hungary,2015,9855571,5159792.0,68152.0,Intentional homicide,Suspected person,99.0,2.1
+Hungary,2015,9855571,5159792.0,68152.0,Intentional homicide,Prosecuted person,154.0,3.3
+Hungary,2015,9855571,5159792.0,68152.0,Intentional homicide,Convicted person,65.0,1.4
+Hungary,2015,9855571,5159792.0,68152.0,Rape,Suspected person,361.0,7.7
+Hungary,2015,9855571,5159792.0,68152.0,Rape,Prosecuted person,227.0,4.8
+Hungary,2015,9855571,5159792.0,68152.0,Rape,Convicted person,152.0,3.2
+Hungary,2015,9855571,5159792.0,68152.0,Sexual assault,Suspected person,163.0,3.5
+Hungary,2015,9855571,5159792.0,68152.0,Sexual assault,Prosecuted person,126.0,2.7
+Hungary,2015,9855571,5159792.0,68152.0,Sexual assault,Convicted person,64.0,1.4
+Hungary,2016,9830485,5141966.0,64395.0,Intentional homicide,Suspected person,83.0,1.8
+Hungary,2016,9830485,5141966.0,64395.0,Intentional homicide,Prosecuted person,70.0,1.5
+Hungary,2016,9830485,5141966.0,64395.0,Intentional homicide,Convicted person,92.0,2.0
+Hungary,2016,9830485,5141966.0,64395.0,Rape,Suspected person,393.0,8.4
+Hungary,2016,9830485,5141966.0,64395.0,Rape,Prosecuted person,331.0,7.1
+Hungary,2016,9830485,5141966.0,64395.0,Rape,Convicted person,223.0,4.8
+Hungary,2016,9830485,5141966.0,64395.0,Sexual assault,Suspected person,,
+Hungary,2016,9830485,5141966.0,64395.0,Sexual assault,Prosecuted person,,
+Hungary,2016,9830485,5141966.0,64395.0,Sexual assault,Convicted person,76.0,1.6
+Hungary,2017,9797561,5122270.0,67649.0,Intentional homicide,Suspected person,77.0,1.6
+Hungary,2017,9797561,5122270.0,67649.0,Intentional homicide,Prosecuted person,70.0,1.5
+Hungary,2017,9797561,5122270.0,67649.0,Intentional homicide,Convicted person,67.0,1.4
+Hungary,2017,9797561,5122270.0,67649.0,Rape,Suspected person,338.0,7.2
+Hungary,2017,9797561,5122270.0,67649.0,Rape,Prosecuted person,287.0,6.1
+Hungary,2017,9797561,5122270.0,67649.0,Rape,Convicted person,218.0,4.7
+Hungary,2017,9797561,5122270.0,67649.0,Sexual assault,Suspected person,,
+Hungary,2017,9797561,5122270.0,67649.0,Sexual assault,Prosecuted person,,
+Hungary,2017,9797561,5122270.0,67649.0,Sexual assault,Convicted person,63.0,1.3
+Hungary,2018,9778371,5106769.0,67029.0,Intentional homicide,Suspected person,44.0,0.9
+Hungary,2018,9778371,5106769.0,67029.0,Intentional homicide,Prosecuted person,,
+Hungary,2018,9778371,5106769.0,67029.0,Intentional homicide,Convicted person,74.0,1.6
+Hungary,2018,9778371,5106769.0,67029.0,Rape,Suspected person,200.0,4.3
+Hungary,2018,9778371,5106769.0,67029.0,Rape,Prosecuted person,178.0,3.8
+Hungary,2018,9778371,5106769.0,67029.0,Rape,Convicted person,240.0,5.1
+Hungary,2018,9778371,5106769.0,67029.0,Sexual assault,Suspected person,,
+Hungary,2018,9778371,5106769.0,67029.0,Sexual assault,Prosecuted person,,
+Hungary,2018,9778371,5106769.0,67029.0,Sexual assault,Convicted person,70.0,1.5
+Hungary,2019,9772756,5096935.0,66617.0,Intentional homicide,Suspected person,48.0,1.0
+Hungary,2019,9772756,5096935.0,66617.0,Intentional homicide,Prosecuted person,89.0,1.9
+Hungary,2019,9772756,5096935.0,66617.0,Intentional homicide,Convicted person,73.0,1.6
+Hungary,2019,9772756,5096935.0,66617.0,Rape,Suspected person,309.0,6.6
+Hungary,2019,9772756,5096935.0,66617.0,Rape,Prosecuted person,267.0,5.7
+Hungary,2019,9772756,5096935.0,66617.0,Rape,Convicted person,229.0,4.9
+Hungary,2019,9772756,5096935.0,66617.0,Sexual assault,Suspected person,,
+Hungary,2019,9772756,5096935.0,66617.0,Sexual assault,Prosecuted person,,
+Hungary,2019,9772756,5096935.0,66617.0,Sexual assault,Convicted person,66.0,1.4
+Hungary,2020,9769526,5088736.0,73481.0,Intentional homicide,Suspected person,76.0,1.6
+Hungary,2020,9769526,5088736.0,73481.0,Intentional homicide,Prosecuted person,155.0,3.3
+Hungary,2020,9769526,5088736.0,73481.0,Intentional homicide,Convicted person,42.0,0.9
+Hungary,2020,9769526,5088736.0,73481.0,Rape,Suspected person,441.0,9.4
+Hungary,2020,9769526,5088736.0,73481.0,Rape,Prosecuted person,394.0,8.4
+Hungary,2020,9769526,5088736.0,73481.0,Rape,Convicted person,216.0,4.6
+Hungary,2020,9769526,5088736.0,73481.0,Sexual assault,Suspected person,,
+Hungary,2020,9769526,5088736.0,73481.0,Sexual assault,Prosecuted person,,
+Hungary,2020,9769526,5088736.0,73481.0,Sexual assault,Convicted person,,
+Ireland,2012,4589287,2315288.0,14241.0,Intentional homicide,Suspected person,,
+Ireland,2012,4589287,2315288.0,14241.0,Intentional homicide,Prosecuted person,,
+Ireland,2012,4589287,2315288.0,14241.0,Intentional homicide,Convicted person,,
+Ireland,2012,4589287,2315288.0,14241.0,Rape,Suspected person,,
+Ireland,2012,4589287,2315288.0,14241.0,Rape,Prosecuted person,,
+Ireland,2012,4589287,2315288.0,14241.0,Rape,Convicted person,,
+Ireland,2012,4589287,2315288.0,14241.0,Sexual assault,Suspected person,,
+Ireland,2012,4589287,2315288.0,14241.0,Sexual assault,Prosecuted person,,
+Ireland,2012,4589287,2315288.0,14241.0,Sexual assault,Convicted person,69.0,3.0
+Ireland,2013,4609779,2326317.0,14545.0,Intentional homicide,Suspected person,,
+Ireland,2013,4609779,2326317.0,14545.0,Intentional homicide,Prosecuted person,,
+Ireland,2013,4609779,2326317.0,14545.0,Intentional homicide,Convicted person,,
+Ireland,2013,4609779,2326317.0,14545.0,Rape,Suspected person,,
+Ireland,2013,4609779,2326317.0,14545.0,Rape,Prosecuted person,,
+Ireland,2013,4609779,2326317.0,14545.0,Rape,Convicted person,,
+Ireland,2013,4609779,2326317.0,14545.0,Sexual assault,Suspected person,,
+Ireland,2013,4609779,2326317.0,14545.0,Sexual assault,Prosecuted person,,
+Ireland,2013,4609779,2326317.0,14545.0,Sexual assault,Convicted person,,
+Ireland,2014,4637852,2342002.0,14355.0,Intentional homicide,Suspected person,,
+Ireland,2014,4637852,2342002.0,14355.0,Intentional homicide,Prosecuted person,,
+Ireland,2014,4637852,2342002.0,14355.0,Intentional homicide,Convicted person,,
+Ireland,2014,4637852,2342002.0,14355.0,Rape,Suspected person,,
+Ireland,2014,4637852,2342002.0,14355.0,Rape,Prosecuted person,,
+Ireland,2014,4637852,2342002.0,14355.0,Rape,Convicted person,,
+Ireland,2014,4637852,2342002.0,14355.0,Sexual assault,Suspected person,,
+Ireland,2014,4637852,2342002.0,14355.0,Sexual assault,Prosecuted person,,
+Ireland,2014,4637852,2342002.0,14355.0,Sexual assault,Convicted person,,
+Ireland,2015,4677627,2364285.0,14899.0,Intentional homicide,Suspected person,,
+Ireland,2015,4677627,2364285.0,14899.0,Intentional homicide,Prosecuted person,,
+Ireland,2015,4677627,2364285.0,14899.0,Intentional homicide,Convicted person,,
+Ireland,2015,4677627,2364285.0,14899.0,Rape,Suspected person,,
+Ireland,2015,4677627,2364285.0,14899.0,Rape,Prosecuted person,,
+Ireland,2015,4677627,2364285.0,14899.0,Rape,Convicted person,,
+Ireland,2015,4677627,2364285.0,14899.0,Sexual assault,Suspected person,,
+Ireland,2015,4677627,2364285.0,14899.0,Sexual assault,Prosecuted person,,
+Ireland,2015,4677627,2364285.0,14899.0,Sexual assault,Convicted person,,
+Ireland,2016,4726286,2387145.0,15047.0,Intentional homicide,Suspected person,,
+Ireland,2016,4726286,2387145.0,15047.0,Intentional homicide,Prosecuted person,,
+Ireland,2016,4726286,2387145.0,15047.0,Intentional homicide,Convicted person,,
+Ireland,2016,4726286,2387145.0,15047.0,Rape,Suspected person,,
+Ireland,2016,4726286,2387145.0,15047.0,Rape,Prosecuted person,,
+Ireland,2016,4726286,2387145.0,15047.0,Rape,Convicted person,,
+Ireland,2016,4726286,2387145.0,15047.0,Sexual assault,Suspected person,,
+Ireland,2016,4726286,2387145.0,15047.0,Sexual assault,Prosecuted person,,
+Ireland,2016,4726286,2387145.0,15047.0,Sexual assault,Convicted person,,
+Ireland,2017,4784383,2416465.0,14929.0,Intentional homicide,Suspected person,33.0,1.4
+Ireland,2017,4784383,2416465.0,14929.0,Intentional homicide,Prosecuted person,,
+Ireland,2017,4784383,2416465.0,14929.0,Intentional homicide,Convicted person,,
+Ireland,2017,4784383,2416465.0,14929.0,Rape,Suspected person,218.0,9.2
+Ireland,2017,4784383,2416465.0,14929.0,Rape,Prosecuted person,,
+Ireland,2017,4784383,2416465.0,14929.0,Rape,Convicted person,,
+Ireland,2017,4784383,2416465.0,14929.0,Sexual assault,Suspected person,480.0,20.3
+Ireland,2017,4784383,2416465.0,14929.0,Sexual assault,Prosecuted person,,
+Ireland,2017,4784383,2416465.0,14929.0,Sexual assault,Convicted person,,
+Ireland,2018,4830392,2438169.0,15095.0,Intentional homicide,Suspected person,26.0,1.1
+Ireland,2018,4830392,2438169.0,15095.0,Intentional homicide,Prosecuted person,,
+Ireland,2018,4830392,2438169.0,15095.0,Intentional homicide,Convicted person,,
+Ireland,2018,4830392,2438169.0,15095.0,Rape,Suspected person,96.0,4.0
+Ireland,2018,4830392,2438169.0,15095.0,Rape,Prosecuted person,,
+Ireland,2018,4830392,2438169.0,15095.0,Rape,Convicted person,,
+Ireland,2018,4830392,2438169.0,15095.0,Sexual assault,Suspected person,281.0,11.7
+Ireland,2018,4830392,2438169.0,15095.0,Sexual assault,Prosecuted person,,
+Ireland,2018,4830392,2438169.0,15095.0,Sexual assault,Convicted person,,
+Ireland,2019,4904240,2475359.0,14912.0,Intentional homicide,Suspected person,24.0,1.0
+Ireland,2019,4904240,2475359.0,14912.0,Intentional homicide,Prosecuted person,,
+Ireland,2019,4904240,2475359.0,14912.0,Intentional homicide,Convicted person,,
+Ireland,2019,4904240,2475359.0,14912.0,Rape,Suspected person,143.0,5.9
+Ireland,2019,4904240,2475359.0,14912.0,Rape,Prosecuted person,,
+Ireland,2019,4904240,2475359.0,14912.0,Rape,Convicted person,,
+Ireland,2019,4904240,2475359.0,14912.0,Sexual assault,Suspected person,401.0,16.5
+Ireland,2019,4904240,2475359.0,14912.0,Sexual assault,Prosecuted person,,
+Ireland,2019,4904240,2475359.0,14912.0,Sexual assault,Convicted person,,
+Ireland,2020,4964440,2506783.0,15315.0,Intentional homicide,Suspected person,32.0,1.3
+Ireland,2020,4964440,2506783.0,15315.0,Intentional homicide,Prosecuted person,,
+Ireland,2020,4964440,2506783.0,15315.0,Intentional homicide,Convicted person,,
+Ireland,2020,4964440,2506783.0,15315.0,Rape,Suspected person,243.0,9.9
+Ireland,2020,4964440,2506783.0,15315.0,Rape,Prosecuted person,,
+Ireland,2020,4964440,2506783.0,15315.0,Rape,Convicted person,,
+Ireland,2020,4964440,2506783.0,15315.0,Sexual assault,Suspected person,442.0,18.0
+Ireland,2020,4964440,2506783.0,15315.0,Sexual assault,Prosecuted person,,
+Ireland,2020,4964440,2506783.0,15315.0,Sexual assault,Convicted person,,
+Italy,2012,59394207,30667608.0,317689.0,Intentional homicide,Suspected person,988.0,3.4
+Italy,2012,59394207,30667608.0,317689.0,Intentional homicide,Prosecuted person,1354.0,4.7
+Italy,2012,59394207,30667608.0,317689.0,Intentional homicide,Convicted person,480.0,1.7
+Italy,2012,59394207,30667608.0,317689.0,Rape,Suspected person,,
+Italy,2012,59394207,30667608.0,317689.0,Rape,Prosecuted person,7118.0,24.8
+Italy,2012,59394207,30667608.0,317689.0,Rape,Convicted person,1488.0,5.2
+Italy,2012,59394207,30667608.0,317689.0,Sexual assault,Suspected person,4306.0,15.0
+Italy,2012,59394207,30667608.0,317689.0,Sexual assault,Prosecuted person,,
+Italy,2012,59394207,30667608.0,317689.0,Sexual assault,Convicted person,,
+Italy,2013,59685227,30795630.0,309281.0,Intentional homicide,Suspected person,1085.0,3.8
+Italy,2013,59685227,30795630.0,309281.0,Intentional homicide,Prosecuted person,1404.0,4.9
+Italy,2013,59685227,30795630.0,309281.0,Intentional homicide,Convicted person,513.0,1.8
+Italy,2013,59685227,30795630.0,309281.0,Rape,Suspected person,,
+Italy,2013,59685227,30795630.0,309281.0,Rape,Prosecuted person,7118.0,24.6
+Italy,2013,59685227,30795630.0,309281.0,Rape,Convicted person,1488.0,5.2
+Italy,2013,59685227,30795630.0,309281.0,Sexual assault,Suspected person,4306.0,14.9
+Italy,2013,59685227,30795630.0,309281.0,Sexual assault,Prosecuted person,,
+Italy,2013,59685227,30795630.0,309281.0,Sexual assault,Convicted person,,
+Italy,2014,60782668,31298104.0,308870.0,Intentional homicide,Suspected person,1003.0,3.4
+Italy,2014,60782668,31298104.0,308870.0,Intentional homicide,Prosecuted person,1625.0,5.5
+Italy,2014,60782668,31298104.0,308870.0,Intentional homicide,Convicted person,587.0,2.0
+Italy,2014,60782668,31298104.0,308870.0,Rape,Suspected person,,
+Italy,2014,60782668,31298104.0,308870.0,Rape,Prosecuted person,6948.0,23.6
+Italy,2014,60782668,31298104.0,308870.0,Rape,Convicted person,1558.0,5.3
+Italy,2014,60782668,31298104.0,308870.0,Sexual assault,Suspected person,4312.0,14.6
+Italy,2014,60782668,31298104.0,308870.0,Sexual assault,Prosecuted person,,
+Italy,2014,60782668,31298104.0,308870.0,Sexual assault,Convicted person,,
+Italy,2015,60795612,31294022.0,338656.0,Intentional homicide,Suspected person,984.0,3.3
+Italy,2015,60795612,31294022.0,338656.0,Intentional homicide,Prosecuted person,1437.0,4.9
+Italy,2015,60795612,31294022.0,338656.0,Intentional homicide,Convicted person,489.0,1.7
+Italy,2015,60795612,31294022.0,338656.0,Rape,Suspected person,,
+Italy,2015,60795612,31294022.0,338656.0,Rape,Prosecuted person,7203.0,24.4
+Italy,2015,60795612,31294022.0,338656.0,Rape,Convicted person,1318.0,4.5
+Italy,2015,60795612,31294022.0,338656.0,Sexual assault,Suspected person,4004.0,13.6
+Italy,2015,60795612,31294022.0,338656.0,Sexual assault,Prosecuted person,,
+Italy,2015,60795612,31294022.0,338656.0,Sexual assault,Convicted person,,
+Italy,2016,60665551,31209230.0,320418.0,Intentional homicide,Suspected person,942.0,3.2
+Italy,2016,60665551,31209230.0,320418.0,Intentional homicide,Prosecuted person,1401.0,4.8
+Italy,2016,60665551,31209230.0,320418.0,Intentional homicide,Convicted person,583.0,2.0
+Italy,2016,60665551,31209230.0,320418.0,Rape,Suspected person,,
+Italy,2016,60665551,31209230.0,320418.0,Rape,Prosecuted person,,
+Italy,2016,60665551,31209230.0,320418.0,Rape,Convicted person,,
+Italy,2016,60665551,31209230.0,320418.0,Sexual assault,Suspected person,,
+Italy,2016,60665551,31209230.0,320418.0,Sexual assault,Prosecuted person,,
+Italy,2016,60665551,31209230.0,320418.0,Sexual assault,Convicted person,,
+Italy,2017,60589445,31143704.0,340023.0,Intentional homicide,Suspected person,917.0,3.1
+Italy,2017,60589445,31143704.0,340023.0,Intentional homicide,Prosecuted person,1569.0,5.3
+Italy,2017,60589445,31143704.0,340023.0,Intentional homicide,Convicted person,566.0,1.9
+Italy,2017,60589445,31143704.0,340023.0,Rape,Suspected person,,
+Italy,2017,60589445,31143704.0,340023.0,Rape,Prosecuted person,,
+Italy,2017,60589445,31143704.0,340023.0,Rape,Convicted person,,
+Italy,2017,60589445,31143704.0,340023.0,Sexual assault,Suspected person,,
+Italy,2017,60589445,31143704.0,340023.0,Sexual assault,Prosecuted person,,
+Italy,2017,60589445,31143704.0,340023.0,Sexual assault,Convicted person,,
+Italy,2018,60483973,31056366.0,329961.0,Intentional homicide,Suspected person,788.0,2.7
+Italy,2018,60483973,31056366.0,329961.0,Intentional homicide,Prosecuted person,1442.0,4.9
+Italy,2018,60483973,31056366.0,329961.0,Intentional homicide,Convicted person,648.0,2.2
+Italy,2018,60483973,31056366.0,329961.0,Rape,Suspected person,,
+Italy,2018,60483973,31056366.0,329961.0,Rape,Prosecuted person,,
+Italy,2018,60483973,31056366.0,329961.0,Rape,Convicted person,,
+Italy,2018,60483973,31056366.0,329961.0,Sexual assault,Suspected person,,
+Italy,2018,60483973,31056366.0,329961.0,Sexual assault,Prosecuted person,,
+Italy,2018,60483973,31056366.0,329961.0,Sexual assault,Convicted person,,
+Italy,2019,59816673,30685478.0,333897.0,Intentional homicide,Suspected person,886.0,3.0
+Italy,2019,59816673,30685478.0,333897.0,Intentional homicide,Prosecuted person,,
+Italy,2019,59816673,30685478.0,333897.0,Intentional homicide,Convicted person,,
+Italy,2019,59816673,30685478.0,333897.0,Rape,Suspected person,,
+Italy,2019,59816673,30685478.0,333897.0,Rape,Prosecuted person,,
+Italy,2019,59816673,30685478.0,333897.0,Rape,Convicted person,,
+Italy,2019,59816673,30685478.0,333897.0,Sexual assault,Suspected person,,
+Italy,2019,59816673,30685478.0,333897.0,Sexual assault,Prosecuted person,,
+Italy,2019,59816673,30685478.0,333897.0,Sexual assault,Convicted person,,
+Italy,2020,59641488,30591392.0,380899.0,Intentional homicide,Suspected person,781.0,2.7
+Italy,2020,59641488,30591392.0,380899.0,Intentional homicide,Prosecuted person,,
+Italy,2020,59641488,30591392.0,380899.0,Intentional homicide,Convicted person,,
+Italy,2020,59641488,30591392.0,380899.0,Rape,Suspected person,,
+Italy,2020,59641488,30591392.0,380899.0,Rape,Prosecuted person,,
+Italy,2020,59641488,30591392.0,380899.0,Rape,Convicted person,,
+Italy,2020,59641488,30591392.0,380899.0,Sexual assault,Suspected person,,
+Italy,2020,59641488,30591392.0,380899.0,Sexual assault,Prosecuted person,,
+Italy,2020,59641488,30591392.0,380899.0,Sexual assault,Convicted person,,
+Latvia,2012,2044813,1110001.0,15255.0,Intentional homicide,Suspected person,111.0,11.9
+Latvia,2012,2044813,1110001.0,15255.0,Intentional homicide,Prosecuted person,45.0,4.8
+Latvia,2012,2044813,1110001.0,15255.0,Intentional homicide,Convicted person,77.0,8.2
+Latvia,2012,2044813,1110001.0,15255.0,Rape,Suspected person,46.0,4.9
+Latvia,2012,2044813,1110001.0,15255.0,Rape,Prosecuted person,16.0,1.7
+Latvia,2012,2044813,1110001.0,15255.0,Rape,Convicted person,51.0,5.5
+Latvia,2012,2044813,1110001.0,15255.0,Sexual assault,Suspected person,139.0,14.9
+Latvia,2012,2044813,1110001.0,15255.0,Sexual assault,Prosecuted person,64.0,6.8
+Latvia,2012,2044813,1110001.0,15255.0,Sexual assault,Convicted person,33.0,3.5
+Latvia,2013,2023825,1097245.0,15200.0,Intentional homicide,Suspected person,146.0,15.8
+Latvia,2013,2023825,1097245.0,15200.0,Intentional homicide,Prosecuted person,72.0,7.8
+Latvia,2013,2023825,1097245.0,15200.0,Intentional homicide,Convicted person,86.0,9.3
+Latvia,2013,2023825,1097245.0,15200.0,Rape,Suspected person,86.0,9.3
+Latvia,2013,2023825,1097245.0,15200.0,Rape,Prosecuted person,25.0,2.7
+Latvia,2013,2023825,1097245.0,15200.0,Rape,Convicted person,34.0,3.7
+Latvia,2013,2023825,1097245.0,15200.0,Sexual assault,Suspected person,108.0,11.7
+Latvia,2013,2023825,1097245.0,15200.0,Sexual assault,Prosecuted person,82.0,8.8
+Latvia,2013,2023825,1097245.0,15200.0,Sexual assault,Convicted person,27.0,2.9
+Latvia,2014,2001468,1084423.0,14661.0,Intentional homicide,Suspected person,141.0,15.4
+Latvia,2014,2001468,1084423.0,14661.0,Intentional homicide,Prosecuted person,59.0,6.4
+Latvia,2014,2001468,1084423.0,14661.0,Intentional homicide,Convicted person,109.0,11.9
+Latvia,2014,2001468,1084423.0,14661.0,Rape,Suspected person,96.0,10.5
+Latvia,2014,2001468,1084423.0,14661.0,Rape,Prosecuted person,30.0,3.3
+Latvia,2014,2001468,1084423.0,14661.0,Rape,Convicted person,54.0,5.9
+Latvia,2014,2001468,1084423.0,14661.0,Sexual assault,Suspected person,121.0,13.2
+Latvia,2014,2001468,1084423.0,14661.0,Sexual assault,Prosecuted person,80.0,8.7
+Latvia,2014,2001468,1084423.0,14661.0,Sexual assault,Convicted person,29.0,3.2
+Latvia,2015,1986096,1074889.0,15046.0,Intentional homicide,Suspected person,139.0,15.3
+Latvia,2015,1986096,1074889.0,15046.0,Intentional homicide,Prosecuted person,78.0,8.6
+Latvia,2015,1986096,1074889.0,15046.0,Intentional homicide,Convicted person,106.0,11.6
+Latvia,2015,1986096,1074889.0,15046.0,Rape,Suspected person,78.0,8.6
+Latvia,2015,1986096,1074889.0,15046.0,Rape,Prosecuted person,19.0,2.1
+Latvia,2015,1986096,1074889.0,15046.0,Rape,Convicted person,41.0,4.5
+Latvia,2015,1986096,1074889.0,15046.0,Sexual assault,Suspected person,132.0,14.5
+Latvia,2015,1986096,1074889.0,15046.0,Sexual assault,Prosecuted person,73.0,8.0
+Latvia,2015,1986096,1074889.0,15046.0,Sexual assault,Convicted person,39.0,4.3
+Latvia,2016,1968957,1064658.0,14935.0,Intentional homicide,Suspected person,128.0,14.2
+Latvia,2016,1968957,1064658.0,14935.0,Intentional homicide,Prosecuted person,48.0,5.3
+Latvia,2016,1968957,1064658.0,14935.0,Intentional homicide,Convicted person,94.0,10.4
+Latvia,2016,1968957,1064658.0,14935.0,Rape,Suspected person,116.0,12.8
+Latvia,2016,1968957,1064658.0,14935.0,Rape,Prosecuted person,88.0,9.7
+Latvia,2016,1968957,1064658.0,14935.0,Rape,Convicted person,52.0,5.8
+Latvia,2016,1968957,1064658.0,14935.0,Sexual assault,Suspected person,64.0,7.1
+Latvia,2016,1968957,1064658.0,14935.0,Sexual assault,Prosecuted person,42.0,4.6
+Latvia,2016,1968957,1064658.0,14935.0,Sexual assault,Convicted person,21.0,2.3
+Latvia,2017,1950116,1054433.0,15063.0,Intentional homicide,Suspected person,146.0,16.3
+Latvia,2017,1950116,1054433.0,15063.0,Intentional homicide,Prosecuted person,94.0,10.5
+Latvia,2017,1950116,1054433.0,15063.0,Intentional homicide,Convicted person,98.0,10.9
+Latvia,2017,1950116,1054433.0,15063.0,Rape,Suspected person,149.0,16.6
+Latvia,2017,1950116,1054433.0,15063.0,Rape,Prosecuted person,87.0,9.7
+Latvia,2017,1950116,1054433.0,15063.0,Rape,Convicted person,60.0,6.7
+Latvia,2017,1950116,1054433.0,15063.0,Sexual assault,Suspected person,91.0,10.2
+Latvia,2017,1950116,1054433.0,15063.0,Sexual assault,Prosecuted person,47.0,5.2
+Latvia,2017,1950116,1054433.0,15063.0,Sexual assault,Convicted person,38.0,4.2
+Latvia,2018,1934379,1044738.0,15174.0,Intentional homicide,Suspected person,136.0,15.3
+Latvia,2018,1934379,1044738.0,15174.0,Intentional homicide,Prosecuted person,92.0,10.3
+Latvia,2018,1934379,1044738.0,15174.0,Intentional homicide,Convicted person,90.0,10.1
+Latvia,2018,1934379,1044738.0,15174.0,Rape,Suspected person,143.0,16.1
+Latvia,2018,1934379,1044738.0,15174.0,Rape,Prosecuted person,97.0,10.9
+Latvia,2018,1934379,1044738.0,15174.0,Rape,Convicted person,51.0,5.7
+Latvia,2018,1934379,1044738.0,15174.0,Sexual assault,Suspected person,105.0,11.8
+Latvia,2018,1934379,1044738.0,15174.0,Sexual assault,Prosecuted person,74.0,8.3
+Latvia,2018,1934379,1044738.0,15174.0,Sexual assault,Convicted person,30.0,3.4
+Latvia,2019,1919968,1035059.0,14666.0,Intentional homicide,Suspected person,130.0,14.7
+Latvia,2019,1919968,1035059.0,14666.0,Intentional homicide,Prosecuted person,82.0,9.3
+Latvia,2019,1919968,1035059.0,14666.0,Intentional homicide,Convicted person,75.0,8.5
+Latvia,2019,1919968,1035059.0,14666.0,Rape,Suspected person,123.0,13.9
+Latvia,2019,1919968,1035059.0,14666.0,Rape,Prosecuted person,91.0,10.3
+Latvia,2019,1919968,1035059.0,14666.0,Rape,Convicted person,63.0,7.1
+Latvia,2019,1919968,1035059.0,14666.0,Sexual assault,Suspected person,89.0,10.1
+Latvia,2019,1919968,1035059.0,14666.0,Sexual assault,Prosecuted person,63.0,7.1
+Latvia,2019,1919968,1035059.0,14666.0,Sexual assault,Convicted person,53.0,6.0
+Latvia,2020,1907675,1026719.0,15286.0,Intentional homicide,Suspected person,116.0,13.2
+Latvia,2020,1907675,1026719.0,15286.0,Intentional homicide,Prosecuted person,70.0,7.9
+Latvia,2020,1907675,1026719.0,15286.0,Intentional homicide,Convicted person,67.0,7.6
+Latvia,2020,1907675,1026719.0,15286.0,Rape,Suspected person,137.0,15.6
+Latvia,2020,1907675,1026719.0,15286.0,Rape,Prosecuted person,89.0,10.1
+Latvia,2020,1907675,1026719.0,15286.0,Rape,Convicted person,61.0,6.9
+Latvia,2020,1907675,1026719.0,15286.0,Sexual assault,Suspected person,93.0,10.6
+Latvia,2020,1907675,1026719.0,15286.0,Sexual assault,Prosecuted person,52.0,5.9
+Latvia,2020,1907675,1026719.0,15286.0,Sexual assault,Convicted person,34.0,3.9
+Lithuania,2012,3003641,1620130.0,20099.0,Intentional homicide,Suspected person,179.0,12.9
+Lithuania,2012,3003641,1620130.0,20099.0,Intentional homicide,Prosecuted person,171.0,12.4
+Lithuania,2012,3003641,1620130.0,20099.0,Intentional homicide,Convicted person,165.0,11.9
+Lithuania,2012,3003641,1620130.0,20099.0,Rape,Suspected person,108.0,7.8
+Lithuania,2012,3003641,1620130.0,20099.0,Rape,Prosecuted person,105.0,7.6
+Lithuania,2012,3003641,1620130.0,20099.0,Rape,Convicted person,105.0,7.6
+Lithuania,2012,3003641,1620130.0,20099.0,Sexual assault,Suspected person,142.0,10.3
+Lithuania,2012,3003641,1620130.0,20099.0,Sexual assault,Prosecuted person,126.0,9.1
+Lithuania,2012,3003641,1620130.0,20099.0,Sexual assault,Convicted person,158.0,11.4
+Lithuania,2013,2971905,1603014.0,20553.0,Intentional homicide,Suspected person,174.0,12.7
+Lithuania,2013,2971905,1603014.0,20553.0,Intentional homicide,Prosecuted person,160.0,11.7
+Lithuania,2013,2971905,1603014.0,20553.0,Intentional homicide,Convicted person,151.0,11.0
+Lithuania,2013,2971905,1603014.0,20553.0,Rape,Suspected person,88.0,6.4
+Lithuania,2013,2971905,1603014.0,20553.0,Rape,Prosecuted person,87.0,6.4
+Lithuania,2013,2971905,1603014.0,20553.0,Rape,Convicted person,80.0,5.8
+Lithuania,2013,2971905,1603014.0,20553.0,Sexual assault,Suspected person,125.0,9.1
+Lithuania,2013,2971905,1603014.0,20553.0,Sexual assault,Prosecuted person,114.0,8.3
+Lithuania,2013,2971905,1603014.0,20553.0,Sexual assault,Convicted person,106.0,7.7
+Lithuania,2014,2943472,1587477.0,19967.0,Intentional homicide,Suspected person,176.0,13.0
+Lithuania,2014,2943472,1587477.0,19967.0,Intentional homicide,Prosecuted person,166.0,12.2
+Lithuania,2014,2943472,1587477.0,19967.0,Intentional homicide,Convicted person,177.0,13.1
+Lithuania,2014,2943472,1587477.0,19967.0,Rape,Suspected person,108.0,8.0
+Lithuania,2014,2943472,1587477.0,19967.0,Rape,Prosecuted person,108.0,8.0
+Lithuania,2014,2943472,1587477.0,19967.0,Rape,Convicted person,83.0,6.1
+Lithuania,2014,2943472,1587477.0,19967.0,Sexual assault,Suspected person,157.0,11.6
+Lithuania,2014,2943472,1587477.0,19967.0,Sexual assault,Prosecuted person,136.0,10.0
+Lithuania,2014,2943472,1587477.0,19967.0,Sexual assault,Convicted person,141.0,10.4
+Lithuania,2015,2921262,1575005.0,21060.0,Intentional homicide,Suspected person,131.0,9.7
+Lithuania,2015,2921262,1575005.0,21060.0,Intentional homicide,Prosecuted person,118.0,8.8
+Lithuania,2015,2921262,1575005.0,21060.0,Intentional homicide,Convicted person,120.0,8.9
+Lithuania,2015,2921262,1575005.0,21060.0,Rape,Suspected person,90.0,6.7
+Lithuania,2015,2921262,1575005.0,21060.0,Rape,Prosecuted person,89.0,6.6
+Lithuania,2015,2921262,1575005.0,21060.0,Rape,Convicted person,99.0,7.4
+Lithuania,2015,2921262,1575005.0,21060.0,Sexual assault,Suspected person,158.0,11.7
+Lithuania,2015,2921262,1575005.0,21060.0,Sexual assault,Prosecuted person,132.0,9.8
+Lithuania,2015,2921262,1575005.0,21060.0,Sexual assault,Convicted person,157.0,11.7
+Lithuania,2016,2888558,1558951.0,20611.0,Intentional homicide,Suspected person,136.0,10.2
+Lithuania,2016,2888558,1558951.0,20611.0,Intentional homicide,Prosecuted person,132.0,9.9
+Lithuania,2016,2888558,1558951.0,20611.0,Intentional homicide,Convicted person,133.0,10.0
+Lithuania,2016,2888558,1558951.0,20611.0,Rape,Suspected person,81.0,6.1
+Lithuania,2016,2888558,1558951.0,20611.0,Rape,Prosecuted person,80.0,6.0
+Lithuania,2016,2888558,1558951.0,20611.0,Rape,Convicted person,79.0,5.9
+Lithuania,2016,2888558,1558951.0,20611.0,Sexual assault,Suspected person,120.0,9.0
+Lithuania,2016,2888558,1558951.0,20611.0,Sexual assault,Prosecuted person,119.0,9.0
+Lithuania,2016,2888558,1558951.0,20611.0,Sexual assault,Convicted person,131.0,9.9
+Lithuania,2017,2847904,1535718.0,20668.0,Intentional homicide,Suspected person,181.0,13.8
+Lithuania,2017,2847904,1535718.0,20668.0,Intentional homicide,Prosecuted person,168.0,12.8
+Lithuania,2017,2847904,1535718.0,20668.0,Intentional homicide,Convicted person,135.0,10.3
+Lithuania,2017,2847904,1535718.0,20668.0,Rape,Suspected person,103.0,7.8
+Lithuania,2017,2847904,1535718.0,20668.0,Rape,Prosecuted person,101.0,7.7
+Lithuania,2017,2847904,1535718.0,20668.0,Rape,Convicted person,77.0,5.9
+Lithuania,2017,2847904,1535718.0,20668.0,Sexual assault,Suspected person,97.0,7.4
+Lithuania,2017,2847904,1535718.0,20668.0,Sexual assault,Prosecuted person,96.0,7.3
+Lithuania,2017,2847904,1535718.0,20668.0,Sexual assault,Convicted person,134.0,10.2
+Lithuania,2018,2808901,1511608.0,20376.0,Intentional homicide,Suspected person,102.0,7.9
+Lithuania,2018,2808901,1511608.0,20376.0,Intentional homicide,Prosecuted person,99.0,7.6
+Lithuania,2018,2808901,1511608.0,20376.0,Intentional homicide,Convicted person,98.0,7.6
+Lithuania,2018,2808901,1511608.0,20376.0,Rape,Suspected person,73.0,5.6
+Lithuania,2018,2808901,1511608.0,20376.0,Rape,Prosecuted person,72.0,5.6
+Lithuania,2018,2808901,1511608.0,20376.0,Rape,Convicted person,59.0,4.5
+Lithuania,2018,2808901,1511608.0,20376.0,Sexual assault,Suspected person,71.0,5.5
+Lithuania,2018,2808901,1511608.0,20376.0,Sexual assault,Prosecuted person,68.0,5.2
+Lithuania,2018,2808901,1511608.0,20376.0,Sexual assault,Convicted person,87.0,6.7
+Lithuania,2019,2794184,1498593.0,19615.0,Intentional homicide,Suspected person,91.0,7.0
+Lithuania,2019,2794184,1498593.0,19615.0,Intentional homicide,Prosecuted person,87.0,6.7
+Lithuania,2019,2794184,1498593.0,19615.0,Intentional homicide,Convicted person,85.0,6.6
+Lithuania,2019,2794184,1498593.0,19615.0,Rape,Suspected person,68.0,5.2
+Lithuania,2019,2794184,1498593.0,19615.0,Rape,Prosecuted person,65.0,5.0
+Lithuania,2019,2794184,1498593.0,19615.0,Rape,Convicted person,50.0,3.9
+Lithuania,2019,2794184,1498593.0,19615.0,Sexual assault,Suspected person,72.0,5.6
+Lithuania,2019,2794184,1498593.0,19615.0,Sexual assault,Prosecuted person,70.0,5.4
+Lithuania,2019,2794184,1498593.0,19615.0,Sexual assault,Convicted person,47.0,3.6
+Lithuania,2020,2794090,1489736.0,22065.0,Intentional homicide,Suspected person,82.0,6.3
+Lithuania,2020,2794090,1489736.0,22065.0,Intentional homicide,Prosecuted person,78.0,6.0
+Lithuania,2020,2794090,1489736.0,22065.0,Intentional homicide,Convicted person,63.0,4.8
+Lithuania,2020,2794090,1489736.0,22065.0,Rape,Suspected person,44.0,3.4
+Lithuania,2020,2794090,1489736.0,22065.0,Rape,Prosecuted person,42.0,3.2
+Lithuania,2020,2794090,1489736.0,22065.0,Rape,Convicted person,48.0,3.7
+Lithuania,2020,2794090,1489736.0,22065.0,Sexual assault,Suspected person,45.0,3.4
+Lithuania,2020,2794090,1489736.0,22065.0,Sexual assault,Prosecuted person,42.0,3.2
+Lithuania,2020,2794090,1489736.0,22065.0,Sexual assault,Convicted person,55.0,4.2
+Luxembourg,2012,524853,263033.0,1965.0,Intentional homicide,Suspected person,,
+Luxembourg,2012,524853,263033.0,1965.0,Intentional homicide,Prosecuted person,,
+Luxembourg,2012,524853,263033.0,1965.0,Intentional homicide,Convicted person,,
+Luxembourg,2012,524853,263033.0,1965.0,Rape,Suspected person,,
+Luxembourg,2012,524853,263033.0,1965.0,Rape,Prosecuted person,,
+Luxembourg,2012,524853,263033.0,1965.0,Rape,Convicted person,,
+Luxembourg,2012,524853,263033.0,1965.0,Sexual assault,Suspected person,228.0,87.1
+Luxembourg,2012,524853,263033.0,1965.0,Sexual assault,Prosecuted person,,
+Luxembourg,2012,524853,263033.0,1965.0,Sexual assault,Convicted person,,
+Luxembourg,2013,537039,268627.0,1929.0,Intentional homicide,Suspected person,,
+Luxembourg,2013,537039,268627.0,1929.0,Intentional homicide,Prosecuted person,,
+Luxembourg,2013,537039,268627.0,1929.0,Intentional homicide,Convicted person,,
+Luxembourg,2013,537039,268627.0,1929.0,Rape,Suspected person,,
+Luxembourg,2013,537039,268627.0,1929.0,Rape,Prosecuted person,,
+Luxembourg,2013,537039,268627.0,1929.0,Rape,Convicted person,,
+Luxembourg,2013,537039,268627.0,1929.0,Sexual assault,Suspected person,223.0,83.1
+Luxembourg,2013,537039,268627.0,1929.0,Sexual assault,Prosecuted person,,
+Luxembourg,2013,537039,268627.0,1929.0,Sexual assault,Convicted person,,
+Luxembourg,2014,549680,274563.0,1814.0,Intentional homicide,Suspected person,3.0,1.1
+Luxembourg,2014,549680,274563.0,1814.0,Intentional homicide,Prosecuted person,,
+Luxembourg,2014,549680,274563.0,1814.0,Intentional homicide,Convicted person,,
+Luxembourg,2014,549680,274563.0,1814.0,Rape,Suspected person,48.0,17.4
+Luxembourg,2014,549680,274563.0,1814.0,Rape,Prosecuted person,,
+Luxembourg,2014,549680,274563.0,1814.0,Rape,Convicted person,,
+Luxembourg,2014,549680,274563.0,1814.0,Sexual assault,Suspected person,231.0,84.0
+Luxembourg,2014,549680,274563.0,1814.0,Sexual assault,Prosecuted person,,
+Luxembourg,2014,549680,274563.0,1814.0,Sexual assault,Convicted person,,
+Luxembourg,2015,562958,280986.0,1999.0,Intentional homicide,Suspected person,1.0,0.4
+Luxembourg,2015,562958,280986.0,1999.0,Intentional homicide,Prosecuted person,,
+Luxembourg,2015,562958,280986.0,1999.0,Intentional homicide,Convicted person,,
+Luxembourg,2015,562958,280986.0,1999.0,Rape,Suspected person,54.0,19.2
+Luxembourg,2015,562958,280986.0,1999.0,Rape,Prosecuted person,,
+Luxembourg,2015,562958,280986.0,1999.0,Rape,Convicted person,,
+Luxembourg,2015,562958,280986.0,1999.0,Sexual assault,Suspected person,206.0,73.1
+Luxembourg,2015,562958,280986.0,1999.0,Sexual assault,Prosecuted person,115.0,40.8
+Luxembourg,2015,562958,280986.0,1999.0,Sexual assault,Convicted person,35.0,12.4
+Luxembourg,2016,576249,287056.0,1951.0,Intentional homicide,Suspected person,2.0,0.7
+Luxembourg,2016,576249,287056.0,1951.0,Intentional homicide,Prosecuted person,2.0,0.7
+Luxembourg,2016,576249,287056.0,1951.0,Intentional homicide,Convicted person,0.0,0.0
+Luxembourg,2016,576249,287056.0,1951.0,Rape,Suspected person,83.0,28.7
+Luxembourg,2016,576249,287056.0,1951.0,Rape,Prosecuted person,56.0,19.4
+Luxembourg,2016,576249,287056.0,1951.0,Rape,Convicted person,15.0,5.2
+Luxembourg,2016,576249,287056.0,1951.0,Sexual assault,Suspected person,157.0,54.3
+Luxembourg,2016,576249,287056.0,1951.0,Sexual assault,Prosecuted person,1.0,0.3
+Luxembourg,2016,576249,287056.0,1951.0,Sexual assault,Convicted person,50.0,17.3
+Luxembourg,2017,590667,294026.0,2075.0,Intentional homicide,Suspected person,3.0,1.0
+Luxembourg,2017,590667,294026.0,2075.0,Intentional homicide,Prosecuted person,,
+Luxembourg,2017,590667,294026.0,2075.0,Intentional homicide,Convicted person,,
+Luxembourg,2017,590667,294026.0,2075.0,Rape,Suspected person,89.0,30.0
+Luxembourg,2017,590667,294026.0,2075.0,Rape,Prosecuted person,,
+Luxembourg,2017,590667,294026.0,2075.0,Rape,Convicted person,,
+Luxembourg,2017,590667,294026.0,2075.0,Sexual assault,Suspected person,174.0,58.7
+Luxembourg,2017,590667,294026.0,2075.0,Sexual assault,Prosecuted person,0.0,0.0
+Luxembourg,2017,590667,294026.0,2075.0,Sexual assault,Convicted person,32.0,10.8
+Luxembourg,2018,602005,299425.0,2043.0,Intentional homicide,Suspected person,11.0,3.6
+Luxembourg,2018,602005,299425.0,2043.0,Intentional homicide,Prosecuted person,1.0,0.3
+Luxembourg,2018,602005,299425.0,2043.0,Intentional homicide,Convicted person,0.0,0.0
+Luxembourg,2018,602005,299425.0,2043.0,Rape,Suspected person,70.0,23.1
+Luxembourg,2018,602005,299425.0,2043.0,Rape,Prosecuted person,43.0,14.2
+Luxembourg,2018,602005,299425.0,2043.0,Rape,Convicted person,12.0,4.0
+Luxembourg,2018,602005,299425.0,2043.0,Sexual assault,Suspected person,0.0,0.0
+Luxembourg,2018,602005,299425.0,2043.0,Sexual assault,Prosecuted person,2.0,0.7
+Luxembourg,2018,602005,299425.0,2043.0,Sexual assault,Convicted person,1.0,0.3
+Luxembourg,2019,613894,305174.0,2034.0,Intentional homicide,Suspected person,8.0,2.6
+Luxembourg,2019,613894,305174.0,2034.0,Intentional homicide,Prosecuted person,4.0,1.3
+Luxembourg,2019,613894,305174.0,2034.0,Intentional homicide,Convicted person,1.0,0.3
+Luxembourg,2019,613894,305174.0,2034.0,Rape,Suspected person,89.0,28.8
+Luxembourg,2019,613894,305174.0,2034.0,Rape,Prosecuted person,38.0,12.3
+Luxembourg,2019,613894,305174.0,2034.0,Rape,Convicted person,18.0,5.8
+Luxembourg,2019,613894,305174.0,2034.0,Sexual assault,Suspected person,,
+Luxembourg,2019,613894,305174.0,2034.0,Sexual assault,Prosecuted person,2.0,0.6
+Luxembourg,2019,613894,305174.0,2034.0,Sexual assault,Convicted person,,
+Luxembourg,2020,626108,311144.0,,Intentional homicide,Suspected person,10.0,3.2
+Luxembourg,2020,626108,311144.0,,Intentional homicide,Prosecuted person,6.0,1.9
+Luxembourg,2020,626108,311144.0,,Intentional homicide,Convicted person,0.0,0.0
+Luxembourg,2020,626108,311144.0,,Rape,Suspected person,100.0,31.7
+Luxembourg,2020,626108,311144.0,,Rape,Prosecuted person,21.0,6.7
+Luxembourg,2020,626108,311144.0,,Rape,Convicted person,16.0,5.1
+Luxembourg,2020,626108,311144.0,,Sexual assault,Suspected person,0.0,0.0
+Luxembourg,2020,626108,311144.0,,Sexual assault,Prosecuted person,0.0,0.0
+Luxembourg,2020,626108,311144.0,,Sexual assault,Convicted person,0.0,0.0
+Malta,2012,417546,209851.0,1686.0,Intentional homicide,Suspected person,,
+Malta,2012,417546,209851.0,1686.0,Intentional homicide,Prosecuted person,5.0,2.4
+Malta,2012,417546,209851.0,1686.0,Intentional homicide,Convicted person,2.0,1.0
+Malta,2012,417546,209851.0,1686.0,Rape,Suspected person,,
+Malta,2012,417546,209851.0,1686.0,Rape,Prosecuted person,6.0,2.9
+Malta,2012,417546,209851.0,1686.0,Rape,Convicted person,,
+Malta,2012,417546,209851.0,1686.0,Sexual assault,Suspected person,49.0,23.6
+Malta,2012,417546,209851.0,1686.0,Sexual assault,Prosecuted person,,
+Malta,2012,417546,209851.0,1686.0,Sexual assault,Convicted person,,
+Malta,2013,422509,212126.0,1612.0,Intentional homicide,Suspected person,,
+Malta,2013,422509,212126.0,1612.0,Intentional homicide,Prosecuted person,5.0,2.4
+Malta,2013,422509,212126.0,1612.0,Intentional homicide,Convicted person,2.0,1.0
+Malta,2013,422509,212126.0,1612.0,Rape,Suspected person,,
+Malta,2013,422509,212126.0,1612.0,Rape,Prosecuted person,9.0,4.3
+Malta,2013,422509,212126.0,1612.0,Rape,Convicted person,,
+Malta,2013,422509,212126.0,1612.0,Sexual assault,Suspected person,40.0,19.0
+Malta,2013,422509,212126.0,1612.0,Sexual assault,Prosecuted person,,
+Malta,2013,422509,212126.0,1612.0,Sexual assault,Convicted person,,
+Malta,2014,429424,214891.0,1630.0,Intentional homicide,Suspected person,,
+Malta,2014,429424,214891.0,1630.0,Intentional homicide,Prosecuted person,5.0,2.3
+Malta,2014,429424,214891.0,1630.0,Intentional homicide,Convicted person,0.0,0.0
+Malta,2014,429424,214891.0,1630.0,Rape,Suspected person,,
+Malta,2014,429424,214891.0,1630.0,Rape,Prosecuted person,3.0,1.4
+Malta,2014,429424,214891.0,1630.0,Rape,Convicted person,,
+Malta,2014,429424,214891.0,1630.0,Sexual assault,Suspected person,38.0,17.7
+Malta,2014,429424,214891.0,1630.0,Sexual assault,Prosecuted person,,
+Malta,2014,429424,214891.0,1630.0,Sexual assault,Convicted person,,
+Malta,2015,439691,219203.0,1725.0,Intentional homicide,Suspected person,,
+Malta,2015,439691,219203.0,1725.0,Intentional homicide,Prosecuted person,0.0,0.0
+Malta,2015,439691,219203.0,1725.0,Intentional homicide,Convicted person,3.0,1.4
+Malta,2015,439691,219203.0,1725.0,Rape,Suspected person,,
+Malta,2015,439691,219203.0,1725.0,Rape,Prosecuted person,10.0,4.5
+Malta,2015,439691,219203.0,1725.0,Rape,Convicted person,0.0,0.0
+Malta,2015,439691,219203.0,1725.0,Sexual assault,Suspected person,57.0,25.9
+Malta,2015,439691,219203.0,1725.0,Sexual assault,Prosecuted person,44.0,20.0
+Malta,2015,439691,219203.0,1725.0,Sexual assault,Convicted person,,
+Malta,2016,450415,224019.0,1709.0,Intentional homicide,Suspected person,,
+Malta,2016,450415,224019.0,1709.0,Intentional homicide,Prosecuted person,4.0,1.8
+Malta,2016,450415,224019.0,1709.0,Intentional homicide,Convicted person,1.0,0.4
+Malta,2016,450415,224019.0,1709.0,Rape,Suspected person,,
+Malta,2016,450415,224019.0,1709.0,Rape,Prosecuted person,,
+Malta,2016,450415,224019.0,1709.0,Rape,Convicted person,,
+Malta,2016,450415,224019.0,1709.0,Sexual assault,Suspected person,,
+Malta,2016,450415,224019.0,1709.0,Sexual assault,Prosecuted person,,
+Malta,2016,450415,224019.0,1709.0,Sexual assault,Convicted person,,
+Malta,2017,460297,228634.0,1762.0,Intentional homicide,Suspected person,,
+Malta,2017,460297,228634.0,1762.0,Intentional homicide,Prosecuted person,10.0,4.3
+Malta,2017,460297,228634.0,1762.0,Intentional homicide,Convicted person,1.0,0.4
+Malta,2017,460297,228634.0,1762.0,Rape,Suspected person,,
+Malta,2017,460297,228634.0,1762.0,Rape,Prosecuted person,,
+Malta,2017,460297,228634.0,1762.0,Rape,Convicted person,,
+Malta,2017,460297,228634.0,1762.0,Sexual assault,Suspected person,,
+Malta,2017,460297,228634.0,1762.0,Sexual assault,Prosecuted person,,
+Malta,2017,460297,228634.0,1762.0,Sexual assault,Convicted person,,
+Malta,2018,475701,235102.0,1838.0,Intentional homicide,Suspected person,,
+Malta,2018,475701,235102.0,1838.0,Intentional homicide,Prosecuted person,,
+Malta,2018,475701,235102.0,1838.0,Intentional homicide,Convicted person,7.0,2.9
+Malta,2018,475701,235102.0,1838.0,Rape,Suspected person,,
+Malta,2018,475701,235102.0,1838.0,Rape,Prosecuted person,,
+Malta,2018,475701,235102.0,1838.0,Rape,Convicted person,8.0,3.3
+Malta,2018,475701,235102.0,1838.0,Sexual assault,Suspected person,,
+Malta,2018,475701,235102.0,1838.0,Sexual assault,Prosecuted person,,
+Malta,2018,475701,235102.0,1838.0,Sexual assault,Convicted person,8.0,3.3
+Malta,2019,493559,241723.0,1827.0,Intentional homicide,Suspected person,,
+Malta,2019,493559,241723.0,1827.0,Intentional homicide,Prosecuted person,,
+Malta,2019,493559,241723.0,1827.0,Intentional homicide,Convicted person,7.0,2.8
+Malta,2019,493559,241723.0,1827.0,Rape,Suspected person,,
+Malta,2019,493559,241723.0,1827.0,Rape,Prosecuted person,,
+Malta,2019,493559,241723.0,1827.0,Rape,Convicted person,8.0,3.2
+Malta,2019,493559,241723.0,1827.0,Sexual assault,Suspected person,,
+Malta,2019,493559,241723.0,1827.0,Sexual assault,Prosecuted person,,
+Malta,2019,493559,241723.0,1827.0,Sexual assault,Convicted person,8.0,3.2
+Malta,2020,514564,248802.0,,Intentional homicide,Suspected person,,
+Malta,2020,514564,248802.0,,Intentional homicide,Prosecuted person,,
+Malta,2020,514564,248802.0,,Intentional homicide,Convicted person,2.0,0.8
+Malta,2020,514564,248802.0,,Rape,Suspected person,,
+Malta,2020,514564,248802.0,,Rape,Prosecuted person,,
+Malta,2020,514564,248802.0,,Rape,Convicted person,8.0,3.0
+Malta,2020,514564,248802.0,,Sexual assault,Suspected person,,
+Malta,2020,514564,248802.0,,Sexual assault,Prosecuted person,,
+Malta,2020,514564,248802.0,,Sexual assault,Convicted person,19.0,7.1
+Netherlands,2012,16730348,8447477.0,72906.0,Intentional homicide,Suspected person,3515.0,42.4
+Netherlands,2012,16730348,8447477.0,72906.0,Intentional homicide,Prosecuted person,,
+Netherlands,2012,16730348,8447477.0,72906.0,Intentional homicide,Convicted person,,
+Netherlands,2012,16730348,8447477.0,72906.0,Rape,Suspected person,775.0,9.4
+Netherlands,2012,16730348,8447477.0,72906.0,Rape,Prosecuted person,544.0,6.6
+Netherlands,2012,16730348,8447477.0,72906.0,Rape,Convicted person,117.0,1.4
+Netherlands,2012,16730348,8447477.0,72906.0,Sexual assault,Suspected person,4055.0,49.0
+Netherlands,2012,16730348,8447477.0,72906.0,Sexual assault,Prosecuted person,2531.0,30.6
+Netherlands,2012,16730348,8447477.0,72906.0,Sexual assault,Convicted person,886.0,10.7
+Netherlands,2013,16779575,8472236.0,72885.0,Intentional homicide,Suspected person,3088.0,37.2
+Netherlands,2013,16779575,8472236.0,72885.0,Intentional homicide,Prosecuted person,1686.0,20.3
+Netherlands,2013,16779575,8472236.0,72885.0,Intentional homicide,Convicted person,642.0,7.7
+Netherlands,2013,16779575,8472236.0,72885.0,Rape,Suspected person,695.0,8.4
+Netherlands,2013,16779575,8472236.0,72885.0,Rape,Prosecuted person,1054.0,12.7
+Netherlands,2013,16779575,8472236.0,72885.0,Rape,Convicted person,297.0,3.6
+Netherlands,2013,16779575,8472236.0,72885.0,Sexual assault,Suspected person,1009.0,12.1
+Netherlands,2013,16779575,8472236.0,72885.0,Sexual assault,Prosecuted person,815.0,9.8
+Netherlands,2013,16779575,8472236.0,72885.0,Sexual assault,Convicted person,215.0,2.6
+Netherlands,2014,16829289,8494904.0,72102.0,Intentional homicide,Suspected person,2939.0,35.3
+Netherlands,2014,16829289,8494904.0,72102.0,Intentional homicide,Prosecuted person,1557.0,18.7
+Netherlands,2014,16829289,8494904.0,72102.0,Intentional homicide,Convicted person,543.0,6.5
+Netherlands,2014,16829289,8494904.0,72102.0,Rape,Suspected person,636.0,7.6
+Netherlands,2014,16829289,8494904.0,72102.0,Rape,Prosecuted person,962.0,11.5
+Netherlands,2014,16829289,8494904.0,72102.0,Rape,Convicted person,264.0,3.2
+Netherlands,2014,16829289,8494904.0,72102.0,Sexual assault,Suspected person,868.0,10.4
+Netherlands,2014,16829289,8494904.0,72102.0,Sexual assault,Prosecuted person,759.0,9.1
+Netherlands,2014,16829289,8494904.0,72102.0,Sexual assault,Convicted person,200.0,2.4
+Netherlands,2015,16900726,8527868.0,76105.0,Intentional homicide,Suspected person,2864.0,34.2
+Netherlands,2015,16900726,8527868.0,76105.0,Intentional homicide,Prosecuted person,1309.0,15.6
+Netherlands,2015,16900726,8527868.0,76105.0,Intentional homicide,Convicted person,488.0,5.8
+Netherlands,2015,16900726,8527868.0,76105.0,Rape,Suspected person,612.0,7.3
+Netherlands,2015,16900726,8527868.0,76105.0,Rape,Prosecuted person,870.0,10.4
+Netherlands,2015,16900726,8527868.0,76105.0,Rape,Convicted person,271.0,3.2
+Netherlands,2015,16900726,8527868.0,76105.0,Sexual assault,Suspected person,808.0,9.7
+Netherlands,2015,16900726,8527868.0,76105.0,Sexual assault,Prosecuted person,644.0,7.7
+Netherlands,2015,16900726,8527868.0,76105.0,Sexual assault,Convicted person,160.0,1.9
+Netherlands,2016,16979120,8561985.0,76817.0,Intentional homicide,Suspected person,2683.0,31.9
+Netherlands,2016,16979120,8561985.0,76817.0,Intentional homicide,Prosecuted person,1365.0,16.2
+Netherlands,2016,16979120,8561985.0,76817.0,Intentional homicide,Convicted person,442.0,5.3
+Netherlands,2016,16979120,8561985.0,76817.0,Rape,Suspected person,565.0,6.7
+Netherlands,2016,16979120,8561985.0,76817.0,Rape,Prosecuted person,951.0,11.3
+Netherlands,2016,16979120,8561985.0,76817.0,Rape,Convicted person,264.0,3.1
+Netherlands,2016,16979120,8561985.0,76817.0,Sexual assault,Suspected person,895.0,10.6
+Netherlands,2016,16979120,8561985.0,76817.0,Sexual assault,Prosecuted person,754.0,9.0
+Netherlands,2016,16979120,8561985.0,76817.0,Sexual assault,Convicted person,175.0,2.1
+Netherlands,2017,17081507,8606405.0,77553.0,Intentional homicide,Suspected person,2544.0,30.0
+Netherlands,2017,17081507,8606405.0,77553.0,Intentional homicide,Prosecuted person,1291.0,15.2
+Netherlands,2017,17081507,8606405.0,77553.0,Intentional homicide,Convicted person,505.0,6.0
+Netherlands,2017,17081507,8606405.0,77553.0,Rape,Suspected person,602.0,7.1
+Netherlands,2017,17081507,8606405.0,77553.0,Rape,Prosecuted person,889.0,10.5
+Netherlands,2017,17081507,8606405.0,77553.0,Rape,Convicted person,266.0,3.1
+Netherlands,2017,17081507,8606405.0,77553.0,Sexual assault,Suspected person,824.0,9.7
+Netherlands,2017,17081507,8606405.0,77553.0,Sexual assault,Prosecuted person,662.0,7.8
+Netherlands,2017,17081507,8606405.0,77553.0,Sexual assault,Convicted person,192.0,2.3
+Netherlands,2018,17181084,8654043.0,78841.0,Intentional homicide,Suspected person,2349.0,27.5
+Netherlands,2018,17181084,8654043.0,78841.0,Intentional homicide,Prosecuted person,1335.0,15.7
+Netherlands,2018,17181084,8654043.0,78841.0,Intentional homicide,Convicted person,532.0,6.2
+Netherlands,2018,17181084,8654043.0,78841.0,Rape,Suspected person,594.0,7.0
+Netherlands,2018,17181084,8654043.0,78841.0,Rape,Prosecuted person,844.0,9.9
+Netherlands,2018,17181084,8654043.0,78841.0,Rape,Convicted person,296.0,3.5
+Netherlands,2018,17181084,8654043.0,78841.0,Sexual assault,Suspected person,868.0,10.2
+Netherlands,2018,17181084,8654043.0,78841.0,Sexual assault,Prosecuted person,700.0,8.2
+Netherlands,2018,17181084,8654043.0,78841.0,Sexual assault,Convicted person,197.0,2.3
+Netherlands,2019,17282163,8701077.0,77453.0,Intentional homicide,Suspected person,2308.0,26.9
+Netherlands,2019,17282163,8701077.0,77453.0,Intentional homicide,Prosecuted person,1430.0,16.7
+Netherlands,2019,17282163,8701077.0,77453.0,Intentional homicide,Convicted person,541.0,6.3
+Netherlands,2019,17282163,8701077.0,77453.0,Rape,Suspected person,654.0,7.6
+Netherlands,2019,17282163,8701077.0,77453.0,Rape,Prosecuted person,890.0,10.4
+Netherlands,2019,17282163,8701077.0,77453.0,Rape,Convicted person,275.0,3.2
+Netherlands,2019,17282163,8701077.0,77453.0,Sexual assault,Suspected person,788.0,9.2
+Netherlands,2019,17282163,8701077.0,77453.0,Sexual assault,Prosecuted person,677.0,7.9
+Netherlands,2019,17282163,8701077.0,77453.0,Sexual assault,Convicted person,231.0,2.7
+Netherlands,2020,17407585,8759554.0,84361.0,Intentional homicide,Suspected person,,
+Netherlands,2020,17407585,8759554.0,84361.0,Intentional homicide,Prosecuted person,1558.0,18.0
+Netherlands,2020,17407585,8759554.0,84361.0,Intentional homicide,Convicted person,569.0,6.6
+Netherlands,2020,17407585,8759554.0,84361.0,Rape,Suspected person,486.0,5.6
+Netherlands,2020,17407585,8759554.0,84361.0,Rape,Prosecuted person,877.0,10.1
+Netherlands,2020,17407585,8759554.0,84361.0,Rape,Convicted person,261.0,3.0
+Netherlands,2020,17407585,8759554.0,84361.0,Sexual assault,Suspected person,524.0,6.1
+Netherlands,2020,17407585,8759554.0,84361.0,Sexual assault,Prosecuted person,589.0,6.8
+Netherlands,2020,17407585,8759554.0,84361.0,Sexual assault,Convicted person,207.0,2.4
+Poland,2012,38063792,19636496.0,182914.0,Intentional homicide,Suspected person,,
+Poland,2012,38063792,19636496.0,182914.0,Intentional homicide,Prosecuted person,,
+Poland,2012,38063792,19636496.0,182914.0,Intentional homicide,Convicted person,,
+Poland,2012,38063792,19636496.0,182914.0,Rape,Suspected person,842.0,4.6
+Poland,2012,38063792,19636496.0,182914.0,Rape,Prosecuted person,,
+Poland,2012,38063792,19636496.0,182914.0,Rape,Convicted person,763.0,4.1
+Poland,2012,38063792,19636496.0,182914.0,Sexual assault,Suspected person,,
+Poland,2012,38063792,19636496.0,182914.0,Sexual assault,Prosecuted person,,
+Poland,2012,38063792,19636496.0,182914.0,Sexual assault,Convicted person,254.0,1.4
+Poland,2013,38062535,19636442.0,185852.0,Intentional homicide,Suspected person,398.0,2.2
+Poland,2013,38062535,19636442.0,185852.0,Intentional homicide,Prosecuted person,,
+Poland,2013,38062535,19636442.0,185852.0,Intentional homicide,Convicted person,,
+Poland,2013,38062535,19636442.0,185852.0,Rape,Suspected person,402.0,2.2
+Poland,2013,38062535,19636442.0,185852.0,Rape,Prosecuted person,,
+Poland,2013,38062535,19636442.0,185852.0,Rape,Convicted person,429.0,2.3
+Poland,2013,38062535,19636442.0,185852.0,Sexual assault,Suspected person,179.0,1.0
+Poland,2013,38062535,19636442.0,185852.0,Sexual assault,Prosecuted person,,
+Poland,2013,38062535,19636442.0,185852.0,Sexual assault,Convicted person,144.0,0.8
+Poland,2014,38017856,19613892.0,180915.0,Intentional homicide,Suspected person,376.0,2.0
+Poland,2014,38017856,19613892.0,180915.0,Intentional homicide,Prosecuted person,,
+Poland,2014,38017856,19613892.0,180915.0,Intentional homicide,Convicted person,,
+Poland,2014,38017856,19613892.0,180915.0,Rape,Suspected person,419.0,2.3
+Poland,2014,38017856,19613892.0,180915.0,Rape,Prosecuted person,,
+Poland,2014,38017856,19613892.0,180915.0,Rape,Convicted person,413.0,2.2
+Poland,2014,38017856,19613892.0,180915.0,Sexual assault,Suspected person,179.0,1.0
+Poland,2014,38017856,19613892.0,180915.0,Sexual assault,Prosecuted person,,
+Poland,2014,38017856,19613892.0,180915.0,Sexual assault,Convicted person,133.0,0.7
+Poland,2015,38005614,19608451.0,190668.0,Intentional homicide,Suspected person,374.0,2.0
+Poland,2015,38005614,19608451.0,190668.0,Intentional homicide,Prosecuted person,,
+Poland,2015,38005614,19608451.0,190668.0,Intentional homicide,Convicted person,,
+Poland,2015,38005614,19608451.0,190668.0,Rape,Suspected person,343.0,1.9
+Poland,2015,38005614,19608451.0,190668.0,Rape,Prosecuted person,,
+Poland,2015,38005614,19608451.0,190668.0,Rape,Convicted person,394.0,2.1
+Poland,2015,38005614,19608451.0,190668.0,Sexual assault,Suspected person,181.0,1.0
+Poland,2015,38005614,19608451.0,190668.0,Sexual assault,Prosecuted person,,
+Poland,2015,38005614,19608451.0,190668.0,Sexual assault,Convicted person,126.0,0.7
+Poland,2016,37967209,19590169.0,186068.0,Intentional homicide,Suspected person,,
+Poland,2016,37967209,19590169.0,186068.0,Intentional homicide,Prosecuted person,,
+Poland,2016,37967209,19590169.0,186068.0,Intentional homicide,Convicted person,,
+Poland,2016,37967209,19590169.0,186068.0,Rape,Suspected person,369.0,2.0
+Poland,2016,37967209,19590169.0,186068.0,Rape,Prosecuted person,,
+Poland,2016,37967209,19590169.0,186068.0,Rape,Convicted person,409.0,2.2
+Poland,2016,37967209,19590169.0,186068.0,Sexual assault,Suspected person,217.0,1.2
+Poland,2016,37967209,19590169.0,186068.0,Sexual assault,Prosecuted person,,
+Poland,2016,37967209,19590169.0,186068.0,Sexual assault,Convicted person,145.0,0.8
+Poland,2017,37972964,19595127.0,195391.0,Intentional homicide,Suspected person,,
+Poland,2017,37972964,19595127.0,195391.0,Intentional homicide,Prosecuted person,,
+Poland,2017,37972964,19595127.0,195391.0,Intentional homicide,Convicted person,,
+Poland,2017,37972964,19595127.0,195391.0,Rape,Suspected person,397.0,2.2
+Poland,2017,37972964,19595127.0,195391.0,Rape,Prosecuted person,,
+Poland,2017,37972964,19595127.0,195391.0,Rape,Convicted person,400.0,2.2
+Poland,2017,37972964,19595127.0,195391.0,Sexual assault,Suspected person,197.0,1.1
+Poland,2017,37972964,19595127.0,195391.0,Sexual assault,Prosecuted person,,
+Poland,2017,37972964,19595127.0,195391.0,Sexual assault,Convicted person,143.0,0.8
+Poland,2018,37976687,19596388.0,200762.0,Intentional homicide,Suspected person,,
+Poland,2018,37976687,19596388.0,200762.0,Intentional homicide,Prosecuted person,,
+Poland,2018,37976687,19596388.0,200762.0,Intentional homicide,Convicted person,,
+Poland,2018,37976687,19596388.0,200762.0,Rape,Suspected person,443.0,2.4
+Poland,2018,37976687,19596388.0,200762.0,Rape,Prosecuted person,,
+Poland,2018,37976687,19596388.0,200762.0,Rape,Convicted person,374.0,2.0
+Poland,2018,37976687,19596388.0,200762.0,Sexual assault,Suspected person,174.0,0.9
+Poland,2018,37976687,19596388.0,200762.0,Sexual assault,Prosecuted person,,
+Poland,2018,37976687,19596388.0,200762.0,Sexual assault,Convicted person,155.0,0.8
+Poland,2019,37972812,19592436.0,198530.0,Intentional homicide,Suspected person,,
+Poland,2019,37972812,19592436.0,198530.0,Intentional homicide,Prosecuted person,,
+Poland,2019,37972812,19592436.0,198530.0,Intentional homicide,Convicted person,304.0,1.7
+Poland,2019,37972812,19592436.0,198530.0,Rape,Suspected person,408.0,2.2
+Poland,2019,37972812,19592436.0,198530.0,Rape,Prosecuted person,,
+Poland,2019,37972812,19592436.0,198530.0,Rape,Convicted person,439.0,2.4
+Poland,2019,37972812,19592436.0,198530.0,Sexual assault,Suspected person,201.0,1.1
+Poland,2019,37972812,19592436.0,198530.0,Sexual assault,Prosecuted person,,
+Poland,2019,37972812,19592436.0,198530.0,Sexual assault,Convicted person,157.0,0.9
+Poland,2020,37958138,19584757.0,227611.0,Intentional homicide,Suspected person,,
+Poland,2020,37958138,19584757.0,227611.0,Intentional homicide,Prosecuted person,,
+Poland,2020,37958138,19584757.0,227611.0,Intentional homicide,Convicted person,,
+Poland,2020,37958138,19584757.0,227611.0,Rape,Suspected person,332.0,1.8
+Poland,2020,37958138,19584757.0,227611.0,Rape,Prosecuted person,,
+Poland,2020,37958138,19584757.0,227611.0,Rape,Convicted person,,
+Poland,2020,37958138,19584757.0,227611.0,Sexual assault,Suspected person,174.0,0.9
+Poland,2020,37958138,19584757.0,227611.0,Sexual assault,Prosecuted person,,
+Poland,2020,37958138,19584757.0,227611.0,Sexual assault,Convicted person,,
+Portugal,2012,10542398,5511961.0,53256.0,Intentional homicide,Suspected person,89.0,1.8
+Portugal,2012,10542398,5511961.0,53256.0,Intentional homicide,Prosecuted person,163.0,3.2
+Portugal,2012,10542398,5511961.0,53256.0,Intentional homicide,Convicted person,127.0,2.5
+Portugal,2012,10542398,5511961.0,53256.0,Rape,Suspected person,147.0,2.9
+Portugal,2012,10542398,5511961.0,53256.0,Rape,Prosecuted person,133.0,2.6
+Portugal,2012,10542398,5511961.0,53256.0,Rape,Convicted person,87.0,1.7
+Portugal,2012,10542398,5511961.0,53256.0,Sexual assault,Suspected person,909.0,18.1
+Portugal,2012,10542398,5511961.0,53256.0,Sexual assault,Prosecuted person,562.0,11.2
+Portugal,2012,10542398,5511961.0,53256.0,Sexual assault,Convicted person,389.0,7.7
+Portugal,2013,10487289,5491592.0,52472.0,Intentional homicide,Suspected person,72.0,1.4
+Portugal,2013,10487289,5491592.0,52472.0,Intentional homicide,Prosecuted person,143.0,2.9
+Portugal,2013,10487289,5491592.0,52472.0,Intentional homicide,Convicted person,115.0,2.3
+Portugal,2013,10487289,5491592.0,52472.0,Rape,Suspected person,159.0,3.2
+Portugal,2013,10487289,5491592.0,52472.0,Rape,Prosecuted person,123.0,2.5
+Portugal,2013,10487289,5491592.0,52472.0,Rape,Convicted person,78.0,1.6
+Portugal,2013,10487289,5491592.0,52472.0,Sexual assault,Suspected person,931.0,18.6
+Portugal,2013,10487289,5491592.0,52472.0,Sexual assault,Prosecuted person,525.0,10.5
+Portugal,2013,10487289,5491592.0,52472.0,Sexual assault,Convicted person,367.0,7.3
+Portugal,2014,10427301,5469281.0,51721.0,Intentional homicide,Suspected person,47.0,0.9
+Portugal,2014,10427301,5469281.0,51721.0,Intentional homicide,Prosecuted person,125.0,2.5
+Portugal,2014,10427301,5469281.0,51721.0,Intentional homicide,Convicted person,106.0,2.1
+Portugal,2014,10427301,5469281.0,51721.0,Rape,Suspected person,144.0,2.9
+Portugal,2014,10427301,5469281.0,51721.0,Rape,Prosecuted person,122.0,2.5
+Portugal,2014,10427301,5469281.0,51721.0,Rape,Convicted person,75.0,1.5
+Portugal,2014,10427301,5469281.0,51721.0,Sexual assault,Suspected person,939.0,18.9
+Portugal,2014,10427301,5469281.0,51721.0,Sexual assault,Prosecuted person,432.0,8.7
+Portugal,2014,10427301,5469281.0,51721.0,Sexual assault,Convicted person,313.0,6.3
+Portugal,2015,10374822,5451156.0,54529.0,Intentional homicide,Suspected person,51.0,1.0
+Portugal,2015,10374822,5451156.0,54529.0,Intentional homicide,Prosecuted person,135.0,2.7
+Portugal,2015,10374822,5451156.0,54529.0,Intentional homicide,Convicted person,96.0,1.9
+Portugal,2015,10374822,5451156.0,54529.0,Rape,Suspected person,142.0,2.9
+Portugal,2015,10374822,5451156.0,54529.0,Rape,Prosecuted person,143.0,2.9
+Portugal,2015,10374822,5451156.0,54529.0,Rape,Convicted person,88.0,1.8
+Portugal,2015,10374822,5451156.0,54529.0,Sexual assault,Suspected person,938.0,19.1
+Portugal,2015,10374822,5451156.0,54529.0,Sexual assault,Prosecuted person,542.0,11.0
+Portugal,2015,10374822,5451156.0,54529.0,Sexual assault,Convicted person,425.0,8.6
+Portugal,2016,10341330,5439821.0,55105.0,Intentional homicide,Suspected person,,
+Portugal,2016,10341330,5439821.0,55105.0,Intentional homicide,Prosecuted person,116.0,2.4
+Portugal,2016,10341330,5439821.0,55105.0,Intentional homicide,Convicted person,86.0,1.8
+Portugal,2016,10341330,5439821.0,55105.0,Rape,Suspected person,145.0,3.0
+Portugal,2016,10341330,5439821.0,55105.0,Rape,Prosecuted person,149.0,3.0
+Portugal,2016,10341330,5439821.0,55105.0,Rape,Convicted person,106.0,2.2
+Portugal,2016,10341330,5439821.0,55105.0,Sexual assault,Suspected person,986.0,20.1
+Portugal,2016,10341330,5439821.0,55105.0,Sexual assault,Prosecuted person,527.0,10.8
+Portugal,2016,10341330,5439821.0,55105.0,Sexual assault,Convicted person,396.0,8.1
+Portugal,2017,10309573,5427117.0,54789.0,Intentional homicide,Suspected person,44.0,0.9
+Portugal,2017,10309573,5427117.0,54789.0,Intentional homicide,Prosecuted person,80.0,1.6
+Portugal,2017,10309573,5427117.0,54789.0,Intentional homicide,Convicted person,57.0,1.2
+Portugal,2017,10309573,5427117.0,54789.0,Rape,Suspected person,154.0,3.2
+Portugal,2017,10309573,5427117.0,54789.0,Rape,Prosecuted person,153.0,3.1
+Portugal,2017,10309573,5427117.0,54789.0,Rape,Convicted person,76.0,1.6
+Portugal,2017,10309573,5427117.0,54789.0,Sexual assault,Suspected person,929.0,19.0
+Portugal,2017,10309573,5427117.0,54789.0,Sexual assault,Prosecuted person,541.0,11.1
+Portugal,2017,10309573,5427117.0,54789.0,Sexual assault,Convicted person,401.0,8.2
+Portugal,2018,10291027,5423335.0,56475.0,Intentional homicide,Suspected person,50.0,1.0
+Portugal,2018,10291027,5423335.0,56475.0,Intentional homicide,Prosecuted person,86.0,1.8
+Portugal,2018,10291027,5423335.0,56475.0,Intentional homicide,Convicted person,68.0,1.4
+Portugal,2018,10291027,5423335.0,56475.0,Rape,Suspected person,159.0,3.3
+Portugal,2018,10291027,5423335.0,56475.0,Rape,Prosecuted person,132.0,2.7
+Portugal,2018,10291027,5423335.0,56475.0,Rape,Convicted person,75.0,1.5
+Portugal,2018,10291027,5423335.0,56475.0,Sexual assault,Suspected person,959.0,19.7
+Portugal,2018,10291027,5423335.0,56475.0,Sexual assault,Prosecuted person,519.0,10.7
+Portugal,2018,10291027,5423335.0,56475.0,Sexual assault,Convicted person,370.0,7.6
+Portugal,2019,10276617,5424251.0,56120.0,Intentional homicide,Suspected person,49.0,1.0
+Portugal,2019,10276617,5424251.0,56120.0,Intentional homicide,Prosecuted person,66.0,1.4
+Portugal,2019,10276617,5424251.0,56120.0,Intentional homicide,Convicted person,56.0,1.2
+Portugal,2019,10276617,5424251.0,56120.0,Rape,Suspected person,151.0,3.1
+Portugal,2019,10276617,5424251.0,56120.0,Rape,Prosecuted person,148.0,3.1
+Portugal,2019,10276617,5424251.0,56120.0,Rape,Convicted person,88.0,1.8
+Portugal,2019,10276617,5424251.0,56120.0,Sexual assault,Suspected person,988.0,20.4
+Portugal,2019,10276617,5424251.0,56120.0,Sexual assault,Prosecuted person,526.0,10.8
+Portugal,2019,10276617,5424251.0,56120.0,Sexual assault,Convicted person,388.0,8.0
+Portugal,2020,10295909,5435932.0,,Intentional homicide,Suspected person,43.0,0.9
+Portugal,2020,10295909,5435932.0,,Intentional homicide,Prosecuted person,83.0,1.7
+Portugal,2020,10295909,5435932.0,,Intentional homicide,Convicted person,73.0,1.5
+Portugal,2020,10295909,5435932.0,,Rape,Suspected person,116.0,2.4
+Portugal,2020,10295909,5435932.0,,Rape,Prosecuted person,128.0,2.6
+Portugal,2020,10295909,5435932.0,,Rape,Convicted person,90.0,1.9
+Portugal,2020,10295909,5435932.0,,Sexual assault,Suspected person,901.0,18.5
+Portugal,2020,10295909,5435932.0,,Sexual assault,Prosecuted person,458.0,9.4
+Portugal,2020,10295909,5435932.0,,Sexual assault,Convicted person,357.0,7.3
+Romania,2012,20095996,10318889.0,121308.0,Intentional homicide,Suspected person,,
+Romania,2012,20095996,10318889.0,121308.0,Intentional homicide,Prosecuted person,269.0,2.8
+Romania,2012,20095996,10318889.0,121308.0,Intentional homicide,Convicted person,769.0,7.9
+Romania,2012,20095996,10318889.0,121308.0,Rape,Suspected person,,
+Romania,2012,20095996,10318889.0,121308.0,Rape,Prosecuted person,436.0,4.5
+Romania,2012,20095996,10318889.0,121308.0,Rape,Convicted person,417.0,4.3
+Romania,2012,20095996,10318889.0,121308.0,Sexual assault,Suspected person,,
+Romania,2012,20095996,10318889.0,121308.0,Sexual assault,Prosecuted person,246.0,2.5
+Romania,2012,20095996,10318889.0,121308.0,Sexual assault,Convicted person,220.0,2.3
+Romania,2013,20020074,10258594.0,117935.0,Intentional homicide,Suspected person,,
+Romania,2013,20020074,10258594.0,117935.0,Intentional homicide,Prosecuted person,304.0,3.1
+Romania,2013,20020074,10258594.0,117935.0,Intentional homicide,Convicted person,773.0,7.9
+Romania,2013,20020074,10258594.0,117935.0,Rape,Suspected person,,
+Romania,2013,20020074,10258594.0,117935.0,Rape,Prosecuted person,463.0,4.7
+Romania,2013,20020074,10258594.0,117935.0,Rape,Convicted person,356.0,3.6
+Romania,2013,20020074,10258594.0,117935.0,Sexual assault,Suspected person,,
+Romania,2013,20020074,10258594.0,117935.0,Sexual assault,Prosecuted person,291.0,3.0
+Romania,2013,20020074,10258594.0,117935.0,Sexual assault,Convicted person,236.0,2.4
+Romania,2014,19947311,10201259.0,120448.0,Intentional homicide,Suspected person,,
+Romania,2014,19947311,10201259.0,120448.0,Intentional homicide,Prosecuted person,350.0,3.6
+Romania,2014,19947311,10201259.0,120448.0,Intentional homicide,Convicted person,826.0,8.5
+Romania,2014,19947311,10201259.0,120448.0,Rape,Suspected person,,
+Romania,2014,19947311,10201259.0,120448.0,Rape,Prosecuted person,643.0,6.6
+Romania,2014,19947311,10201259.0,120448.0,Rape,Convicted person,417.0,4.3
+Romania,2014,19947311,10201259.0,120448.0,Sexual assault,Suspected person,,
+Romania,2014,19947311,10201259.0,120448.0,Sexual assault,Prosecuted person,20.0,0.2
+Romania,2014,19947311,10201259.0,120448.0,Sexual assault,Convicted person,4.0,0.0
+Romania,2015,19870647,10163573.0,124456.0,Intentional homicide,Suspected person,,
+Romania,2015,19870647,10163573.0,124456.0,Intentional homicide,Prosecuted person,,
+Romania,2015,19870647,10163573.0,124456.0,Intentional homicide,Convicted person,785.0,8.1
+Romania,2015,19870647,10163573.0,124456.0,Rape,Suspected person,,
+Romania,2015,19870647,10163573.0,124456.0,Rape,Prosecuted person,,
+Romania,2015,19870647,10163573.0,124456.0,Rape,Convicted person,399.0,4.1
+Romania,2015,19870647,10163573.0,124456.0,Sexual assault,Suspected person,,
+Romania,2015,19870647,10163573.0,124456.0,Sexual assault,Prosecuted person,,
+Romania,2015,19870647,10163573.0,124456.0,Sexual assault,Convicted person,18.0,0.2
+Romania,2016,19760585,10110852.0,121895.0,Intentional homicide,Suspected person,,
+Romania,2016,19760585,10110852.0,121895.0,Intentional homicide,Prosecuted person,,
+Romania,2016,19760585,10110852.0,121895.0,Intentional homicide,Convicted person,,
+Romania,2016,19760585,10110852.0,121895.0,Rape,Suspected person,,
+Romania,2016,19760585,10110852.0,121895.0,Rape,Prosecuted person,,
+Romania,2016,19760585,10110852.0,121895.0,Rape,Convicted person,,
+Romania,2016,19760585,10110852.0,121895.0,Sexual assault,Suspected person,,
+Romania,2016,19760585,10110852.0,121895.0,Sexual assault,Prosecuted person,,
+Romania,2016,19760585,10110852.0,121895.0,Sexual assault,Convicted person,21.0,0.2
+Romania,2017,19643949,10041869.0,124252.0,Intentional homicide,Suspected person,,
+Romania,2017,19643949,10041869.0,124252.0,Intentional homicide,Prosecuted person,,
+Romania,2017,19643949,10041869.0,124252.0,Intentional homicide,Convicted person,715.0,7.4
+Romania,2017,19643949,10041869.0,124252.0,Rape,Suspected person,,
+Romania,2017,19643949,10041869.0,124252.0,Rape,Prosecuted person,,
+Romania,2017,19643949,10041869.0,124252.0,Rape,Convicted person,286.0,3.0
+Romania,2017,19643949,10041869.0,124252.0,Sexual assault,Suspected person,,
+Romania,2017,19643949,10041869.0,124252.0,Sexual assault,Prosecuted person,,
+Romania,2017,19643949,10041869.0,124252.0,Sexual assault,Convicted person,33.0,0.3
+Romania,2018,19533481,9978614.0,124638.0,Intentional homicide,Suspected person,,
+Romania,2018,19533481,9978614.0,124638.0,Intentional homicide,Prosecuted person,,
+Romania,2018,19533481,9978614.0,124638.0,Intentional homicide,Convicted person,644.0,6.7
+Romania,2018,19533481,9978614.0,124638.0,Rape,Suspected person,,
+Romania,2018,19533481,9978614.0,124638.0,Rape,Prosecuted person,,
+Romania,2018,19533481,9978614.0,124638.0,Rape,Convicted person,420.0,4.4
+Romania,2018,19533481,9978614.0,124638.0,Sexual assault,Suspected person,,
+Romania,2018,19533481,9978614.0,124638.0,Sexual assault,Prosecuted person,,
+Romania,2018,19533481,9978614.0,124638.0,Sexual assault,Convicted person,29.0,0.3
+Romania,2019,19414458,9914008.0,122451.0,Intentional homicide,Suspected person,,
+Romania,2019,19414458,9914008.0,122451.0,Intentional homicide,Prosecuted person,,
+Romania,2019,19414458,9914008.0,122451.0,Intentional homicide,Convicted person,643.0,6.8
+Romania,2019,19414458,9914008.0,122451.0,Rape,Suspected person,,
+Romania,2019,19414458,9914008.0,122451.0,Rape,Prosecuted person,,
+Romania,2019,19414458,9914008.0,122451.0,Rape,Convicted person,377.0,4.0
+Romania,2019,19414458,9914008.0,122451.0,Sexual assault,Suspected person,,
+Romania,2019,19414458,9914008.0,122451.0,Sexual assault,Prosecuted person,,
+Romania,2019,19414458,9914008.0,122451.0,Sexual assault,Convicted person,71.0,0.7
+Romania,2020,19328838,9868177.0,,Intentional homicide,Suspected person,,
+Romania,2020,19328838,9868177.0,,Intentional homicide,Prosecuted person,,
+Romania,2020,19328838,9868177.0,,Intentional homicide,Convicted person,477.0,5.0
+Romania,2020,19328838,9868177.0,,Rape,Suspected person,,
+Romania,2020,19328838,9868177.0,,Rape,Prosecuted person,,
+Romania,2020,19328838,9868177.0,,Rape,Convicted person,365.0,3.9
+Romania,2020,19328838,9868177.0,,Sexual assault,Suspected person,,
+Romania,2020,19328838,9868177.0,,Sexual assault,Prosecuted person,,
+Romania,2020,19328838,9868177.0,,Sexual assault,Convicted person,78.0,0.8
+Serbia,2012,7216649,3702229.0,50402.0,Intentional homicide,Suspected person,103.0,2.9
+Serbia,2012,7216649,3702229.0,50402.0,Intentional homicide,Prosecuted person,,
+Serbia,2012,7216649,3702229.0,50402.0,Intentional homicide,Convicted person,,
+Serbia,2012,7216649,3702229.0,50402.0,Rape,Suspected person,91.0,2.6
+Serbia,2012,7216649,3702229.0,50402.0,Rape,Prosecuted person,157.0,4.5
+Serbia,2012,7216649,3702229.0,50402.0,Rape,Convicted person,122.0,3.5
+Serbia,2012,7216649,3702229.0,50402.0,Sexual assault,Suspected person,251.0,7.1
+Serbia,2012,7216649,3702229.0,50402.0,Sexual assault,Prosecuted person,,
+Serbia,2012,7216649,3702229.0,50402.0,Sexual assault,Convicted person,70.0,2.0
+Serbia,2013,7181505,3684497.0,49300.0,Intentional homicide,Suspected person,136.0,3.9
+Serbia,2013,7181505,3684497.0,49300.0,Intentional homicide,Prosecuted person,317.0,9.1
+Serbia,2013,7181505,3684497.0,49300.0,Intentional homicide,Convicted person,116.0,3.3
+Serbia,2013,7181505,3684497.0,49300.0,Rape,Suspected person,89.0,2.5
+Serbia,2013,7181505,3684497.0,49300.0,Rape,Prosecuted person,196.0,5.6
+Serbia,2013,7181505,3684497.0,49300.0,Rape,Convicted person,139.0,4.0
+Serbia,2013,7181505,3684497.0,49300.0,Sexual assault,Suspected person,287.0,8.2
+Serbia,2013,7181505,3684497.0,49300.0,Sexual assault,Prosecuted person,135.0,3.9
+Serbia,2013,7181505,3684497.0,49300.0,Sexual assault,Convicted person,83.0,2.4
+Serbia,2014,7146759,3666896.0,50145.0,Intentional homicide,Suspected person,118.0,3.4
+Serbia,2014,7146759,3666896.0,50145.0,Intentional homicide,Prosecuted person,297.0,8.5
+Serbia,2014,7146759,3666896.0,50145.0,Intentional homicide,Convicted person,130.0,3.7
+Serbia,2014,7146759,3666896.0,50145.0,Rape,Suspected person,59.0,1.7
+Serbia,2014,7146759,3666896.0,50145.0,Rape,Prosecuted person,221.0,6.4
+Serbia,2014,7146759,3666896.0,50145.0,Rape,Convicted person,146.0,4.2
+Serbia,2014,7146759,3666896.0,50145.0,Sexual assault,Suspected person,270.0,7.8
+Serbia,2014,7146759,3666896.0,50145.0,Sexual assault,Prosecuted person,198.0,5.7
+Serbia,2014,7146759,3666896.0,50145.0,Sexual assault,Convicted person,93.0,2.7
+Serbia,2015,7114393,3649994.0,51432.0,Intentional homicide,Suspected person,100.0,2.9
+Serbia,2015,7114393,3649994.0,51432.0,Intentional homicide,Prosecuted person,262.0,7.6
+Serbia,2015,7114393,3649994.0,51432.0,Intentional homicide,Convicted person,78.0,2.3
+Serbia,2015,7114393,3649994.0,51432.0,Rape,Suspected person,62.0,1.8
+Serbia,2015,7114393,3649994.0,51432.0,Rape,Prosecuted person,189.0,5.5
+Serbia,2015,7114393,3649994.0,51432.0,Rape,Convicted person,77.0,2.2
+Serbia,2015,7114393,3649994.0,51432.0,Sexual assault,Suspected person,258.0,7.4
+Serbia,2015,7114393,3649994.0,51432.0,Sexual assault,Prosecuted person,191.0,5.5
+Serbia,2015,7114393,3649994.0,51432.0,Sexual assault,Convicted person,65.0,1.9
+Serbia,2016,7076372,3630114.0,50002.0,Intentional homicide,Suspected person,117.0,3.4
+Serbia,2016,7076372,3630114.0,50002.0,Intentional homicide,Prosecuted person,294.0,8.5
+Serbia,2016,7076372,3630114.0,50002.0,Intentional homicide,Convicted person,96.0,2.8
+Serbia,2016,7076372,3630114.0,50002.0,Rape,Suspected person,52.0,1.5
+Serbia,2016,7076372,3630114.0,50002.0,Rape,Prosecuted person,192.0,5.6
+Serbia,2016,7076372,3630114.0,50002.0,Rape,Convicted person,91.0,2.6
+Serbia,2016,7076372,3630114.0,50002.0,Sexual assault,Suspected person,285.0,8.3
+Serbia,2016,7076372,3630114.0,50002.0,Sexual assault,Prosecuted person,214.0,6.2
+Serbia,2016,7076372,3630114.0,50002.0,Sexual assault,Convicted person,79.0,2.3
+Serbia,2017,7040272,3611245.0,51813.0,Intentional homicide,Suspected person,68.0,2.0
+Serbia,2017,7040272,3611245.0,51813.0,Intentional homicide,Prosecuted person,212.0,6.2
+Serbia,2017,7040272,3611245.0,51813.0,Intentional homicide,Convicted person,85.0,2.5
+Serbia,2017,7040272,3611245.0,51813.0,Rape,Suspected person,126.0,3.7
+Serbia,2017,7040272,3611245.0,51813.0,Rape,Prosecuted person,192.0,5.6
+Serbia,2017,7040272,3611245.0,51813.0,Rape,Convicted person,69.0,2.0
+Serbia,2017,7040272,3611245.0,51813.0,Sexual assault,Suspected person,181.0,5.3
+Serbia,2017,7040272,3611245.0,51813.0,Sexual assault,Prosecuted person,283.0,8.3
+Serbia,2017,7040272,3611245.0,51813.0,Sexual assault,Convicted person,105.0,3.1
+Serbia,2018,7001444,3590852.0,50533.0,Intentional homicide,Suspected person,101.0,3.0
+Serbia,2018,7001444,3590852.0,50533.0,Intentional homicide,Prosecuted person,209.0,6.1
+Serbia,2018,7001444,3590852.0,50533.0,Intentional homicide,Convicted person,62.0,1.8
+Serbia,2018,7001444,3590852.0,50533.0,Rape,Suspected person,127.0,3.7
+Serbia,2018,7001444,3590852.0,50533.0,Rape,Prosecuted person,183.0,5.4
+Serbia,2018,7001444,3590852.0,50533.0,Rape,Convicted person,66.0,1.9
+Serbia,2018,7001444,3590852.0,50533.0,Sexual assault,Suspected person,287.0,8.4
+Serbia,2018,7001444,3590852.0,50533.0,Sexual assault,Prosecuted person,368.0,10.8
+Serbia,2018,7001444,3590852.0,50533.0,Sexual assault,Convicted person,118.0,3.5
+Serbia,2019,6963764,3570953.0,50019.0,Intentional homicide,Suspected person,83.0,2.4
+Serbia,2019,6963764,3570953.0,50019.0,Intentional homicide,Prosecuted person,217.0,6.4
+Serbia,2019,6963764,3570953.0,50019.0,Intentional homicide,Convicted person,72.0,2.1
+Serbia,2019,6963764,3570953.0,50019.0,Rape,Suspected person,134.0,3.9
+Serbia,2019,6963764,3570953.0,50019.0,Rape,Prosecuted person,170.0,5.0
+Serbia,2019,6963764,3570953.0,50019.0,Rape,Convicted person,56.0,1.7
+Serbia,2019,6963764,3570953.0,50019.0,Sexual assault,Suspected person,323.0,9.5
+Serbia,2019,6963764,3570953.0,50019.0,Sexual assault,Prosecuted person,391.0,11.5
+Serbia,2019,6963764,3570953.0,50019.0,Sexual assault,Convicted person,185.0,5.5
+Serbia,2020,6926705,3552066.0,56252.0,Intentional homicide,Suspected person,78.0,2.3
+Serbia,2020,6926705,3552066.0,56252.0,Intentional homicide,Prosecuted person,206.0,6.1
+Serbia,2020,6926705,3552066.0,56252.0,Intentional homicide,Convicted person,63.0,1.9
+Serbia,2020,6926705,3552066.0,56252.0,Rape,Suspected person,96.0,2.8
+Serbia,2020,6926705,3552066.0,56252.0,Rape,Prosecuted person,146.0,4.3
+Serbia,2020,6926705,3552066.0,56252.0,Rape,Convicted person,60.0,1.8
+Serbia,2020,6926705,3552066.0,56252.0,Sexual assault,Suspected person,286.0,8.5
+Serbia,2020,6926705,3552066.0,56252.0,Sexual assault,Prosecuted person,369.0,10.9
+Serbia,2020,6926705,3552066.0,56252.0,Sexual assault,Convicted person,127.0,3.8
+Slovakia,2012,5404322,2772570.0,25491.0,Intentional homicide,Suspected person,,
+Slovakia,2012,5404322,2772570.0,25491.0,Intentional homicide,Prosecuted person,88.0,3.3
+Slovakia,2012,5404322,2772570.0,25491.0,Intentional homicide,Convicted person,39.0,1.5
+Slovakia,2012,5404322,2772570.0,25491.0,Rape,Suspected person,,
+Slovakia,2012,5404322,2772570.0,25491.0,Rape,Prosecuted person,102.0,3.9
+Slovakia,2012,5404322,2772570.0,25491.0,Rape,Convicted person,45.0,1.7
+Slovakia,2012,5404322,2772570.0,25491.0,Sexual assault,Suspected person,,
+Slovakia,2012,5404322,2772570.0,25491.0,Sexual assault,Prosecuted person,473.0,18.0
+Slovakia,2012,5404322,2772570.0,25491.0,Sexual assault,Convicted person,23.0,0.9
+Slovakia,2013,5410836,2774857.0,25126.0,Intentional homicide,Suspected person,53.0,2.0
+Slovakia,2013,5410836,2774857.0,25126.0,Intentional homicide,Prosecuted person,74.0,2.8
+Slovakia,2013,5410836,2774857.0,25126.0,Intentional homicide,Convicted person,36.0,1.4
+Slovakia,2013,5410836,2774857.0,25126.0,Rape,Suspected person,46.0,1.7
+Slovakia,2013,5410836,2774857.0,25126.0,Rape,Prosecuted person,81.0,3.1
+Slovakia,2013,5410836,2774857.0,25126.0,Rape,Convicted person,34.0,1.3
+Slovakia,2013,5410836,2774857.0,25126.0,Sexual assault,Suspected person,44.0,1.7
+Slovakia,2013,5410836,2774857.0,25126.0,Sexual assault,Prosecuted person,405.0,15.4
+Slovakia,2013,5410836,2774857.0,25126.0,Sexual assault,Convicted person,26.0,1.0
+Slovakia,2014,5415949,2776889.0,24716.0,Intentional homicide,Suspected person,48.0,1.8
+Slovakia,2014,5415949,2776889.0,24716.0,Intentional homicide,Prosecuted person,82.0,3.1
+Slovakia,2014,5415949,2776889.0,24716.0,Intentional homicide,Convicted person,40.0,1.5
+Slovakia,2014,5415949,2776889.0,24716.0,Rape,Suspected person,63.0,2.4
+Slovakia,2014,5415949,2776889.0,24716.0,Rape,Prosecuted person,76.0,2.9
+Slovakia,2014,5415949,2776889.0,24716.0,Rape,Convicted person,31.0,1.2
+Slovakia,2014,5415949,2776889.0,24716.0,Sexual assault,Suspected person,37.0,1.4
+Slovakia,2014,5415949,2776889.0,24716.0,Sexual assault,Prosecuted person,446.0,16.9
+Slovakia,2014,5415949,2776889.0,24716.0,Sexual assault,Convicted person,19.0,0.7
+Slovakia,2015,5421349,2779021.0,26243.0,Intentional homicide,Suspected person,41.0,1.6
+Slovakia,2015,5421349,2779021.0,26243.0,Intentional homicide,Prosecuted person,86.0,3.3
+Slovakia,2015,5421349,2779021.0,26243.0,Intentional homicide,Convicted person,27.0,1.0
+Slovakia,2015,5421349,2779021.0,26243.0,Rape,Suspected person,53.0,2.0
+Slovakia,2015,5421349,2779021.0,26243.0,Rape,Prosecuted person,81.0,3.1
+Slovakia,2015,5421349,2779021.0,26243.0,Rape,Convicted person,32.0,1.2
+Slovakia,2015,5421349,2779021.0,26243.0,Sexual assault,Suspected person,55.0,2.1
+Slovakia,2015,5421349,2779021.0,26243.0,Sexual assault,Prosecuted person,379.0,14.3
+Slovakia,2015,5421349,2779021.0,26243.0,Sexual assault,Convicted person,18.0,0.7
+Slovakia,2016,5426252,2780170.0,25446.0,Intentional homicide,Suspected person,40.0,1.5
+Slovakia,2016,5426252,2780170.0,25446.0,Intentional homicide,Prosecuted person,50.0,1.9
+Slovakia,2016,5426252,2780170.0,25446.0,Intentional homicide,Convicted person,29.0,1.1
+Slovakia,2016,5426252,2780170.0,25446.0,Rape,Suspected person,50.0,1.9
+Slovakia,2016,5426252,2780170.0,25446.0,Rape,Prosecuted person,70.0,2.6
+Slovakia,2016,5426252,2780170.0,25446.0,Rape,Convicted person,35.0,1.3
+Slovakia,2016,5426252,2780170.0,25446.0,Sexual assault,Suspected person,34.0,1.3
+Slovakia,2016,5426252,2780170.0,25446.0,Sexual assault,Prosecuted person,412.0,15.6
+Slovakia,2016,5426252,2780170.0,25446.0,Sexual assault,Convicted person,16.0,0.6
+Slovakia,2017,5435343,2783659.0,26278.0,Intentional homicide,Suspected person,51.0,1.9
+Slovakia,2017,5435343,2783659.0,26278.0,Intentional homicide,Prosecuted person,35.0,1.3
+Slovakia,2017,5435343,2783659.0,26278.0,Intentional homicide,Convicted person,27.0,1.0
+Slovakia,2017,5435343,2783659.0,26278.0,Rape,Suspected person,55.0,2.1
+Slovakia,2017,5435343,2783659.0,26278.0,Rape,Prosecuted person,59.0,2.2
+Slovakia,2017,5435343,2783659.0,26278.0,Rape,Convicted person,25.0,0.9
+Slovakia,2017,5435343,2783659.0,26278.0,Sexual assault,Suspected person,61.0,2.3
+Slovakia,2017,5435343,2783659.0,26278.0,Sexual assault,Prosecuted person,54.0,2.0
+Slovakia,2017,5435343,2783659.0,26278.0,Sexual assault,Convicted person,18.0,0.7
+Slovakia,2018,5443120,2786606.0,26371.0,Intentional homicide,Suspected person,41.0,1.5
+Slovakia,2018,5443120,2786606.0,26371.0,Intentional homicide,Prosecuted person,49.0,1.8
+Slovakia,2018,5443120,2786606.0,26371.0,Intentional homicide,Convicted person,32.0,1.2
+Slovakia,2018,5443120,2786606.0,26371.0,Rape,Suspected person,60.0,2.3
+Slovakia,2018,5443120,2786606.0,26371.0,Rape,Prosecuted person,81.0,3.0
+Slovakia,2018,5443120,2786606.0,26371.0,Rape,Convicted person,44.0,1.7
+Slovakia,2018,5443120,2786606.0,26371.0,Sexual assault,Suspected person,52.0,2.0
+Slovakia,2018,5443120,2786606.0,26371.0,Sexual assault,Prosecuted person,87.0,3.3
+Slovakia,2018,5443120,2786606.0,26371.0,Sexual assault,Convicted person,36.0,1.4
+Slovakia,2019,5450421,2789344.0,25658.0,Intentional homicide,Suspected person,72.0,2.7
+Slovakia,2019,5450421,2789344.0,25658.0,Intentional homicide,Prosecuted person,62.0,2.3
+Slovakia,2019,5450421,2789344.0,25658.0,Intentional homicide,Convicted person,28.0,1.1
+Slovakia,2019,5450421,2789344.0,25658.0,Rape,Suspected person,61.0,2.3
+Slovakia,2019,5450421,2789344.0,25658.0,Rape,Prosecuted person,76.0,2.9
+Slovakia,2019,5450421,2789344.0,25658.0,Rape,Convicted person,40.0,1.5
+Slovakia,2019,5450421,2789344.0,25658.0,Sexual assault,Suspected person,51.0,1.9
+Slovakia,2019,5450421,2789344.0,25658.0,Sexual assault,Prosecuted person,60.0,2.3
+Slovakia,2019,5450421,2789344.0,25658.0,Sexual assault,Convicted person,58.0,2.2
+Slovakia,2020,5457873,2792523.0,28478.0,Intentional homicide,Suspected person,52.0,2.0
+Slovakia,2020,5457873,2792523.0,28478.0,Intentional homicide,Prosecuted person,63.0,2.4
+Slovakia,2020,5457873,2792523.0,28478.0,Intentional homicide,Convicted person,35.0,1.3
+Slovakia,2020,5457873,2792523.0,28478.0,Rape,Suspected person,53.0,2.0
+Slovakia,2020,5457873,2792523.0,28478.0,Rape,Prosecuted person,71.0,2.7
+Slovakia,2020,5457873,2792523.0,28478.0,Rape,Convicted person,41.0,1.5
+Slovakia,2020,5457873,2792523.0,28478.0,Sexual assault,Suspected person,41.0,1.5
+Slovakia,2020,5457873,2792523.0,28478.0,Sexual assault,Prosecuted person,50.0,1.9
+Slovakia,2020,5457873,2792523.0,28478.0,Sexual assault,Convicted person,39.0,1.5
+Slovenia,2012,2055496,1038765.0,9831.0,Intentional homicide,Suspected person,16.0,1.6
+Slovenia,2012,2055496,1038765.0,9831.0,Intentional homicide,Prosecuted person,,
+Slovenia,2012,2055496,1038765.0,9831.0,Intentional homicide,Convicted person,22.0,2.2
+Slovenia,2012,2055496,1038765.0,9831.0,Rape,Suspected person,46.0,4.5
+Slovenia,2012,2055496,1038765.0,9831.0,Rape,Prosecuted person,,
+Slovenia,2012,2055496,1038765.0,9831.0,Rape,Convicted person,23.0,2.3
+Slovenia,2012,2055496,1038765.0,9831.0,Sexual assault,Suspected person,40.0,3.9
+Slovenia,2012,2055496,1038765.0,9831.0,Sexual assault,Prosecuted person,101.0,9.9
+Slovenia,2012,2055496,1038765.0,9831.0,Sexual assault,Convicted person,69.0,6.8
+Slovenia,2013,2058821,1039760.0,9760.0,Intentional homicide,Suspected person,19.0,1.9
+Slovenia,2013,2058821,1039760.0,9760.0,Intentional homicide,Prosecuted person,,
+Slovenia,2013,2058821,1039760.0,9760.0,Intentional homicide,Convicted person,36.0,3.5
+Slovenia,2013,2058821,1039760.0,9760.0,Rape,Suspected person,38.0,3.7
+Slovenia,2013,2058821,1039760.0,9760.0,Rape,Prosecuted person,18.0,1.8
+Slovenia,2013,2058821,1039760.0,9760.0,Rape,Convicted person,24.0,2.4
+Slovenia,2013,2058821,1039760.0,9760.0,Sexual assault,Suspected person,41.0,4.0
+Slovenia,2013,2058821,1039760.0,9760.0,Sexual assault,Prosecuted person,107.0,10.5
+Slovenia,2013,2058821,1039760.0,9760.0,Sexual assault,Convicted person,21.0,2.1
+Slovenia,2014,2061085,1040211.0,9614.0,Intentional homicide,Suspected person,29.0,2.8
+Slovenia,2014,2061085,1040211.0,9614.0,Intentional homicide,Prosecuted person,32.0,3.1
+Slovenia,2014,2061085,1040211.0,9614.0,Intentional homicide,Convicted person,33.0,3.2
+Slovenia,2014,2061085,1040211.0,9614.0,Rape,Suspected person,41.0,4.0
+Slovenia,2014,2061085,1040211.0,9614.0,Rape,Prosecuted person,20.0,2.0
+Slovenia,2014,2061085,1040211.0,9614.0,Rape,Convicted person,13.0,1.3
+Slovenia,2014,2061085,1040211.0,9614.0,Sexual assault,Suspected person,35.0,3.4
+Slovenia,2014,2061085,1040211.0,9614.0,Sexual assault,Prosecuted person,12.0,1.2
+Slovenia,2014,2061085,1040211.0,9614.0,Sexual assault,Convicted person,18.0,1.8
+Slovenia,2015,2062874,1040645.0,10067.0,Intentional homicide,Suspected person,12.0,1.2
+Slovenia,2015,2062874,1040645.0,10067.0,Intentional homicide,Prosecuted person,29.0,2.8
+Slovenia,2015,2062874,1040645.0,10067.0,Intentional homicide,Convicted person,20.0,2.0
+Slovenia,2015,2062874,1040645.0,10067.0,Rape,Suspected person,39.0,3.8
+Slovenia,2015,2062874,1040645.0,10067.0,Rape,Prosecuted person,19.0,1.9
+Slovenia,2015,2062874,1040645.0,10067.0,Rape,Convicted person,19.0,1.9
+Slovenia,2015,2062874,1040645.0,10067.0,Sexual assault,Suspected person,24.0,2.3
+Slovenia,2015,2062874,1040645.0,10067.0,Sexual assault,Prosecuted person,22.0,2.2
+Slovenia,2015,2062874,1040645.0,10067.0,Sexual assault,Convicted person,16.0,1.6
+Slovenia,2016,2064188,1040855.0,9949.0,Intentional homicide,Suspected person,12.0,1.2
+Slovenia,2016,2064188,1040855.0,9949.0,Intentional homicide,Prosecuted person,27.0,2.6
+Slovenia,2016,2064188,1040855.0,9949.0,Intentional homicide,Convicted person,18.0,1.8
+Slovenia,2016,2064188,1040855.0,9949.0,Rape,Suspected person,29.0,2.8
+Slovenia,2016,2064188,1040855.0,9949.0,Rape,Prosecuted person,23.0,2.2
+Slovenia,2016,2064188,1040855.0,9949.0,Rape,Convicted person,10.0,1.0
+Slovenia,2016,2064188,1040855.0,9949.0,Sexual assault,Suspected person,37.0,3.6
+Slovenia,2016,2064188,1040855.0,9949.0,Sexual assault,Prosecuted person,16.0,1.6
+Slovenia,2016,2064188,1040855.0,9949.0,Sexual assault,Convicted person,8.0,0.8
+Slovenia,2017,2065895,1040770.0,10244.0,Intentional homicide,Suspected person,16.0,1.6
+Slovenia,2017,2065895,1040770.0,10244.0,Intentional homicide,Prosecuted person,37.0,3.6
+Slovenia,2017,2065895,1040770.0,10244.0,Intentional homicide,Convicted person,20.0,2.0
+Slovenia,2017,2065895,1040770.0,10244.0,Rape,Suspected person,41.0,4.0
+Slovenia,2017,2065895,1040770.0,10244.0,Rape,Prosecuted person,20.0,2.0
+Slovenia,2017,2065895,1040770.0,10244.0,Rape,Convicted person,13.0,1.3
+Slovenia,2017,2065895,1040770.0,10244.0,Sexual assault,Suspected person,38.0,3.7
+Slovenia,2017,2065895,1040770.0,10244.0,Sexual assault,Prosecuted person,18.0,1.8
+Slovenia,2017,2065895,1040770.0,10244.0,Sexual assault,Convicted person,13.0,1.3
+Slovenia,2018,2066880,1039839.0,10199.0,Intentional homicide,Suspected person,9.0,0.9
+Slovenia,2018,2066880,1039839.0,10199.0,Intentional homicide,Prosecuted person,32.0,3.1
+Slovenia,2018,2066880,1039839.0,10199.0,Intentional homicide,Convicted person,33.0,3.2
+Slovenia,2018,2066880,1039839.0,10199.0,Rape,Suspected person,33.0,3.2
+Slovenia,2018,2066880,1039839.0,10199.0,Rape,Prosecuted person,23.0,2.2
+Slovenia,2018,2066880,1039839.0,10199.0,Rape,Convicted person,10.0,1.0
+Slovenia,2018,2066880,1039839.0,10199.0,Sexual assault,Suspected person,30.0,2.9
+Slovenia,2018,2066880,1039839.0,10199.0,Sexual assault,Prosecuted person,19.0,1.8
+Slovenia,2018,2066880,1039839.0,10199.0,Sexual assault,Convicted person,12.0,1.2
+Slovenia,2019,2080908,1042252.0,10266.0,Intentional homicide,Suspected person,21.0,2.0
+Slovenia,2019,2080908,1042252.0,10266.0,Intentional homicide,Prosecuted person,14.0,1.3
+Slovenia,2019,2080908,1042252.0,10266.0,Intentional homicide,Convicted person,15.0,1.4
+Slovenia,2019,2080908,1042252.0,10266.0,Rape,Suspected person,34.0,3.3
+Slovenia,2019,2080908,1042252.0,10266.0,Rape,Prosecuted person,25.0,2.4
+Slovenia,2019,2080908,1042252.0,10266.0,Rape,Convicted person,12.0,1.2
+Slovenia,2019,2080908,1042252.0,10266.0,Sexual assault,Suspected person,37.0,3.6
+Slovenia,2019,2080908,1042252.0,10266.0,Sexual assault,Prosecuted person,16.0,1.5
+Slovenia,2019,2080908,1042252.0,10266.0,Sexual assault,Convicted person,12.0,1.2
+Slovenia,2020,2095861,1044795.0,12091.0,Intentional homicide,Suspected person,8.0,0.8
+Slovenia,2020,2095861,1044795.0,12091.0,Intentional homicide,Prosecuted person,19.0,1.8
+Slovenia,2020,2095861,1044795.0,12091.0,Intentional homicide,Convicted person,15.0,1.4
+Slovenia,2020,2095861,1044795.0,12091.0,Rape,Suspected person,41.0,3.9
+Slovenia,2020,2095861,1044795.0,12091.0,Rape,Prosecuted person,23.0,2.2
+Slovenia,2020,2095861,1044795.0,12091.0,Rape,Convicted person,5.0,0.5
+Slovenia,2020,2095861,1044795.0,12091.0,Sexual assault,Suspected person,52.0,4.9
+Slovenia,2020,2095861,1044795.0,12091.0,Sexual assault,Prosecuted person,9.0,0.9
+Slovenia,2020,2095861,1044795.0,12091.0,Sexual assault,Convicted person,8.0,0.8
+Slovenia,2021,2108977,1049039.0,11420.0,Intentional homicide,Suspected person,11.0,1.0
+Slovenia,2021,2108977,1049039.0,11420.0,Intentional homicide,Prosecuted person,23.0,2.2
+Slovenia,2021,2108977,1049039.0,11420.0,Intentional homicide,Convicted person,18.0,1.7
+Slovenia,2021,2108977,1049039.0,11420.0,Rape,Suspected person,45.0,4.2
+Slovenia,2021,2108977,1049039.0,11420.0,Rape,Prosecuted person,15.0,1.4
+Slovenia,2021,2108977,1049039.0,11420.0,Rape,Convicted person,15.0,1.4
+Slovenia,2021,2108977,1049039.0,11420.0,Sexual assault,Suspected person,34.0,3.2
+Slovenia,2021,2108977,1049039.0,11420.0,Sexual assault,Prosecuted person,18.0,1.7
+Slovenia,2021,2108977,1049039.0,11420.0,Sexual assault,Convicted person,5.0,0.5
+Spain,2012,46818219,23719207.0,197030.0,Intentional homicide,Suspected person,443.0,1.9
+Spain,2012,46818219,23719207.0,197030.0,Intentional homicide,Prosecuted person,,
+Spain,2012,46818219,23719207.0,197030.0,Intentional homicide,Convicted person,75.0,0.3
+Spain,2012,46818219,23719207.0,197030.0,Rape,Suspected person,853.0,3.7
+Spain,2012,46818219,23719207.0,197030.0,Rape,Prosecuted person,,
+Spain,2012,46818219,23719207.0,197030.0,Rape,Convicted person,,
+Spain,2012,46818219,23719207.0,197030.0,Sexual assault,Suspected person,4486.0,19.4
+Spain,2012,46818219,23719207.0,197030.0,Sexual assault,Prosecuted person,,
+Spain,2012,46818219,23719207.0,197030.0,Sexual assault,Convicted person,,
+Spain,2013,46727890,23710130.0,190585.0,Intentional homicide,Suspected person,301.0,1.3
+Spain,2013,46727890,23710130.0,190585.0,Intentional homicide,Prosecuted person,,
+Spain,2013,46727890,23710130.0,190585.0,Intentional homicide,Convicted person,84.0,0.4
+Spain,2013,46727890,23710130.0,190585.0,Rape,Suspected person,836.0,3.6
+Spain,2013,46727890,23710130.0,190585.0,Rape,Prosecuted person,,
+Spain,2013,46727890,23710130.0,190585.0,Rape,Convicted person,,
+Spain,2013,46727890,23710130.0,190585.0,Sexual assault,Suspected person,4498.0,19.5
+Spain,2013,46727890,23710130.0,190585.0,Sexual assault,Prosecuted person,,
+Spain,2013,46727890,23710130.0,190585.0,Sexual assault,Convicted person,,
+Spain,2014,46512199,23634738.0,194259.0,Intentional homicide,Suspected person,316.0,1.4
+Spain,2014,46512199,23634738.0,194259.0,Intentional homicide,Prosecuted person,,
+Spain,2014,46512199,23634738.0,194259.0,Intentional homicide,Convicted person,207.0,0.9
+Spain,2014,46512199,23634738.0,194259.0,Rape,Suspected person,937.0,4.1
+Spain,2014,46512199,23634738.0,194259.0,Rape,Prosecuted person,,
+Spain,2014,46512199,23634738.0,194259.0,Rape,Convicted person,64.0,0.3
+Spain,2014,46512199,23634738.0,194259.0,Sexual assault,Suspected person,4996.0,21.8
+Spain,2014,46512199,23634738.0,194259.0,Sexual assault,Prosecuted person,,
+Spain,2014,46512199,23634738.0,194259.0,Sexual assault,Convicted person,484.0,2.1
+Spain,2015,46449565,23623019.0,209259.0,Intentional homicide,Suspected person,344.0,1.5
+Spain,2015,46449565,23623019.0,209259.0,Intentional homicide,Prosecuted person,,
+Spain,2015,46449565,23623019.0,209259.0,Intentional homicide,Convicted person,216.0,0.9
+Spain,2015,46449565,23623019.0,209259.0,Rape,Suspected person,876.0,3.8
+Spain,2015,46449565,23623019.0,209259.0,Rape,Prosecuted person,,
+Spain,2015,46449565,23623019.0,209259.0,Rape,Convicted person,40.0,0.2
+Spain,2015,46449565,23623019.0,209259.0,Sexual assault,Suspected person,5053.0,22.1
+Spain,2015,46449565,23623019.0,209259.0,Sexual assault,Prosecuted person,,
+Spain,2015,46449565,23623019.0,209259.0,Sexual assault,Convicted person,453.0,2.0
+Spain,2016,46440099,23632635.0,201618.0,Intentional homicide,Suspected person,357.0,1.6
+Spain,2016,46440099,23632635.0,201618.0,Intentional homicide,Prosecuted person,,
+Spain,2016,46440099,23632635.0,201618.0,Intentional homicide,Convicted person,163.0,0.7
+Spain,2016,46440099,23632635.0,201618.0,Rape,Suspected person,688.0,3.0
+Spain,2016,46440099,23632635.0,201618.0,Rape,Prosecuted person,,
+Spain,2016,46440099,23632635.0,201618.0,Rape,Convicted person,52.0,0.2
+Spain,2016,46440099,23632635.0,201618.0,Sexual assault,Suspected person,3404.0,14.9
+Spain,2016,46440099,23632635.0,201618.0,Sexual assault,Prosecuted person,,
+Spain,2016,46440099,23632635.0,201618.0,Sexual assault,Convicted person,412.0,1.8
+Spain,2017,46528024,23693426.0,210287.0,Intentional homicide,Suspected person,332.0,1.5
+Spain,2017,46528024,23693426.0,210287.0,Intentional homicide,Prosecuted person,,
+Spain,2017,46528024,23693426.0,210287.0,Intentional homicide,Convicted person,171.0,0.7
+Spain,2017,46528024,23693426.0,210287.0,Rape,Suspected person,1045.0,4.6
+Spain,2017,46528024,23693426.0,210287.0,Rape,Prosecuted person,,
+Spain,2017,46528024,23693426.0,210287.0,Rape,Convicted person,25.0,0.1
+Spain,2017,46528024,23693426.0,210287.0,Sexual assault,Suspected person,6080.0,26.6
+Spain,2017,46528024,23693426.0,210287.0,Sexual assault,Prosecuted person,,
+Spain,2017,46528024,23693426.0,210287.0,Sexual assault,Convicted person,410.0,1.8
+Spain,2018,46658447,23776565.0,211279.0,Intentional homicide,Suspected person,330.0,1.4
+Spain,2018,46658447,23776565.0,211279.0,Intentional homicide,Prosecuted person,,
+Spain,2018,46658447,23776565.0,211279.0,Intentional homicide,Convicted person,146.0,0.6
+Spain,2018,46658447,23776565.0,211279.0,Rape,Suspected person,1214.0,5.3
+Spain,2018,46658447,23776565.0,211279.0,Rape,Prosecuted person,,
+Spain,2018,46658447,23776565.0,211279.0,Rape,Convicted person,34.0,0.1
+Spain,2018,46658447,23776565.0,211279.0,Sexual assault,Suspected person,6759.0,29.5
+Spain,2018,46658447,23776565.0,211279.0,Sexual assault,Prosecuted person,,
+Spain,2018,46658447,23776565.0,211279.0,Sexual assault,Convicted person,375.0,1.6
+Spain,2019,46937060,23927801.0,206020.0,Intentional homicide,Suspected person,367.0,1.6
+Spain,2019,46937060,23927801.0,206020.0,Intentional homicide,Prosecuted person,,
+Spain,2019,46937060,23927801.0,206020.0,Intentional homicide,Convicted person,184.0,0.8
+Spain,2019,46937060,23927801.0,206020.0,Rape,Suspected person,1235.0,5.4
+Spain,2019,46937060,23927801.0,206020.0,Rape,Prosecuted person,,
+Spain,2019,46937060,23927801.0,206020.0,Rape,Convicted person,39.0,0.2
+Spain,2019,46937060,23927801.0,206020.0,Sexual assault,Suspected person,6283.0,27.3
+Spain,2019,46937060,23927801.0,206020.0,Sexual assault,Prosecuted person,,
+Spain,2019,46937060,23927801.0,206020.0,Sexual assault,Convicted person,415.0,1.8
+Spain,2020,47332614,24133301.0,244112.0,Intentional homicide,Suspected person,355.0,1.5
+Spain,2020,47332614,24133301.0,244112.0,Intentional homicide,Prosecuted person,,
+Spain,2020,47332614,24133301.0,244112.0,Intentional homicide,Convicted person,190.0,0.8
+Spain,2020,47332614,24133301.0,244112.0,Rape,Suspected person,1044.0,4.5
+Spain,2020,47332614,24133301.0,244112.0,Rape,Prosecuted person,,
+Spain,2020,47332614,24133301.0,244112.0,Rape,Convicted person,43.0,0.2
+Spain,2020,47332614,24133301.0,244112.0,Sexual assault,Suspected person,5564.0,24.0
+Spain,2020,47332614,24133301.0,244112.0,Sexual assault,Prosecuted person,,
+Spain,2020,47332614,24133301.0,244112.0,Sexual assault,Convicted person,397.0,1.7
+Spain,2021,47398695,24171413.0,219240.0,Rape,Suspected person,1272.0,5.5
+Spain,2021,47398695,24171413.0,219240.0,Rape,Prosecuted person,,
+Spain,2021,47398695,24171413.0,219240.0,Rape,Convicted person,45.0,0.2
+Spain,2021,47398695,24171413.0,219240.0,Intentional homicide,Suspected person,1187.0,5.1
+Spain,2021,47398695,24171413.0,219240.0,Intentional homicide,Prosecuted person,,
+Spain,2021,47398695,24171413.0,219240.0,Intentional homicide,Convicted person,997.0,4.3
+Spain,2021,47398695,24171413.0,219240.0,Sexual assault,Suspected person,1436.0,6.2
+Spain,2021,47398695,24171413.0,219240.0,Sexual assault,Prosecuted person,,
+Spain,2021,47398695,24171413.0,219240.0,Sexual assault,Convicted person,443.0,1.9
+Sweden,2012,9482855,4756021.0,47653.0,Intentional homicide,Suspected person,184.0,3.9
+Sweden,2012,9482855,4756021.0,47653.0,Intentional homicide,Prosecuted person,57.0,1.2
+Sweden,2012,9482855,4756021.0,47653.0,Intentional homicide,Convicted person,121.0,2.6
+Sweden,2012,9482855,4756021.0,47653.0,Rape,Suspected person,2725.0,57.6
+Sweden,2012,9482855,4756021.0,47653.0,Rape,Prosecuted person,499.0,10.6
+Sweden,2012,9482855,4756021.0,47653.0,Rape,Convicted person,319.0,6.7
+Sweden,2012,9482855,4756021.0,47653.0,Sexual assault,Suspected person,2674.0,56.6
+Sweden,2012,9482855,4756021.0,47653.0,Sexual assault,Prosecuted person,687.0,14.5
+Sweden,2012,9482855,4756021.0,47653.0,Sexual assault,Convicted person,517.0,10.9
+Sweden,2013,9555893,4789988.0,46742.0,Intentional homicide,Suspected person,186.0,3.9
+Sweden,2013,9555893,4789988.0,46742.0,Intentional homicide,Prosecuted person,54.0,1.1
+Sweden,2013,9555893,4789988.0,46742.0,Intentional homicide,Convicted person,130.0,2.7
+Sweden,2013,9555893,4789988.0,46742.0,Rape,Suspected person,2625.0,55.1
+Sweden,2013,9555893,4789988.0,46742.0,Rape,Prosecuted person,489.0,10.3
+Sweden,2013,9555893,4789988.0,46742.0,Rape,Convicted person,309.0,6.5
+Sweden,2013,9555893,4789988.0,46742.0,Sexual assault,Suspected person,2568.0,53.9
+Sweden,2013,9555893,4789988.0,46742.0,Sexual assault,Prosecuted person,765.0,16.1
+Sweden,2013,9555893,4789988.0,46742.0,Sexual assault,Convicted person,501.0,10.5
+Sweden,2014,9644864,4830507.0,45594.0,Intentional homicide,Suspected person,231.0,4.8
+Sweden,2014,9644864,4830507.0,45594.0,Intentional homicide,Prosecuted person,88.0,1.8
+Sweden,2014,9644864,4830507.0,45594.0,Intentional homicide,Convicted person,129.0,2.7
+Sweden,2014,9644864,4830507.0,45594.0,Rape,Suspected person,2773.0,57.6
+Sweden,2014,9644864,4830507.0,45594.0,Rape,Prosecuted person,496.0,10.3
+Sweden,2014,9644864,4830507.0,45594.0,Rape,Convicted person,320.0,6.6
+Sweden,2014,9644864,4830507.0,45594.0,Sexual assault,Suspected person,2788.0,57.9
+Sweden,2014,9644864,4830507.0,45594.0,Sexual assault,Prosecuted person,719.0,14.9
+Sweden,2014,9644864,4830507.0,45594.0,Sexual assault,Convicted person,446.0,9.3
+Sweden,2015,9747355,4875115.0,46422.0,Intentional homicide,Suspected person,255.0,5.2
+Sweden,2015,9747355,4875115.0,46422.0,Intentional homicide,Prosecuted person,82.0,1.7
+Sweden,2015,9747355,4875115.0,46422.0,Intentional homicide,Convicted person,146.0,3.0
+Sweden,2015,9747355,4875115.0,46422.0,Rape,Suspected person,2803.0,57.5
+Sweden,2015,9747355,4875115.0,46422.0,Rape,Prosecuted person,490.0,10.1
+Sweden,2015,9747355,4875115.0,46422.0,Rape,Convicted person,288.0,5.9
+Sweden,2015,9747355,4875115.0,46422.0,Sexual assault,Suspected person,2912.0,59.8
+Sweden,2015,9747355,4875115.0,46422.0,Sexual assault,Prosecuted person,729.0,15.0
+Sweden,2015,9747355,4875115.0,46422.0,Sexual assault,Convicted person,433.0,8.9
+Sweden,2016,9851017,4920051.0,46561.0,Intentional homicide,Suspected person,269.0,5.5
+Sweden,2016,9851017,4920051.0,46561.0,Intentional homicide,Prosecuted person,101.0,2.0
+Sweden,2016,9851017,4920051.0,46561.0,Intentional homicide,Convicted person,156.0,3.2
+Sweden,2016,9851017,4920051.0,46561.0,Rape,Suspected person,2882.0,58.4
+Sweden,2016,9851017,4920051.0,46561.0,Rape,Prosecuted person,474.0,9.6
+Sweden,2016,9851017,4920051.0,46561.0,Rape,Convicted person,284.0,5.8
+Sweden,2016,9851017,4920051.0,46561.0,Sexual assault,Suspected person,3245.0,65.8
+Sweden,2016,9851017,4920051.0,46561.0,Sexual assault,Prosecuted person,829.0,16.8
+Sweden,2016,9851017,4920051.0,46561.0,Sexual assault,Convicted person,515.0,10.4
+Sweden,2017,9995153,4981806.0,47116.0,Intentional homicide,Suspected person,283.0,5.6
+Sweden,2017,9995153,4981806.0,47116.0,Intentional homicide,Prosecuted person,84.0,1.7
+Sweden,2017,9995153,4981806.0,47116.0,Intentional homicide,Convicted person,128.0,2.6
+Sweden,2017,9995153,4981806.0,47116.0,Rape,Suspected person,3243.0,64.7
+Sweden,2017,9995153,4981806.0,47116.0,Rape,Prosecuted person,487.0,9.7
+Sweden,2017,9995153,4981806.0,47116.0,Rape,Convicted person,287.0,5.7
+Sweden,2017,9995153,4981806.0,47116.0,Sexual assault,Suspected person,3616.0,72.1
+Sweden,2017,9995153,4981806.0,47116.0,Sexual assault,Prosecuted person,957.0,19.1
+Sweden,2017,9995153,4981806.0,47116.0,Sexual assault,Convicted person,567.0,11.3
+Sweden,2018,10120242,5037580.0,46769.0,Intentional homicide,Suspected person,309.0,6.1
+Sweden,2018,10120242,5037580.0,46769.0,Intentional homicide,Prosecuted person,91.0,1.8
+Sweden,2018,10120242,5037580.0,46769.0,Intentional homicide,Convicted person,161.0,3.2
+Sweden,2018,10120242,5037580.0,46769.0,Rape,Suspected person,3565.0,70.1
+Sweden,2018,10120242,5037580.0,46769.0,Rape,Prosecuted person,586.0,11.5
+Sweden,2018,10120242,5037580.0,46769.0,Rape,Convicted person,375.0,7.4
+Sweden,2018,10120242,5037580.0,46769.0,Sexual assault,Suspected person,3831.0,75.4
+Sweden,2018,10120242,5037580.0,46769.0,Sexual assault,Prosecuted person,986.0,19.4
+Sweden,2018,10120242,5037580.0,46769.0,Sexual assault,Convicted person,606.0,11.9
+Sweden,2019,10230185,5087747.0,44740.0,Intentional homicide,Suspected person,346.0,6.7
+Sweden,2019,10230185,5087747.0,44740.0,Intentional homicide,Prosecuted person,122.0,2.4
+Sweden,2019,10230185,5087747.0,44740.0,Intentional homicide,Convicted person,178.0,3.5
+Sweden,2019,10230185,5087747.0,44740.0,Rape,Suspected person,4240.0,82.5
+Sweden,2019,10230185,5087747.0,44740.0,Rape,Prosecuted person,743.0,14.4
+Sweden,2019,10230185,5087747.0,44740.0,Rape,Convicted person,473.0,9.2
+Sweden,2019,10230185,5087747.0,44740.0,Sexual assault,Suspected person,4042.0,78.6
+Sweden,2019,10230185,5087747.0,44740.0,Sexual assault,Prosecuted person,1051.0,20.4
+Sweden,2019,10230185,5087747.0,44740.0,Sexual assault,Convicted person,635.0,12.3
+Sweden,2020,10327589,5131775.0,48743.0,Intentional homicide,Suspected person,340.0,6.5
+Sweden,2020,10327589,5131775.0,48743.0,Intentional homicide,Prosecuted person,118.0,2.3
+Sweden,2020,10327589,5131775.0,48743.0,Intentional homicide,Convicted person,194.0,3.7
+Sweden,2020,10327589,5131775.0,48743.0,Rape,Suspected person,4581.0,88.2
+Sweden,2020,10327589,5131775.0,48743.0,Rape,Prosecuted person,858.0,16.5
+Sweden,2020,10327589,5131775.0,48743.0,Rape,Convicted person,523.0,10.1
+Sweden,2020,10327589,5131775.0,48743.0,Sexual assault,Suspected person,4032.0,77.6
+Sweden,2020,10327589,5131775.0,48743.0,Sexual assault,Prosecuted person,1069.0,20.6
+Sweden,2020,10327589,5131775.0,48743.0,Sexual assault,Convicted person,588.0,11.3

@@ -1,0 +1,749 @@
+Country,Year,female_population,Female deaths,ICCS - CRIME DEFINITION,UNIT,Value,per100k
+Austria,2012,4309977.0,41803.0,Intentional homicide,Number,38.0,0.9
+Austria,2012,4309977.0,41803.0,Rape,Number,1117.0,25.9
+Austria,2012,4309977.0,41803.0,Sexual assault,Number,780.0,18.1
+Austria,2013,4328238.0,41378.0,Intentional homicide,Number,30.0,0.7
+Austria,2013,4328238.0,41378.0,Rape,Number,1146.0,26.5
+Austria,2013,4328238.0,41378.0,Sexual assault,Number,660.0,15.2
+Austria,2014,4352447.0,40662.0,Intentional homicide,Number,23.0,0.5
+Austria,2014,4352447.0,40662.0,Rape,Number,1061.0,24.4
+Austria,2014,4352447.0,40662.0,Sexual assault,Number,696.0,16.0
+Austria,2015,4384529.0,43159.0,Intentional homicide,Number,17.0,0.4
+Austria,2015,4384529.0,43159.0,Rape,Number,1045.0,23.8
+Austria,2015,4384529.0,43159.0,Sexual assault,Number,688.0,15.7
+Austria,2016,4427918.0,41579.0,Intentional homicide,Number,31.0,0.7
+Austria,2016,4427918.0,41579.0,Rape,Number,1123.0,25.4
+Austria,2016,4427918.0,41579.0,Sexual assault,Number,2051.0,46.3
+Austria,2017,4460424.0,43274.0,Intentional homicide,Number,37.0,0.8
+Austria,2017,4460424.0,43274.0,Rape,Number,1388.0,31.1
+Austria,2017,4460424.0,43274.0,Sexual assault,Number,2446.0,54.8
+Austria,2018,4483749.0,42902.0,Intentional homicide,Number,44.0,1.0
+Austria,2018,4483749.0,42902.0,Rape,Number,1596.0,35.6
+Austria,2018,4483749.0,42902.0,Sexual assault,Number,2509.0,56.0
+Austria,2019,4501742.0,42454.0,Intentional homicide,Number,40.0,0.9
+Austria,2019,4501742.0,42454.0,Rape,Number,1596.0,35.5
+Austria,2019,4501742.0,42454.0,Sexual assault,Number,2233.0,49.6
+Austria,2020,4522292.0,45999.0,Intentional homicide,Number,37.0,0.8
+Austria,2020,4522292.0,45999.0,Rape,Number,1579.0,34.9
+Austria,2020,4522292.0,45999.0,Sexual assault,Number,2120.0,46.9
+Austria,2021,4535712.0,,Intentional homicide,Number,29.0,0.6
+Belgium,2012,5635601.0,55291.0,Intentional homicide,Number,,
+Belgium,2012,5635601.0,55291.0,Rape,Number,,
+Belgium,2012,5635601.0,55291.0,Sexual assault,Number,,
+Belgium,2013,5665118.0,55493.0,Intentional homicide,Number,,
+Belgium,2013,5665118.0,55493.0,Rape,Number,,
+Belgium,2013,5665118.0,55493.0,Sexual assault,Number,,
+Belgium,2014,5687048.0,53244.0,Intentional homicide,Number,,
+Belgium,2014,5687048.0,53244.0,Rape,Number,,
+Belgium,2014,5687048.0,53244.0,Sexual assault,Number,,
+Belgium,2015,5713206.0,56926.0,Intentional homicide,Number,,
+Belgium,2015,5713206.0,56926.0,Rape,Number,,
+Belgium,2015,5713206.0,56926.0,Sexual assault,Number,,
+Belgium,2016,5741853.0,54778.0,Intentional homicide,Number,,
+Belgium,2016,5741853.0,54778.0,Rape,Number,,
+Belgium,2016,5741853.0,54778.0,Sexual assault,Number,,
+Belgium,2017,5762455.0,55373.0,Intentional homicide,Number,,
+Belgium,2017,5762455.0,55373.0,Rape,Number,,
+Belgium,2017,5762455.0,55373.0,Sexual assault,Number,,
+Belgium,2018,5784371.0,56586.0,Intentional homicide,Number,,
+Belgium,2018,5784371.0,56586.0,Rape,Number,,
+Belgium,2018,5784371.0,56586.0,Sexual assault,Number,,
+Belgium,2019,5810693.0,55564.0,Intentional homicide,Number,,
+Belgium,2019,5810693.0,55564.0,Rape,Number,,
+Belgium,2019,5810693.0,55564.0,Sexual assault,Number,,
+Belgium,2020,5841215.0,,Intentional homicide,Number,,
+Belgium,2020,5841215.0,,Rape,Number,,
+Belgium,2020,5841215.0,,Sexual assault,Number,,
+Bulgaria,2012,3760457.0,52334.0,Intentional homicide,Number,37.0,1.0
+Bulgaria,2012,3760457.0,52334.0,Rape,Number,187.0,5.0
+Bulgaria,2012,3760457.0,52334.0,Sexual assault,Number,229.0,6.1
+Bulgaria,2013,3739479.0,49234.0,Intentional homicide,Number,34.0,0.9
+Bulgaria,2013,3739479.0,49234.0,Rape,Number,164.0,4.4
+Bulgaria,2013,3739479.0,49234.0,Sexual assault,Number,222.0,5.9
+Bulgaria,2014,3720732.0,51956.0,Intentional homicide,Number,26.0,0.7
+Bulgaria,2014,3720732.0,51956.0,Rape,Number,148.0,4.0
+Bulgaria,2014,3720732.0,51956.0,Sexual assault,Number,232.0,6.2
+Bulgaria,2015,3700183.0,52671.0,Intentional homicide,Number,29.0,0.8
+Bulgaria,2015,3700183.0,52671.0,Rape,Number,119.0,3.2
+Bulgaria,2015,3700183.0,52671.0,Sexual assault,Number,296.0,8.0
+Bulgaria,2016,3676607.0,50998.0,Intentional homicide,Number,22.0,0.6
+Bulgaria,2016,3676607.0,50998.0,Rape,Number,127.0,3.5
+Bulgaria,2016,3676607.0,50998.0,Sexual assault,Number,387.0,10.5
+Bulgaria,2017,3651881.0,52475.0,Intentional homicide,Number,35.0,1.0
+Bulgaria,2017,3651881.0,52475.0,Rape,Number,142.0,3.9
+Bulgaria,2017,3651881.0,52475.0,Sexual assault,Number,238.0,6.5
+Bulgaria,2018,3627625.0,51583.0,Intentional homicide,Number,38.0,1.0
+Bulgaria,2018,3627625.0,51583.0,Rape,Number,94.0,2.6
+Bulgaria,2018,3627625.0,51583.0,Sexual assault,Number,257.0,7.1
+Bulgaria,2019,3604338.0,51331.0,Intentional homicide,Number,23.0,0.6
+Bulgaria,2019,3604338.0,51331.0,Rape,Number,110.0,3.1
+Bulgaria,2019,3604338.0,51331.0,Sexual assault,Number,263.0,7.3
+Bulgaria,2020,3581836.0,58077.0,Intentional homicide,Number,26.0,0.7
+Bulgaria,2020,3581836.0,58077.0,Rape,Number,93.0,2.6
+Bulgaria,2020,3581836.0,58077.0,Sexual assault,Number,243.0,6.8
+Croatia,2012,2213675.0,26099.0,Intentional homicide,Number,18.0,0.8
+Croatia,2012,2213675.0,26099.0,Rape,Number,115.0,5.2
+Croatia,2012,2213675.0,26099.0,Sexual assault,Number,193.0,8.7
+Croatia,2013,2205657.0,25530.0,Intentional homicide,Number,21.0,1.0
+Croatia,2013,2205657.0,25530.0,Rape,Number,267.0,12.1
+Croatia,2013,2205657.0,25530.0,Sexual assault,Number,285.0,12.9
+Croatia,2014,2197061.0,26031.0,Intentional homicide,Number,17.0,0.8
+Croatia,2014,2197061.0,26031.0,Rape,Number,308.0,14.0
+Croatia,2014,2197061.0,26031.0,Sexual assault,Number,222.0,10.1
+Croatia,2015,2186089.0,27987.0,Intentional homicide,Number,15.0,0.7
+Croatia,2015,2186089.0,27987.0,Rape,Number,242.0,11.1
+Croatia,2015,2186089.0,27987.0,Sexual assault,Number,315.0,14.4
+Croatia,2016,2167872.0,26397.0,Intentional homicide,Number,20.0,0.9
+Croatia,2016,2167872.0,26397.0,Rape,Number,306.0,14.1
+Croatia,2016,2167872.0,26397.0,Sexual assault,Number,327.0,15.1
+Croatia,2017,2149003.0,27817.0,Intentional homicide,Number,18.0,0.8
+Croatia,2017,2149003.0,27817.0,Rape,Number,230.0,10.7
+Croatia,2017,2149003.0,27817.0,Sexual assault,Number,217.0,10.1
+Croatia,2018,2123694.0,26985.0,Intentional homicide,Number,8.0,0.4
+Croatia,2018,2123694.0,26985.0,Rape,Number,265.0,12.5
+Croatia,2018,2123694.0,26985.0,Sexual assault,Number,213.0,10.0
+Croatia,2019,2103674.0,26692.0,Intentional homicide,Number,14.0,0.7
+Croatia,2019,2103674.0,26692.0,Rape,Number,420.0,20.0
+Croatia,2019,2103674.0,26692.0,Sexual assault,Number,345.0,16.4
+Croatia,2020,2086515.0,29164.0,Intentional homicide,Number,19.0,0.9
+Croatia,2020,2086515.0,29164.0,Rape,Number,289.0,13.9
+Croatia,2020,2086515.0,29164.0,Sexual assault,Number,238.0,11.4
+Croatia,2021,2071425.0,31575.0,Intentional homicide,Number,14.0,0.7
+Cyprus,2012,443018.0,2668.0,Intentional homicide,Number,5.0,1.1
+Cyprus,2012,443018.0,2668.0,Rape,Number,,
+Cyprus,2012,443018.0,2668.0,Sexual assault,Number,,
+Cyprus,2013,444842.0,2373.0,Intentional homicide,Number,3.0,0.7
+Cyprus,2013,444842.0,2373.0,Rape,Number,,
+Cyprus,2013,444842.0,2373.0,Sexual assault,Number,,
+Cyprus,2014,440462.0,2609.0,Intentional homicide,Number,5.0,1.1
+Cyprus,2014,440462.0,2609.0,Rape,Number,,
+Cyprus,2014,440462.0,2609.0,Sexual assault,Number,,
+Cyprus,2015,435183.0,2839.0,Intentional homicide,Number,2.0,0.5
+Cyprus,2015,435183.0,2839.0,Rape,Number,,
+Cyprus,2015,435183.0,2839.0,Sexual assault,Number,,
+Cyprus,2016,435627.0,2561.0,Intentional homicide,Number,5.0,1.1
+Cyprus,2016,435627.0,2561.0,Rape,Number,,
+Cyprus,2016,435627.0,2561.0,Sexual assault,Number,,
+Cyprus,2017,438139.0,2910.0,Intentional homicide,Number,0.0,0.0
+Cyprus,2017,438139.0,2910.0,Rape,Number,,
+Cyprus,2017,438139.0,2910.0,Sexual assault,Number,,
+Cyprus,2018,442728.0,2792.0,Intentional homicide,Number,6.0,1.4
+Cyprus,2018,442728.0,2792.0,Rape,Number,,
+Cyprus,2018,442728.0,2792.0,Sexual assault,Number,,
+Cyprus,2019,448068.0,2985.0,Intentional homicide,Number,10.0,2.2
+Cyprus,2019,448068.0,2985.0,Rape,Number,,
+Cyprus,2019,448068.0,2985.0,Sexual assault,Number,,
+Cyprus,2020,453534.0,3083.0,Intentional homicide,Number,5.0,1.1
+Cyprus,2020,453534.0,3083.0,Rape,Number,,
+Cyprus,2020,453534.0,3083.0,Sexual assault,Number,,
+Cyprus,2021,458357.0,,Intentional homicide,Number,7.0,1.5
+Denmark,2012,2813740.0,26349.0,Intentional homicide,Number,16.0,0.6
+Denmark,2012,2813740.0,26349.0,Rape,Number,747.0,26.5
+Denmark,2012,2813740.0,26349.0,Sexual assault,Number,869.0,30.9
+Denmark,2013,2823776.0,26264.0,Intentional homicide,Number,13.0,0.5
+Denmark,2013,2823776.0,26264.0,Rape,Number,685.0,24.3
+Denmark,2013,2823776.0,26264.0,Sexual assault,Number,849.0,30.1
+Denmark,2014,2834956.0,25577.0,Intentional homicide,Number,31.0,1.1
+Denmark,2014,2834956.0,25577.0,Rape,Number,699.0,24.7
+Denmark,2014,2834956.0,25577.0,Sexual assault,Number,1283.0,45.3
+Denmark,2015,2848701.0,26216.0,Intentional homicide,Number,24.0,0.8
+Denmark,2015,2848701.0,26216.0,Rape,Number,839.0,29.5
+Denmark,2015,2848701.0,26216.0,Sexual assault,Number,1263.0,44.3
+Denmark,2016,2869364.0,26355.0,Intentional homicide,Number,23.0,0.8
+Denmark,2016,2869364.0,26355.0,Rape,Number,1168.0,40.7
+Denmark,2016,2869364.0,26355.0,Sexual assault,Number,1759.0,61.3
+Denmark,2017,2888591.0,26366.0,Intentional homicide,Number,20.0,0.7
+Denmark,2017,2888591.0,26366.0,Rape,Number,1439.0,49.8
+Denmark,2017,2888591.0,26366.0,Sexual assault,Number,1814.0,62.8
+Denmark,2018,2904717.0,27181.0,Intentional homicide,Number,20.0,0.7
+Denmark,2018,2904717.0,27181.0,Rape,Number,1687.0,58.1
+Denmark,2018,2904717.0,27181.0,Sexual assault,Number,2010.0,69.2
+Denmark,2019,2917008.0,26410.0,Intentional homicide,Number,27.0,0.9
+Denmark,2019,2917008.0,26410.0,Rape,Number,1811.0,62.1
+Denmark,2019,2917008.0,26410.0,Sexual assault,Number,2308.0,79.1
+Denmark,2020,2925845.0,,Intentional homicide,Number,17.0,0.6
+Denmark,2020,2925845.0,,Rape,Number,1728.0,59.1
+Denmark,2020,2925845.0,,Sexual assault,Number,2457.0,84.0
+Estonia,2012,707079.0,7854.0,Intentional homicide,Number,17.0,2.4
+Estonia,2012,707079.0,7854.0,Rape,Number,,
+Estonia,2012,707079.0,7854.0,Sexual assault,Number,,
+Estonia,2013,704007.0,8050.0,Intentional homicide,Number,18.0,2.6
+Estonia,2013,704007.0,8050.0,Rape,Number,,
+Estonia,2013,704007.0,8050.0,Sexual assault,Number,,
+Estonia,2014,700900.0,8011.0,Intentional homicide,Number,9.0,1.3
+Estonia,2014,700900.0,8011.0,Rape,Number,,
+Estonia,2014,700900.0,8011.0,Sexual assault,Number,,
+Estonia,2015,700166.0,8060.0,Intentional homicide,Number,10.0,1.4
+Estonia,2015,700166.0,8060.0,Rape,Number,,
+Estonia,2015,700166.0,8060.0,Sexual assault,Number,,
+Estonia,2016,699236.0,8007.0,Intentional homicide,Number,9.0,1.3
+Estonia,2016,699236.0,8007.0,Rape,Number,,
+Estonia,2016,699236.0,8007.0,Sexual assault,Number,,
+Estonia,2017,698097.0,8158.0,Intentional homicide,Number,8.0,1.1
+Estonia,2017,698097.0,8158.0,Rape,Number,,
+Estonia,2017,698097.0,8158.0,Sexual assault,Number,,
+Estonia,2018,698049.0,8269.0,Intentional homicide,Number,5.0,0.7
+Estonia,2018,698049.0,8269.0,Rape,Number,,
+Estonia,2018,698049.0,8269.0,Sexual assault,Number,,
+Estonia,2019,699185.0,8068.0,Intentional homicide,Number,6.0,0.9
+Estonia,2019,699185.0,8068.0,Rape,Number,,
+Estonia,2019,699185.0,8068.0,Sexual assault,Number,,
+Estonia,2020,699699.0,,Intentional homicide,Number,10.0,1.4
+Estonia,2020,699699.0,,Rape,Number,,
+Estonia,2020,699699.0,,Sexual assault,Number,,
+Finland,2012,2748733.0,26084.0,Intentional homicide,Number,40.0,1.5
+Finland,2012,2748733.0,26084.0,Rape,Number,921.0,33.5
+Finland,2012,2748733.0,26084.0,Sexual assault,Number,1446.0,52.6
+Finland,2013,2760052.0,25841.0,Intentional homicide,Number,24.0,0.9
+Finland,2013,2760052.0,25841.0,Rape,Number,869.0,31.5
+Finland,2013,2760052.0,25841.0,Sexual assault,Number,1375.0,49.8
+Finland,2014,2770906.0,26438.0,Intentional homicide,Number,27.0,1.0
+Finland,2014,2770906.0,26438.0,Rape,Number,892.0,32.2
+Finland,2014,2770906.0,26438.0,Sexual assault,Number,1100.0,39.7
+Finland,2015,2779890.0,26500.0,Intentional homicide,Number,16.0,0.6
+Finland,2015,2779890.0,26500.0,Rape,Number,937.0,33.7
+Finland,2015,2779890.0,26500.0,Sexual assault,Number,1466.0,52.7
+Finland,2016,2785818.0,27001.0,Intentional homicide,Number,22.0,0.8
+Finland,2016,2785818.0,27001.0,Rape,Number,1016.0,36.5
+Finland,2016,2785818.0,27001.0,Sexual assault,Number,1710.0,61.4
+Finland,2017,2790970.0,26827.0,Intentional homicide,Number,30.0,1.1
+Finland,2017,2790970.0,26827.0,Rape,Number,1096.0,39.3
+Finland,2017,2790970.0,26827.0,Sexual assault,Number,1539.0,55.1
+Finland,2018,2793999.0,27343.0,Intentional homicide,Number,24.0,0.9
+Finland,2018,2793999.0,27343.0,Rape,Number,1199.0,42.9
+Finland,2018,2793999.0,27343.0,Sexual assault,Number,1860.0,66.6
+Finland,2019,2794629.0,26867.0,Intentional homicide,Number,30.0,1.1
+Finland,2019,2794629.0,26867.0,Rape,Number,1310.0,46.9
+Finland,2019,2794629.0,26867.0,Sexual assault,Number,2140.0,76.6
+Finland,2020,2797030.0,27523.0,Intentional homicide,Number,,
+Finland,2020,2797030.0,27523.0,Rape,Number,1352.0,48.3
+Finland,2020,2797030.0,27523.0,Sexual assault,Number,2162.0,77.3
+France,2012,33671600.0,283339.0,Intentional homicide,Number,,
+France,2012,33671600.0,283339.0,Rape,Number,,
+France,2012,33671600.0,283339.0,Sexual assault,Number,,
+France,2013,33827685.0,281922.0,Intentional homicide,Number,,
+France,2013,33827685.0,281922.0,Rape,Number,,
+France,2013,33827685.0,281922.0,Sexual assault,Number,,
+France,2014,34120851.0,277036.0,Intentional homicide,Number,,
+France,2014,34120851.0,277036.0,Rape,Number,,
+France,2014,34120851.0,277036.0,Sexual assault,Number,,
+France,2015,34283895.0,296755.0,Intentional homicide,Number,361.0,1.1
+France,2015,34283895.0,296755.0,Rape,Number,10729.0,31.3
+France,2015,34283895.0,296755.0,Sexual assault,Number,95.0,0.3
+France,2016,34391005.0,296856.0,Intentional homicide,Number,311.0,0.9
+France,2016,34391005.0,296856.0,Rape,Number,13050.0,37.9
+France,2016,34391005.0,296856.0,Sexual assault,Number,19041.0,55.4
+France,2017,34495464.0,305360.0,Intentional homicide,Number,311.0,0.9
+France,2017,34495464.0,305360.0,Rape,Number,14899.0,43.2
+France,2017,34495464.0,305360.0,Sexual assault,Number,21179.0,61.4
+France,2018,34611994.0,,Intentional homicide,Number,244.0,0.7
+France,2018,34611994.0,,Rape,Number,17558.0,50.7
+France,2018,34611994.0,,Sexual assault,Number,25614.0,74.0
+France,2019,34701745.0,,Intentional homicide,Number,285.0,0.8
+France,2019,34701745.0,,Rape,Number,20694.0,59.6
+France,2019,34701745.0,,Sexual assault,Number,28165.0,81.2
+France,2020,34787547.0,328140.0,Intentional homicide,Number,240.0,0.7
+France,2020,34787547.0,328140.0,Rape,Number,23057.0,66.3
+France,2020,34787547.0,328140.0,Sexual assault,Number,27405.0,78.8
+Germany,2012,41097953.0,453785.0,Intentional homicide,Number,296.0,0.7
+Germany,2012,41097953.0,453785.0,Rape,Number,7754.0,18.9
+Germany,2012,41097953.0,453785.0,Sexual assault,Number,26501.0,64.5
+Germany,2013,41142770.0,465038.0,Intentional homicide,Number,328.0,0.8
+Germany,2013,41142770.0,465038.0,Rape,Number,7153.0,17.4
+Germany,2013,41142770.0,465038.0,Sexual assault,Number,26177.0,63.6
+Germany,2014,41210540.0,446964.0,Intentional homicide,Number,339.0,0.8
+Germany,2014,41210540.0,446964.0,Rape,Number,7048.0,17.1
+Germany,2014,41210540.0,446964.0,Sexual assault,Number,25497.0,61.9
+Germany,2015,41362080.0,476588.0,Intentional homicide,Number,327.0,0.8
+Germany,2015,41362080.0,476588.0,Rape,Number,6732.0,16.3
+Germany,2015,41362080.0,476588.0,Sexual assault,Number,25370.0,61.3
+Germany,2016,41661561.0,463486.0,Intentional homicide,Number,469.0,1.1
+Germany,2016,41661561.0,463486.0,Rape,Number,7622.0,18.3
+Germany,2016,41661561.0,463486.0,Sexual assault,Number,27145.0,65.2
+Germany,2017,41824535.0,475322.0,Intentional homicide,Number,380.0,0.9
+Germany,2017,41824535.0,475322.0,Rape,Number,7831.0,18.7
+Germany,2017,41824535.0,475322.0,Sexual assault,Number,24702.0,59.1
+Germany,2018,41948786.0,485711.0,Intentional homicide,Number,367.0,0.9
+Germany,2018,41948786.0,485711.0,Rape,Number,8600.0,20.5
+Germany,2018,41948786.0,485711.0,Sexual assault,Number,29691.0,70.8
+Germany,2019,42052522.0,474536.0,Intentional homicide,Number,276.0,0.7
+Germany,2019,42052522.0,474536.0,Rape,Number,9029.0,21.5
+Germany,2019,42052522.0,474536.0,Sexual assault,Number,28925.0,68.8
+Germany,2020,42129098.0,493503.0,Intentional homicide,Number,357.0,0.8
+Germany,2020,42129098.0,493503.0,Rape,Number,9597.0,22.8
+Germany,2020,42129098.0,493503.0,Sexual assault,Number,28143.0,66.8
+Germany,2021,42128512.0,,Intentional homicide,Number,337.0,0.8
+Germany,2021,42128512.0,,Rape,Number,8611.0,20.4
+Germany,2021,42128512.0,,Sexual assault,Number,26983.0,64.0
+Greece,2012,5662522.0,56533.0,Intentional homicide,Number,39.0,0.7
+Greece,2012,5662522.0,56533.0,Rape,Number,234.0,4.1
+Greece,2012,5662522.0,56533.0,Sexual assault,Number,,
+Greece,2013,5637364.0,54163.0,Intentional homicide,Number,50.0,0.9
+Greece,2013,5637364.0,54163.0,Rape,Number,222.0,3.9
+Greece,2013,5637364.0,54163.0,Sexual assault,Number,,
+Greece,2014,5613568.0,55194.0,Intentional homicide,Number,27.0,0.5
+Greece,2014,5613568.0,55194.0,Rape,Number,194.0,3.5
+Greece,2014,5613568.0,55194.0,Sexual assault,Number,,
+Greece,2015,5589628.0,59535.0,Intentional homicide,Number,30.0,0.5
+Greece,2015,5589628.0,59535.0,Rape,Number,183.0,3.3
+Greece,2015,5589628.0,59535.0,Sexual assault,Number,,
+Greece,2016,5559538.0,58320.0,Intentional homicide,Number,26.0,0.5
+Greece,2016,5559538.0,58320.0,Rape,Number,217.0,3.9
+Greece,2016,5559538.0,58320.0,Sexual assault,Number,,
+Greece,2017,5546916.0,61341.0,Intentional homicide,Number,23.0,0.4
+Greece,2017,5546916.0,61341.0,Rape,Number,223.0,4.0
+Greece,2017,5546916.0,61341.0,Sexual assault,Number,2.0,0.0
+Greece,2018,5531125.0,58919.0,Intentional homicide,Number,29.0,0.5
+Greece,2018,5531125.0,58919.0,Rape,Number,142.0,2.6
+Greece,2018,5531125.0,58919.0,Sexual assault,Number,,
+Greece,2019,5516306.0,61887.0,Intentional homicide,Number,19.0,0.3
+Greece,2019,5516306.0,61887.0,Rape,Number,148.0,2.7
+Greece,2019,5516306.0,61887.0,Sexual assault,Number,,
+Greece,2020,5503077.0,64488.0,Intentional homicide,Number,18.0,0.3
+Greece,2020,5503077.0,64488.0,Rape,Number,202.0,3.7
+Greece,2020,5503077.0,64488.0,Sexual assault,Number,,
+Greece,2021,5482584.0,70343.0,Intentional homicide,Number,33.0,0.6
+Greece,2021,5482584.0,70343.0,Rape,Number,202.0,3.7
+Hungary,2012,5207259.0,65936.0,Intentional homicide,Number,58.0,1.1
+Hungary,2012,5207259.0,65936.0,Rape,Number,188.0,3.6
+Hungary,2012,5207259.0,65936.0,Sexual assault,Number,352.0,6.8
+Hungary,2013,5192845.0,64884.0,Intentional homicide,Number,71.0,1.4
+Hungary,2013,5192845.0,64884.0,Rape,Number,216.0,4.2
+Hungary,2013,5192845.0,64884.0,Sexual assault,Number,341.0,6.6
+Hungary,2014,5173974.0,64316.0,Intentional homicide,Number,67.0,1.3
+Hungary,2014,5173974.0,64316.0,Rape,Number,261.0,5.0
+Hungary,2014,5173974.0,64316.0,Sexual assault,Number,233.0,4.5
+Hungary,2015,5159792.0,68152.0,Intentional homicide,Number,102.0,2.0
+Hungary,2015,5159792.0,68152.0,Rape,Number,316.0,6.1
+Hungary,2015,5159792.0,68152.0,Sexual assault,Number,191.0,3.7
+Hungary,2016,5141966.0,64395.0,Intentional homicide,Number,46.0,0.9
+Hungary,2016,5141966.0,64395.0,Rape,Number,495.0,9.6
+Hungary,2016,5141966.0,64395.0,Sexual assault,Number,,
+Hungary,2017,5122270.0,67649.0,Intentional homicide,Number,44.0,0.9
+Hungary,2017,5122270.0,67649.0,Rape,Number,460.0,9.0
+Hungary,2017,5122270.0,67649.0,Sexual assault,Number,,
+Hungary,2018,5106769.0,67029.0,Intentional homicide,Number,43.0,0.8
+Hungary,2018,5106769.0,67029.0,Rape,Number,412.0,8.1
+Hungary,2018,5106769.0,67029.0,Sexual assault,Number,,
+Hungary,2019,5096935.0,66617.0,Intentional homicide,Number,31.0,0.6
+Hungary,2019,5096935.0,66617.0,Rape,Number,294.0,5.8
+Hungary,2019,5096935.0,66617.0,Sexual assault,Number,,
+Hungary,2020,5088736.0,73481.0,Intentional homicide,Number,39.0,0.8
+Hungary,2020,5088736.0,73481.0,Rape,Number,415.0,8.2
+Hungary,2020,5088736.0,73481.0,Sexual assault,Number,,
+Ireland,2012,2315288.0,14241.0,Intentional homicide,Number,,
+Ireland,2012,2315288.0,14241.0,Rape,Number,483.0,20.9
+Ireland,2012,2315288.0,14241.0,Sexual assault,Number,1077.0,46.5
+Ireland,2013,2326317.0,14545.0,Intentional homicide,Number,,
+Ireland,2013,2326317.0,14545.0,Rape,Number,369.0,15.9
+Ireland,2013,2326317.0,14545.0,Sexual assault,Number,1025.0,44.1
+Ireland,2014,2342002.0,14355.0,Intentional homicide,Number,,
+Ireland,2014,2342002.0,14355.0,Rape,Number,429.0,18.3
+Ireland,2014,2342002.0,14355.0,Sexual assault,Number,1040.0,44.4
+Ireland,2015,2364285.0,14899.0,Intentional homicide,Number,7.0,0.3
+Ireland,2015,2364285.0,14899.0,Rape,Number,599.0,25.3
+Ireland,2015,2364285.0,14899.0,Sexual assault,Number,1059.0,44.8
+Ireland,2016,2387145.0,15047.0,Intentional homicide,Number,2.0,0.1
+Ireland,2016,2387145.0,15047.0,Rape,Number,613.0,25.7
+Ireland,2016,2387145.0,15047.0,Sexual assault,Number,1170.0,49.0
+Ireland,2017,2416465.0,14929.0,Intentional homicide,Number,15.0,0.6
+Ireland,2017,2416465.0,14929.0,Rape,Number,745.0,30.8
+Ireland,2017,2416465.0,14929.0,Sexual assault,Number,1303.0,53.9
+Ireland,2018,2438169.0,15095.0,Intentional homicide,Number,10.0,0.4
+Ireland,2018,2438169.0,15095.0,Rape,Number,902.0,37.0
+Ireland,2018,2438169.0,15095.0,Sexual assault,Number,1388.0,56.9
+Ireland,2019,2475359.0,14912.0,Intentional homicide,Number,8.0,0.3
+Ireland,2019,2475359.0,14912.0,Rape,Number,939.0,37.9
+Ireland,2019,2475359.0,14912.0,Sexual assault,Number,1354.0,54.7
+Ireland,2020,2506783.0,15315.0,Intentional homicide,Number,6.0,0.2
+Ireland,2020,2506783.0,15315.0,Rape,Number,879.0,35.1
+Ireland,2020,2506783.0,15315.0,Sexual assault,Number,1130.0,45.1
+Ireland,2021,2528521.0,15843.0,Intentional homicide,Number,8.0,0.3
+Italy,2012,30667608.0,317689.0,Intentional homicide,Number,150.0,0.5
+Italy,2012,30667608.0,317689.0,Rape,Number,,
+Italy,2012,30667608.0,317689.0,Sexual assault,Number,3971.0,12.9
+Italy,2013,30795630.0,309281.0,Intentional homicide,Number,180.0,0.6
+Italy,2013,30795630.0,309281.0,Rape,Number,,
+Italy,2013,30795630.0,309281.0,Sexual assault,Number,3971.0,12.9
+Italy,2014,31298104.0,308870.0,Intentional homicide,Number,153.0,0.5
+Italy,2014,31298104.0,308870.0,Rape,Number,,
+Italy,2014,31298104.0,308870.0,Sexual assault,Number,3662.0,11.7
+Italy,2015,31294022.0,338656.0,Intentional homicide,Number,143.0,0.5
+Italy,2015,31294022.0,338656.0,Rape,Number,,
+Italy,2015,31294022.0,338656.0,Sexual assault,Number,3478.0,11.1
+Italy,2016,31209230.0,320418.0,Intentional homicide,Number,151.0,0.5
+Italy,2016,31209230.0,320418.0,Rape,Number,,
+Italy,2016,31209230.0,320418.0,Sexual assault,Number,,
+Italy,2017,31143704.0,340023.0,Intentional homicide,Number,132.0,0.4
+Italy,2017,31143704.0,340023.0,Rape,Number,,
+Italy,2017,31143704.0,340023.0,Sexual assault,Number,,
+Italy,2018,31056366.0,329961.0,Intentional homicide,Number,141.0,0.5
+Italy,2018,31056366.0,329961.0,Rape,Number,,
+Italy,2018,31056366.0,329961.0,Sexual assault,Number,,
+Italy,2019,30685478.0,333897.0,Intentional homicide,Number,111.0,0.4
+Italy,2019,30685478.0,333897.0,Rape,Number,,
+Italy,2019,30685478.0,333897.0,Sexual assault,Number,,
+Italy,2020,30591392.0,380899.0,Intentional homicide,Number,116.0,0.4
+Italy,2020,30591392.0,380899.0,Rape,Number,,
+Italy,2020,30591392.0,380899.0,Sexual assault,Number,,
+Italy,2021,30369987.0,,Intentional homicide,Number,119.0,0.4
+Latvia,2012,1110001.0,15255.0,Intentional homicide,Number,37.0,3.3
+Latvia,2012,1110001.0,15255.0,Rape,Number,48.0,4.3
+Latvia,2012,1110001.0,15255.0,Sexual assault,Number,80.0,7.2
+Latvia,2013,1097245.0,15200.0,Intentional homicide,Number,24.0,2.2
+Latvia,2013,1097245.0,15200.0,Rape,Number,47.0,4.3
+Latvia,2013,1097245.0,15200.0,Sexual assault,Number,100.0,9.1
+Latvia,2014,1084423.0,14661.0,Intentional homicide,Number,36.0,3.3
+Latvia,2014,1084423.0,14661.0,Rape,Number,55.0,5.1
+Latvia,2014,1084423.0,14661.0,Sexual assault,Number,102.0,9.4
+Latvia,2015,1074889.0,15046.0,Intentional homicide,Number,29.0,2.7
+Latvia,2015,1074889.0,15046.0,Rape,Number,48.0,4.5
+Latvia,2015,1074889.0,15046.0,Sexual assault,Number,92.0,8.6
+Latvia,2016,1064658.0,14935.0,Intentional homicide,Number,34.0,3.2
+Latvia,2016,1064658.0,14935.0,Rape,Number,81.0,7.6
+Latvia,2016,1064658.0,14935.0,Sexual assault,Number,54.0,5.1
+Latvia,2017,1054433.0,15063.0,Intentional homicide,Number,42.0,4.0
+Latvia,2017,1054433.0,15063.0,Rape,Number,97.0,9.2
+Latvia,2017,1054433.0,15063.0,Sexual assault,Number,59.0,5.6
+Latvia,2018,1044738.0,15174.0,Intentional homicide,Number,43.0,4.1
+Latvia,2018,1044738.0,15174.0,Rape,Number,105.0,10.1
+Latvia,2018,1044738.0,15174.0,Sexual assault,Number,83.0,7.9
+Latvia,2019,1035059.0,14666.0,Intentional homicide,Number,42.0,4.1
+Latvia,2019,1035059.0,14666.0,Rape,Number,88.0,8.5
+Latvia,2019,1035059.0,14666.0,Sexual assault,Number,72.0,7.0
+Latvia,2020,1026719.0,15286.0,Intentional homicide,Number,42.0,4.1
+Latvia,2020,1026719.0,15286.0,Rape,Number,90.0,8.8
+Latvia,2020,1026719.0,15286.0,Sexual assault,Number,54.0,5.3
+Lithuania,2012,1620130.0,20099.0,Intentional homicide,Number,53.0,3.3
+Lithuania,2012,1620130.0,20099.0,Rape,Number,135.0,8.3
+Lithuania,2012,1620130.0,20099.0,Sexual assault,Number,130.0,8.0
+Lithuania,2013,1603014.0,20553.0,Intentional homicide,Number,60.0,3.7
+Lithuania,2013,1603014.0,20553.0,Rape,Number,98.0,6.1
+Lithuania,2013,1603014.0,20553.0,Sexual assault,Number,79.0,4.9
+Lithuania,2014,1587477.0,19967.0,Intentional homicide,Number,53.0,3.3
+Lithuania,2014,1587477.0,19967.0,Rape,Number,92.0,5.8
+Lithuania,2014,1587477.0,19967.0,Sexual assault,Number,61.0,3.8
+Lithuania,2015,1575005.0,21060.0,Intentional homicide,Number,49.0,3.1
+Lithuania,2015,1575005.0,21060.0,Rape,Number,94.0,6.0
+Lithuania,2015,1575005.0,21060.0,Sexual assault,Number,57.0,3.6
+Lithuania,2016,1558951.0,20611.0,Intentional homicide,Number,46.0,3.0
+Lithuania,2016,1558951.0,20611.0,Rape,Number,140.0,9.0
+Lithuania,2016,1558951.0,20611.0,Sexual assault,Number,76.0,4.9
+Lithuania,2017,1535718.0,20668.0,Intentional homicide,Number,26.0,1.7
+Lithuania,2017,1535718.0,20668.0,Rape,Number,141.0,9.2
+Lithuania,2017,1535718.0,20668.0,Sexual assault,Number,77.0,5.0
+Lithuania,2018,1511608.0,20376.0,Intentional homicide,Number,17.0,1.1
+Lithuania,2018,1511608.0,20376.0,Rape,Number,91.0,6.0
+Lithuania,2018,1511608.0,20376.0,Sexual assault,Number,21.0,1.4
+Lithuania,2019,1498593.0,19615.0,Intentional homicide,Number,22.0,1.5
+Lithuania,2019,1498593.0,19615.0,Rape,Number,100.0,6.7
+Lithuania,2019,1498593.0,19615.0,Sexual assault,Number,62.0,4.1
+Lithuania,2020,1489736.0,22065.0,Intentional homicide,Number,29.0,1.9
+Lithuania,2020,1489736.0,22065.0,Rape,Number,66.0,4.4
+Lithuania,2020,1489736.0,22065.0,Sexual assault,Number,31.0,2.1
+Luxembourg,2012,263033.0,1965.0,Intentional homicide,Number,0.0,0.0
+Luxembourg,2012,263033.0,1965.0,Rape,Number,74.0,28.1
+Luxembourg,2012,263033.0,1965.0,Sexual assault,Number,258.0,98.1
+Luxembourg,2013,268627.0,1929.0,Intentional homicide,Number,0.0,0.0
+Luxembourg,2013,268627.0,1929.0,Rape,Number,86.0,32.0
+Luxembourg,2013,268627.0,1929.0,Sexual assault,Number,244.0,90.8
+Luxembourg,2014,274563.0,1814.0,Intentional homicide,Number,2.0,0.7
+Luxembourg,2014,274563.0,1814.0,Rape,Number,72.0,26.2
+Luxembourg,2014,274563.0,1814.0,Sexual assault,Number,244.0,88.9
+Luxembourg,2015,280986.0,1999.0,Intentional homicide,Number,1.0,0.4
+Luxembourg,2015,280986.0,1999.0,Rape,Number,63.0,22.4
+Luxembourg,2015,280986.0,1999.0,Sexual assault,Number,225.0,80.1
+Luxembourg,2016,287056.0,1951.0,Intentional homicide,Number,,
+Luxembourg,2016,287056.0,1951.0,Rape,Number,112.0,39.0
+Luxembourg,2016,287056.0,1951.0,Sexual assault,Number,229.0,79.8
+Luxembourg,2017,294026.0,2075.0,Intentional homicide,Number,,
+Luxembourg,2017,294026.0,2075.0,Rape,Number,86.0,29.2
+Luxembourg,2017,294026.0,2075.0,Sexual assault,Number,152.0,51.7
+Luxembourg,2018,299425.0,2043.0,Intentional homicide,Number,,
+Luxembourg,2018,299425.0,2043.0,Rape,Number,,
+Luxembourg,2018,299425.0,2043.0,Sexual assault,Number,,
+Luxembourg,2019,305174.0,2034.0,Intentional homicide,Number,,
+Luxembourg,2019,305174.0,2034.0,Rape,Number,,
+Luxembourg,2019,305174.0,2034.0,Sexual assault,Number,,
+Luxembourg,2020,311144.0,,Intentional homicide,Number,,
+Luxembourg,2020,311144.0,,Rape,Number,,
+Luxembourg,2020,311144.0,,Sexual assault,Number,,
+Malta,2012,209851.0,1686.0,Intentional homicide,Number,3.0,1.4
+Malta,2012,209851.0,1686.0,Rape,Number,12.0,5.7
+Malta,2012,209851.0,1686.0,Sexual assault,Number,64.0,30.5
+Malta,2013,212126.0,1612.0,Intentional homicide,Number,0.0,0.0
+Malta,2013,212126.0,1612.0,Rape,Number,14.0,6.6
+Malta,2013,212126.0,1612.0,Sexual assault,Number,75.0,35.4
+Malta,2014,214891.0,1630.0,Intentional homicide,Number,1.0,0.5
+Malta,2014,214891.0,1630.0,Rape,Number,11.0,5.1
+Malta,2014,214891.0,1630.0,Sexual assault,Number,63.0,29.3
+Malta,2015,219203.0,1725.0,Intentional homicide,Number,2.0,0.9
+Malta,2015,219203.0,1725.0,Rape,Number,23.0,10.5
+Malta,2015,219203.0,1725.0,Sexual assault,Number,66.0,30.1
+Malta,2016,224019.0,1709.0,Intentional homicide,Number,2.0,0.9
+Malta,2016,224019.0,1709.0,Rape,Number,26.0,11.6
+Malta,2016,224019.0,1709.0,Sexual assault,Number,53.0,23.7
+Malta,2017,228634.0,1762.0,Intentional homicide,Number,1.0,0.4
+Malta,2017,228634.0,1762.0,Rape,Number,19.0,8.3
+Malta,2017,228634.0,1762.0,Sexual assault,Number,53.0,23.2
+Malta,2018,235102.0,1838.0,Intentional homicide,Number,4.0,1.7
+Malta,2018,235102.0,1838.0,Rape,Number,18.0,7.7
+Malta,2018,235102.0,1838.0,Sexual assault,Number,70.0,29.8
+Malta,2019,241723.0,1827.0,Intentional homicide,Number,3.0,1.2
+Malta,2019,241723.0,1827.0,Rape,Number,29.0,12.0
+Malta,2019,241723.0,1827.0,Sexual assault,Number,75.0,31.0
+Malta,2020,248802.0,,Intentional homicide,Number,1.0,0.4
+Malta,2020,248802.0,,Rape,Number,19.0,7.6
+Malta,2020,248802.0,,Sexual assault,Number,61.0,24.5
+Netherlands,2012,8447477.0,72906.0,Intentional homicide,Number,50.0,0.6
+Netherlands,2012,8447477.0,72906.0,Rape,Number,,
+Netherlands,2012,8447477.0,72906.0,Sexual assault,Number,,
+Netherlands,2013,8472236.0,72885.0,Intentional homicide,Number,56.0,0.7
+Netherlands,2013,8472236.0,72885.0,Rape,Number,,
+Netherlands,2013,8472236.0,72885.0,Sexual assault,Number,,
+Netherlands,2014,8494904.0,72102.0,Intentional homicide,Number,30.0,0.4
+Netherlands,2014,8494904.0,72102.0,Rape,Number,,
+Netherlands,2014,8494904.0,72102.0,Sexual assault,Number,,
+Netherlands,2015,8527868.0,76105.0,Intentional homicide,Number,42.0,0.5
+Netherlands,2015,8527868.0,76105.0,Rape,Number,,
+Netherlands,2015,8527868.0,76105.0,Sexual assault,Number,,
+Netherlands,2016,8561985.0,76817.0,Intentional homicide,Number,32.0,0.4
+Netherlands,2016,8561985.0,76817.0,Rape,Number,,
+Netherlands,2016,8561985.0,76817.0,Sexual assault,Number,,
+Netherlands,2017,8606405.0,77553.0,Intentional homicide,Number,43.0,0.5
+Netherlands,2017,8606405.0,77553.0,Rape,Number,,
+Netherlands,2017,8606405.0,77553.0,Sexual assault,Number,,
+Netherlands,2018,8654043.0,78841.0,Intentional homicide,Number,36.0,0.4
+Netherlands,2018,8654043.0,78841.0,Rape,Number,,
+Netherlands,2018,8654043.0,78841.0,Sexual assault,Number,,
+Netherlands,2019,8701077.0,77453.0,Intentional homicide,Number,42.0,0.5
+Netherlands,2019,8701077.0,77453.0,Rape,Number,,
+Netherlands,2019,8701077.0,77453.0,Sexual assault,Number,,
+Netherlands,2020,8759554.0,84361.0,Intentional homicide,Number,44.0,0.5
+Netherlands,2020,8759554.0,84361.0,Rape,Number,,
+Netherlands,2020,8759554.0,84361.0,Sexual assault,Number,,
+Netherlands,2021,8788879.0,85203.0,Intentional homicide,Number,37.0,0.4
+Poland,2012,19636496.0,182914.0,Intentional homicide,Number,,
+Poland,2012,19636496.0,182914.0,Rape,Number,,
+Poland,2012,19636496.0,182914.0,Sexual assault,Number,,
+Poland,2013,19636442.0,185852.0,Intentional homicide,Number,,
+Poland,2013,19636442.0,185852.0,Rape,Number,,
+Poland,2013,19636442.0,185852.0,Sexual assault,Number,,
+Poland,2014,19613892.0,180915.0,Intentional homicide,Number,91.0,0.5
+Poland,2014,19613892.0,180915.0,Rape,Number,,
+Poland,2014,19613892.0,180915.0,Sexual assault,Number,,
+Poland,2015,19608451.0,190668.0,Intentional homicide,Number,108.0,0.6
+Poland,2015,19608451.0,190668.0,Rape,Number,,
+Poland,2015,19608451.0,190668.0,Sexual assault,Number,,
+Poland,2016,19590169.0,186068.0,Intentional homicide,Number,71.0,0.4
+Poland,2016,19590169.0,186068.0,Rape,Number,752.0,3.8
+Poland,2016,19590169.0,186068.0,Sexual assault,Number,483.0,2.5
+Poland,2017,19595127.0,195391.0,Intentional homicide,Number,94.0,0.5
+Poland,2017,19595127.0,195391.0,Rape,Number,679.0,3.5
+Poland,2017,19595127.0,195391.0,Sexual assault,Number,420.0,2.1
+Poland,2018,19596388.0,200762.0,Intentional homicide,Number,83.0,0.4
+Poland,2018,19596388.0,200762.0,Rape,Number,730.0,3.7
+Poland,2018,19596388.0,200762.0,Sexual assault,Number,390.0,2.0
+Poland,2019,19592436.0,198530.0,Intentional homicide,Number,80.0,0.4
+Poland,2019,19592436.0,198530.0,Rape,Number,694.0,3.5
+Poland,2019,19592436.0,198530.0,Sexual assault,Number,548.0,2.8
+Poland,2020,19584757.0,227611.0,Intentional homicide,Number,89.0,0.5
+Poland,2020,19584757.0,227611.0,Rape,Number,546.0,2.8
+Poland,2020,19584757.0,227611.0,Sexual assault,Number,321.0,1.6
+Portugal,2012,5511961.0,53256.0,Intentional homicide,Number,,
+Portugal,2012,5511961.0,53256.0,Rape,Number,186.0,3.4
+Portugal,2012,5511961.0,53256.0,Sexual assault,Number,1165.0,21.1
+Portugal,2013,5491592.0,52472.0,Intentional homicide,Number,,
+Portugal,2013,5491592.0,52472.0,Rape,Number,150.0,2.7
+Portugal,2013,5491592.0,52472.0,Sexual assault,Number,1230.0,22.4
+Portugal,2014,5469281.0,51721.0,Intentional homicide,Number,,
+Portugal,2014,5469281.0,51721.0,Rape,Number,169.0,3.1
+Portugal,2014,5469281.0,51721.0,Sexual assault,Number,1240.0,22.7
+Portugal,2015,5451156.0,54529.0,Intentional homicide,Number,,
+Portugal,2015,5451156.0,54529.0,Rape,Number,173.0,3.2
+Portugal,2015,5451156.0,54529.0,Sexual assault,Number,1274.0,23.4
+Portugal,2016,5439821.0,55105.0,Intentional homicide,Number,,
+Portugal,2016,5439821.0,55105.0,Rape,Number,165.0,3.0
+Portugal,2016,5439821.0,55105.0,Sexual assault,Number,1314.0,24.2
+Portugal,2017,5427117.0,54789.0,Intentional homicide,Number,,
+Portugal,2017,5427117.0,54789.0,Rape,Number,183.0,3.4
+Portugal,2017,5427117.0,54789.0,Sexual assault,Number,1363.0,25.1
+Portugal,2018,5423335.0,56475.0,Intentional homicide,Number,,
+Portugal,2018,5423335.0,56475.0,Rape,Number,215.0,4.0
+Portugal,2018,5423335.0,56475.0,Sexual assault,Number,1391.0,25.6
+Portugal,2019,5424251.0,56120.0,Intentional homicide,Number,,
+Portugal,2019,5424251.0,56120.0,Rape,Number,188.0,3.5
+Portugal,2019,5424251.0,56120.0,Sexual assault,Number,1502.0,27.7
+Portugal,2020,5435932.0,,Intentional homicide,Number,,
+Portugal,2020,5435932.0,,Rape,Number,159.0,2.9
+Portugal,2020,5435932.0,,Sexual assault,Number,1397.0,25.7
+Romania,2012,10318889.0,121308.0,Intentional homicide,Number,,
+Romania,2012,10318889.0,121308.0,Rape,Number,,
+Romania,2012,10318889.0,121308.0,Sexual assault,Number,,
+Romania,2013,10258594.0,117935.0,Intentional homicide,Number,,
+Romania,2013,10258594.0,117935.0,Rape,Number,,
+Romania,2013,10258594.0,117935.0,Sexual assault,Number,,
+Romania,2014,10201259.0,120448.0,Intentional homicide,Number,,
+Romania,2014,10201259.0,120448.0,Rape,Number,,
+Romania,2014,10201259.0,120448.0,Sexual assault,Number,,
+Romania,2015,10163573.0,124456.0,Intentional homicide,Number,,
+Romania,2015,10163573.0,124456.0,Rape,Number,,
+Romania,2015,10163573.0,124456.0,Sexual assault,Number,,
+Romania,2016,10110852.0,121895.0,Intentional homicide,Number,,
+Romania,2016,10110852.0,121895.0,Rape,Number,,
+Romania,2016,10110852.0,121895.0,Sexual assault,Number,,
+Romania,2017,10041869.0,124252.0,Intentional homicide,Number,89.0,0.9
+Romania,2017,10041869.0,124252.0,Rape,Number,654.0,6.5
+Romania,2017,10041869.0,124252.0,Sexual assault,Number,53.0,0.5
+Romania,2018,9978614.0,124638.0,Intentional homicide,Number,82.0,0.8
+Romania,2018,9978614.0,124638.0,Rape,Number,557.0,5.6
+Romania,2018,9978614.0,124638.0,Sexual assault,Number,48.0,0.5
+Romania,2019,9914008.0,122451.0,Intentional homicide,Number,71.0,0.7
+Romania,2019,9914008.0,122451.0,Rape,Number,555.0,5.6
+Romania,2019,9914008.0,122451.0,Sexual assault,Number,120.0,1.2
+Romania,2020,9868177.0,,Intentional homicide,Number,96.0,1.0
+Romania,2020,9868177.0,,Rape,Number,680.0,6.9
+Romania,2020,9868177.0,,Sexual assault,Number,130.0,1.3
+Serbia,2012,3702229.0,50402.0,Intentional homicide,Number,38.0,1.0
+Serbia,2012,3702229.0,50402.0,Rape,Number,103.0,2.8
+Serbia,2012,3702229.0,50402.0,Sexual assault,Number,272.0,7.3
+Serbia,2013,3684497.0,49300.0,Intentional homicide,Number,47.0,1.3
+Serbia,2013,3684497.0,49300.0,Rape,Number,72.0,2.0
+Serbia,2013,3684497.0,49300.0,Sexual assault,Number,118.0,3.2
+Serbia,2014,3666896.0,50145.0,Intentional homicide,Number,38.0,1.0
+Serbia,2014,3666896.0,50145.0,Rape,Number,56.0,1.5
+Serbia,2014,3666896.0,50145.0,Sexual assault,Number,159.0,4.3
+Serbia,2015,3649994.0,51432.0,Intentional homicide,Number,31.0,0.8
+Serbia,2015,3649994.0,51432.0,Rape,Number,54.0,1.5
+Serbia,2015,3649994.0,51432.0,Sexual assault,Number,129.0,3.5
+Serbia,2016,3630114.0,50002.0,Intentional homicide,Number,41.0,1.1
+Serbia,2016,3630114.0,50002.0,Rape,Number,49.0,1.3
+Serbia,2016,3630114.0,50002.0,Sexual assault,Number,162.0,4.5
+Serbia,2017,3611245.0,51813.0,Intentional homicide,Number,29.0,0.8
+Serbia,2017,3611245.0,51813.0,Rape,Number,108.0,3.0
+Serbia,2017,3611245.0,51813.0,Sexual assault,Number,197.0,5.5
+Serbia,2018,3590852.0,50533.0,Intentional homicide,Number,28.0,0.8
+Serbia,2018,3590852.0,50533.0,Rape,Number,116.0,3.2
+Serbia,2018,3590852.0,50533.0,Sexual assault,Number,332.0,9.2
+Serbia,2019,3570953.0,50019.0,Intentional homicide,Number,29.0,0.8
+Serbia,2019,3570953.0,50019.0,Rape,Number,124.0,3.5
+Serbia,2019,3570953.0,50019.0,Sexual assault,Number,425.0,11.9
+Serbia,2020,3552066.0,56252.0,Intentional homicide,Number,23.0,0.6
+Serbia,2020,3552066.0,56252.0,Rape,Number,90.0,2.5
+Serbia,2020,3552066.0,56252.0,Sexual assault,Number,377.0,10.6
+Serbia,2021,3525575.0,66714.0,Rape,Number,69.0,2.0
+Slovakia,2012,2772570.0,25491.0,Intentional homicide,Number,17.0,0.6
+Slovakia,2012,2772570.0,25491.0,Rape,Number,,
+Slovakia,2012,2772570.0,25491.0,Sexual assault,Number,,
+Slovakia,2013,2774857.0,25126.0,Intentional homicide,Number,23.0,0.8
+Slovakia,2013,2774857.0,25126.0,Rape,Number,90.0,3.2
+Slovakia,2013,2774857.0,25126.0,Sexual assault,Number,45.0,1.6
+Slovakia,2014,2776889.0,24716.0,Intentional homicide,Number,19.0,0.7
+Slovakia,2014,2776889.0,24716.0,Rape,Number,87.0,3.1
+Slovakia,2014,2776889.0,24716.0,Sexual assault,Number,36.0,1.3
+Slovakia,2015,2779021.0,26243.0,Intentional homicide,Number,14.0,0.5
+Slovakia,2015,2779021.0,26243.0,Rape,Number,87.0,3.1
+Slovakia,2015,2779021.0,26243.0,Sexual assault,Number,53.0,1.9
+Slovakia,2016,2780170.0,25446.0,Intentional homicide,Number,20.0,0.7
+Slovakia,2016,2780170.0,25446.0,Rape,Number,82.0,2.9
+Slovakia,2016,2780170.0,25446.0,Sexual assault,Number,44.0,1.6
+Slovakia,2017,2783659.0,26278.0,Intentional homicide,Number,19.0,0.7
+Slovakia,2017,2783659.0,26278.0,Rape,Number,96.0,3.4
+Slovakia,2017,2783659.0,26278.0,Sexual assault,Number,66.0,2.4
+Slovakia,2018,2786606.0,26371.0,Intentional homicide,Number,26.0,0.9
+Slovakia,2018,2786606.0,26371.0,Rape,Number,99.0,3.6
+Slovakia,2018,2786606.0,26371.0,Sexual assault,Number,55.0,2.0
+Slovakia,2019,2789344.0,25658.0,Intentional homicide,Number,15.0,0.5
+Slovakia,2019,2789344.0,25658.0,Rape,Number,95.0,3.4
+Slovakia,2019,2789344.0,25658.0,Sexual assault,Number,51.0,1.8
+Slovakia,2020,2792523.0,28478.0,Intentional homicide,Number,28.0,1.0
+Slovakia,2020,2792523.0,28478.0,Rape,Number,93.0,3.3
+Slovakia,2020,2792523.0,28478.0,Sexual assault,Number,44.0,1.6
+Slovenia,2012,1038765.0,9831.0,Intentional homicide,Number,6.0,0.6
+Slovenia,2012,1038765.0,9831.0,Rape,Number,44.0,4.2
+Slovenia,2012,1038765.0,9831.0,Sexual assault,Number,39.0,3.8
+Slovenia,2013,1039760.0,9760.0,Intentional homicide,Number,3.0,0.3
+Slovenia,2013,1039760.0,9760.0,Rape,Number,49.0,4.7
+Slovenia,2013,1039760.0,9760.0,Sexual assault,Number,43.0,4.1
+Slovenia,2014,1040211.0,9614.0,Intentional homicide,Number,6.0,0.6
+Slovenia,2014,1040211.0,9614.0,Rape,Number,39.0,3.7
+Slovenia,2014,1040211.0,9614.0,Sexual assault,Number,41.0,3.9
+Slovenia,2015,1040645.0,10067.0,Intentional homicide,Number,11.0,1.1
+Slovenia,2015,1040645.0,10067.0,Rape,Number,41.0,3.9
+Slovenia,2015,1040645.0,10067.0,Sexual assault,Number,28.0,2.7
+Slovenia,2016,1040855.0,9949.0,Intentional homicide,Number,2.0,0.2
+Slovenia,2016,1040855.0,9949.0,Rape,Number,28.0,2.7
+Slovenia,2016,1040855.0,9949.0,Sexual assault,Number,38.0,3.7
+Slovenia,2017,1040770.0,10244.0,Intentional homicide,Number,9.0,0.9
+Slovenia,2017,1040770.0,10244.0,Rape,Number,40.0,3.8
+Slovenia,2017,1040770.0,10244.0,Sexual assault,Number,39.0,3.7
+Slovenia,2018,1039839.0,10199.0,Intentional homicide,Number,5.0,0.5
+Slovenia,2018,1039839.0,10199.0,Rape,Number,32.0,3.1
+Slovenia,2018,1039839.0,10199.0,Sexual assault,Number,29.0,2.8
+Slovenia,2019,1042252.0,10266.0,Intentional homicide,Number,4.0,0.4
+Slovenia,2019,1042252.0,10266.0,Rape,Number,36.0,3.5
+Slovenia,2019,1042252.0,10266.0,Sexual assault,Number,36.0,3.5
+Slovenia,2020,1044795.0,12091.0,Intentional homicide,Number,6.0,0.6
+Slovenia,2020,1044795.0,12091.0,Rape,Number,41.0,3.9
+Slovenia,2020,1044795.0,12091.0,Sexual assault,Number,36.0,3.4
+Slovenia,2021,1049039.0,11420.0,Intentional homicide,Number,6.0,0.6
+Slovenia,2021,1049039.0,11420.0,Rape,Number,55.0,5.2
+Slovenia,2021,1049039.0,11420.0,Sexual assault,Number,43.0,4.1
+Spain,2012,23719207.0,197030.0,Intentional homicide,Number,124.0,0.5
+Spain,2012,23719207.0,197030.0,Rape,Number,923.0,3.9
+Spain,2012,23719207.0,197030.0,Sexual assault,Number,5864.0,24.7
+Spain,2013,23710130.0,190585.0,Intentional homicide,Number,121.0,0.5
+Spain,2013,23710130.0,190585.0,Rape,Number,1237.0,5.2
+Spain,2013,23710130.0,190585.0,Sexual assault,Number,5864.0,24.7
+Spain,2014,23634738.0,194259.0,Intentional homicide,Number,127.0,0.5
+Spain,2014,23634738.0,194259.0,Rape,Number,1207.0,5.1
+Spain,2014,23634738.0,194259.0,Sexual assault,Number,7057.0,29.9
+Spain,2015,23623019.0,209259.0,Intentional homicide,Number,121.0,0.5
+Spain,2015,23623019.0,209259.0,Rape,Number,1245.0,5.3
+Spain,2015,23623019.0,209259.0,Sexual assault,Number,7675.0,32.5
+Spain,2016,23632635.0,201618.0,Intentional homicide,Number,113.0,0.5
+Spain,2016,23632635.0,201618.0,Rape,Number,1273.0,5.4
+Spain,2016,23632635.0,201618.0,Sexual assault,Number,7333.0,31.0
+Spain,2017,23693426.0,210287.0,Intentional homicide,Number,113.0,0.5
+Spain,2017,23693426.0,210287.0,Rape,Number,1431.0,6.0
+Spain,2017,23693426.0,210287.0,Sexual assault,Number,9255.0,39.1
+Spain,2018,23776565.0,211279.0,Intentional homicide,Number,117.0,0.5
+Spain,2018,23776565.0,211279.0,Rape,Number,1680.0,7.1
+Spain,2018,23776565.0,211279.0,Sexual assault,Number,9388.0,39.5
+Spain,2019,23927801.0,206020.0,Intentional homicide,Number,126.0,0.5
+Spain,2019,23927801.0,206020.0,Rape,Number,1550.0,6.5
+Spain,2019,23927801.0,206020.0,Sexual assault,Number,10100.0,42.2
+Spain,2020,24133301.0,244112.0,Intentional homicide,Number,119.0,0.5
+Spain,2020,24133301.0,244112.0,Rape,Number,1384.0,5.7
+Spain,2020,24133301.0,244112.0,Sexual assault,Number,7856.0,32.6
+Spain,2021,24171413.0,219240.0,Intentional homicide,Number,108.0,0.4
+Spain,2021,24171413.0,219240.0,Rape,Number,1774.0,7.3
+Spain,2021,24171413.0,219240.0,Sexual assault,Number,2079.0,8.6
+Sweden,2012,4756021.0,47653.0,Intentional homicide,Number,21.0,0.4
+Sweden,2012,4756021.0,47653.0,Rape,Number,5915.0,124.4
+Sweden,2012,4756021.0,47653.0,Sexual assault,Number,804.0,16.9
+Sweden,2013,4789988.0,46742.0,Intentional homicide,Number,26.0,0.5
+Sweden,2013,4789988.0,46742.0,Rape,Number,5614.0,117.2
+Sweden,2013,4789988.0,46742.0,Sexual assault,Number,919.0,19.2
+Sweden,2014,4830507.0,45594.0,Intentional homicide,Number,25.0,0.5
+Sweden,2014,4830507.0,45594.0,Rape,Number,6304.0,130.5
+Sweden,2014,4830507.0,45594.0,Sexual assault,Number,9170.0,189.8
+Sweden,2015,4875115.0,46422.0,Intentional homicide,Number,29.0,0.6
+Sweden,2015,4875115.0,46422.0,Rape,Number,5461.0,112.0
+Sweden,2015,4875115.0,46422.0,Sexual assault,Number,8173.0,167.6
+Sweden,2016,4920051.0,46561.0,Intentional homicide,Number,29.0,0.6
+Sweden,2016,4920051.0,46561.0,Rape,Number,5819.0,118.3
+Sweden,2016,4920051.0,46561.0,Sexual assault,Number,9706.0,197.3
+Sweden,2017,4981806.0,47116.0,Intentional homicide,Number,27.0,0.5
+Sweden,2017,4981806.0,47116.0,Rape,Number,6438.0,129.2
+Sweden,2017,4981806.0,47116.0,Sexual assault,Number,10162.0,204.0
+Sweden,2018,5037580.0,46769.0,Intentional homicide,Number,33.0,0.7
+Sweden,2018,5037580.0,46769.0,Rape,Number,7076.0,140.5
+Sweden,2018,5037580.0,46769.0,Sexual assault,Number,9974.0,198.0
+Sweden,2019,5087747.0,44740.0,Intentional homicide,Number,25.0,0.5
+Sweden,2019,5087747.0,44740.0,Rape,Number,7638.0,150.1
+Sweden,2019,5087747.0,44740.0,Sexual assault,Number,9816.0,192.9
+Sweden,2020,5131775.0,48743.0,Intentional homicide,Number,25.0,0.5
+Sweden,2020,5131775.0,48743.0,Rape,Number,8267.0,161.1
+Sweden,2020,5131775.0,48743.0,Sexual assault,Number,10144.0,197.7
+Sweden,2021,5156448.0,45474.0,Intentional homicide,Number,24.0,0.5
